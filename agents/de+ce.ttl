@@ -1,0 +1,51 @@
+<https://stad.gent/id/agent/670000597/2022-01-01T04:20:23.552Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000597>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:20:23.552Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1894_7, _:df_1894_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "de Ceuckeleire";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Ceuckeleire";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1894_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0580"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1894_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000597"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000597/2022-01-01T04:20:23.552Z>.
+<https://stad.gent/id/agent/670000598/2022-01-01T04:20:28.555Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000598>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:20:28.555Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1894_11, _:df_1894_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Ceulenaere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Ceulenaere, Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1894_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0581"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1894_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000598"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000598/2022-01-01T04:20:28.555Z>.
+<https://stad.gent/id/agent/530022055/2021-12-31T20:48:05.740Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022055>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:48:05.740Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3283_23, _:df_3283_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3283_26;
+    <http://xmlns.com/foaf/0.1/givenName> "Maarten";
+    <http://xmlns.com/foaf/0.1/familyName> "De Ceulaer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Ceulaer, Maarten";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3283_29;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3283_29 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3283_26 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1893"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3283_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02554"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3283_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022055"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022055/2021-12-31T20:48:05.740Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/de+ce.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/de+ce.ttl>.

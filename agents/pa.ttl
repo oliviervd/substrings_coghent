@@ -1,0 +1,367 @@
+<https://stad.gent/id/agent/670002025/2022-01-01T06:19:35.850Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002025>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:19:35.850Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1042_15, _:df_1042_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Justine Philippine";
+    <http://xmlns.com/foaf/0.1/familyName> "Papejans";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Papejans, Justine Philippine";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1042_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2008"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1042_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002025"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002025/2022-01-01T06:19:35.850Z>.
+<https://stad.gent/id/agent/670001998/2022-01-01T06:17:20.137Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001998>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:17:20.137Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1057_2, _:df_1057_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Pauwels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pauwels, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1057_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1981"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1057_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001998"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001998/2022-01-01T06:17:20.137Z>.
+<https://stad.gent/id/agent/670001999/2022-01-01T06:17:25.139Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001999>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:17:25.139Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1057_7, _:df_1057_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Pauwels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pauwels";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1057_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1982"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1057_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001999"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001999/2022-01-01T06:17:25.139Z>.
+<https://stad.gent/id/agent/670002000/2022-01-01T06:17:30.141Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002000>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:17:30.141Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1057_11, _:df_1057_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Paie";
+    <http://xmlns.com/foaf/0.1/familyName> "Pauwels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pauwels, Paie";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1057_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1983"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1057_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002000"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002000/2022-01-01T06:17:30.141Z>.
+<https://stad.gent/id/agent/670002001/2022-01-01T06:17:35.143Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002001>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:17:35.143Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1057_16, _:df_1057_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frederycq";
+    <http://xmlns.com/foaf/0.1/familyName> "Pauwels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pauwels, Frederycq";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1057_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1984"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1057_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002001"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002001/2022-01-01T06:17:35.143Z>.
+<https://stad.gent/id/agent/670002002/2022-01-01T06:17:40.144Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:17:40.144Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1057_21, _:df_1057_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Payin";
+    <http://xmlns.com/foaf/0.1/familyName> "Pauwels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pauwels, Payin";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1057_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1985"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1057_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002002"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002002/2022-01-01T06:17:40.144Z>.
+<https://stad.gent/id/agent/670001993/2022-01-01T06:16:54.854Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001993>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:16:54.854Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1060_2, _:df_1060_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "David";
+    <http://xmlns.com/foaf/0.1/familyName> "Paresien";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Paresien, David";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1060_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1976"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1060_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001993"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001993/2022-01-01T06:16:54.854Z>.
+<https://stad.gent/id/agent/670001994/2022-01-01T06:16:59.855Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001994>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:16:59.855Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1060_12, _:df_1060_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Parijn";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Parijn";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1060_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1977"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1060_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001994"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001994/2022-01-01T06:16:59.855Z>.
+<https://stad.gent/id/agent/670001995/2022-01-01T06:17:04.856Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001995>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:17:04.856Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1060_19, _:df_1060_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Paternot";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Paternot, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1060_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1978"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1060_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001995"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001995/2022-01-01T06:17:04.856Z>.
+<https://stad.gent/id/agent/670001996/2022-01-01T06:17:09.858Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001996>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:17:09.858Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1060_24, _:df_1060_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Pattheet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pattheet, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1060_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1979"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1060_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001996"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001996/2022-01-01T06:17:09.858Z>.
+<https://stad.gent/id/agent/670001997/2022-01-01T06:17:15.135Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001997>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:17:15.135Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1060_29, _:df_1060_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Paul";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Paul, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1060_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1980"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1060_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001997"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001997/2022-01-01T06:17:15.135Z>.
+<https://stad.gent/id/agent/670001988/2022-01-01T06:16:29.845Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001988>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:16:29.845Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1063_2, _:df_1063_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Benoit";
+    <http://xmlns.com/foaf/0.1/familyName> "Papeleu";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Papeleu, Benoit";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1063_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1971"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1063_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001988"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001988/2022-01-01T06:16:29.845Z>.
+<https://stad.gent/id/agent/670001989/2022-01-01T06:16:34.847Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001989>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:16:34.847Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1063_7, _:df_1063_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "Papeleu";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Papeleu, Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1063_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1972"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1063_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001989"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001989/2022-01-01T06:16:34.847Z>.
+<https://stad.gent/id/agent/670001990/2022-01-01T06:16:39.849Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001990>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:16:39.849Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1063_12, _:df_1063_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Denijs";
+    <http://xmlns.com/foaf/0.1/familyName> "Papeleu";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Papeleu, Denijs";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1063_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1973"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1063_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001990"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001990/2022-01-01T06:16:39.849Z>.
+<https://stad.gent/id/agent/670001991/2022-01-01T06:16:44.850Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001991>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:16:44.850Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1063_20, _:df_1063_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anne Therese";
+    <http://xmlns.com/foaf/0.1/familyName> "Papeleu";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Papeleu, Anne Therese";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1063_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1974"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1063_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001991"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001991/2022-01-01T06:16:44.850Z>.
+<https://stad.gent/id/agent/670001992/2022-01-01T06:16:49.853Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001992>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:16:49.853Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1063_25, _:df_1063_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Emanuel";
+    <http://xmlns.com/foaf/0.1/familyName> "Parcq";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Parcq, Emanuel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1063_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1975"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1063_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001992"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001992/2022-01-01T06:16:49.853Z>.
+<https://stad.gent/id/agent/670001983/2022-01-01T06:16:04.524Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001983>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:16:04.524Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1066_2, _:df_1066_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Clare Franchoise Gregoria";
+    <http://xmlns.com/foaf/0.1/familyName> "Papejans";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Papejans, Clare Franchoise Gregoria";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1066_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1966"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1066_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001983"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001983/2022-01-01T06:16:04.524Z>.
+<https://stad.gent/id/agent/670001984/2022-01-01T06:16:09.527Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001984>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:16:09.527Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1066_7, _:df_1066_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Marianne";
+    <http://xmlns.com/foaf/0.1/familyName> "Papejans";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Papejans, Marianne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1066_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1967"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1066_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001984"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001984/2022-01-01T06:16:09.527Z>.
+<https://stad.gent/id/agent/670001985/2022-01-01T06:16:14.529Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001985>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:16:14.529Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1066_12, _:df_1066_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Philippe";
+    <http://xmlns.com/foaf/0.1/familyName> "Papejans de Monchove";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Papejans de Monchove, Philippe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1066_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1968"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1066_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001985"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001985/2022-01-01T06:16:14.529Z>.
+<https://stad.gent/id/agent/670001986/2022-01-01T06:16:19.532Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001986>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:16:19.532Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1066_17, _:df_1066_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Dionisius Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "Papeleu";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Papeleu, Dionisius Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1066_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1969"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1066_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001986"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001986/2022-01-01T06:16:19.532Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/pa.ttl> <https://w3id.org/tree#relation> _:df_1_516.
+_:df_1_516 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/pap.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "pap".
+<https://oliviervd.github.io/substrings_coghent/agents/pa.ttl> <https://w3id.org/tree#relation> _:df_1_517.
+_:df_1_517 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/pac.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "pac".
+<https://oliviervd.github.io/substrings_coghent/agents/pa.ttl> <https://w3id.org/tree#relation> _:df_1_518.
+_:df_1_518 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/pae.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "pae".
+<https://oliviervd.github.io/substrings_coghent/agents/pa.ttl> <https://w3id.org/tree#relation> _:df_1_519.
+_:df_1_519 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/pal.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "pal".
+<https://oliviervd.github.io/substrings_coghent/agents/pa.ttl> <https://w3id.org/tree#relation> _:df_1_520.
+_:df_1_520 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/pag.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "pag".
+<https://oliviervd.github.io/substrings_coghent/agents/pa.ttl> <https://w3id.org/tree#relation> _:df_1_521.
+_:df_1_521 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/pat.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "pat".
+<https://oliviervd.github.io/substrings_coghent/agents/pa.ttl> <https://w3id.org/tree#relation> _:df_1_522.
+_:df_1_522 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/pas.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "pas".
+<https://oliviervd.github.io/substrings_coghent/agents/pa.ttl> <https://w3id.org/tree#relation> _:df_1_523.
+_:df_1_523 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/par.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "par".
+<https://oliviervd.github.io/substrings_coghent/agents/pa.ttl> <https://w3id.org/tree#relation> _:df_1_524.
+_:df_1_524 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/paw.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "paw".
+<https://oliviervd.github.io/substrings_coghent/agents/pa.ttl> <https://w3id.org/tree#relation> _:df_1_525.
+_:df_1_525 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/paq.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "paq".
+<https://oliviervd.github.io/substrings_coghent/agents/pa.ttl> <https://w3id.org/tree#relation> _:df_1_526.
+_:df_1_526 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/pau.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "pau".
+<https://oliviervd.github.io/substrings_coghent/agents/pa.ttl> <https://w3id.org/tree#relation> _:df_1_527.
+_:df_1_527 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/pan.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "pan".
+<https://oliviervd.github.io/substrings_coghent/agents/pa.ttl> <https://w3id.org/tree#relation> _:df_1_528.
+_:df_1_528 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/pao.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "pao".
+<https://oliviervd.github.io/substrings_coghent/agents/pa.ttl> <https://w3id.org/tree#relation> _:df_1_529.
+_:df_1_529 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/pam.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "pam".
+<https://oliviervd.github.io/substrings_coghent/agents/pa.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/pa.ttl>.

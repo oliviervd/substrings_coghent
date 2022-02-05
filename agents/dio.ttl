@@ -1,0 +1,58 @@
+<https://stad.gent/id/agent/530016803/2021-12-31T18:50:59.089Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016803>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:50:59.089Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3805_25, _:df_3805_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3805_29;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3805_31;
+    <http://xmlns.com/foaf/0.1/givenName> "Christian";
+    <http://xmlns.com/foaf/0.1/familyName> "Dior";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dior, Christian";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500073211>, <https://www.wikidata.org/entity/Q159694>, <https://rkd.nl/explore/artists/267962>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3805_35;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3805_35 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_3805_31 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1957-10-23"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006308>.
+<http://vocab.getty.edu/tgn/7006308> a <http://purl.org/dc/terms/Location>.
+_:df_3805_29 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1905-01-02"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009218>.
+<http://vocab.getty.edu/tgn/7009218> a <http://purl.org/dc/terms/Location>.
+_:df_3805_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01690"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3805_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016803"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016803/2021-12-31T18:50:59.089Z>.
+<https://stad.gent/id/agent/530000207/2021-12-31T15:52:07.297Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000207>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:52:07.297Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4804_31, _:df_4804_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4804_35;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4804_36;
+    <http://xmlns.com/foaf/0.1/givenName> "Carmen";
+    <http://xmlns.com/foaf/0.1/familyName> "Dionyse";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dionyse, Carmen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q22235955>, <https://rkd.nl/explore/artists/23248>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4804_40;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4804_40 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4804_36 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2013-10-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4804_35 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1921-03-19"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4804_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00028"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4804_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000207"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000207/2021-12-31T15:52:07.297Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/dio.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/dio.ttl>.

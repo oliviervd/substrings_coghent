@@ -1,0 +1,45 @@
+<https://stad.gent/id/agent/530021920/2021-12-31T20:40:17.485Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021920>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:40:17.485Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3334_2, _:df_3334_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3334_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rey-Ainé";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/90869>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3334_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1851"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7255680>.
+<http://vocab.getty.edu/tgn/7255680> a <http://purl.org/dc/terms/Location>.
+_:df_3334_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02465"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3334_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021920"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021920/2021-12-31T20:40:17.485Z>.
+<https://stad.gent/id/agent/530001097/2021-12-31T16:53:06.426Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001097>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:53:06.426Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4453_24, _:df_4453_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4453_27;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4453_28;
+    <http://xmlns.com/foaf/0.1/givenName> "Jule";
+    <http://xmlns.com/foaf/0.1/familyName> "Reybaud";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Reybaud, Jule";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500165965>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4453_32;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4453_32 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_4453_28 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1868"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4453_27 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1807"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4453_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00611"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4453_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001097"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001097/2021-12-31T16:53:06.426Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/rey.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/rey.ttl>.

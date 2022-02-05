@@ -1,0 +1,40 @@
+<https://stad.gent/id/agent/530023233/2021-12-31T21:12:26.379Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023233>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:12:26.379Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3160_19, _:df_3160_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "L.";
+    <http://xmlns.com/foaf/0.1/familyName> "Oury";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Oury, L.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3160_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02757"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3160_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023233"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023233/2021-12-31T21:12:26.379Z>.
+<https://stad.gent/id/agent/530013484/2021-12-31T18:10:52.433Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:10:52.433Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4015_12, _:df_4015_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Outlook Zelco";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4015_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01339"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4015_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013484/2021-12-31T18:10:52.433Z>.
+<https://stad.gent/id/agent/530001126/2021-12-31T16:54:27.064Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001126>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:54:27.064Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4444_32, _:df_4444_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Oude Meubelfabriek Kindt";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4444_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00627"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4444_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001126"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001126/2021-12-31T16:54:27.064Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/ou.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/ou.ttl>.

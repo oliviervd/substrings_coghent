@@ -1,0 +1,63 @@
+<https://stad.gent/id/agent/670003007/2022-01-01T07:41:10.571Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003007>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:41:10.571Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_457_2, _:df_457_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Velleberghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Velleberghe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_457_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2990"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_457_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003007"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003007/2022-01-01T07:41:10.571Z>.
+<https://stad.gent/id/agent/670003006/2022-01-01T07:41:05.570Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003006>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:41:05.570Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_460_25, _:df_460_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Velge";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Velge, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_460_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2989"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_460_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003006"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003006/2022-01-01T07:41:05.570Z>.
+<https://stad.gent/id/agent/570028178/2022-01-01T02:22:30.755Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028178>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:22:30.755Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2605_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Velos";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2605_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028178"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028178/2022-01-01T02:22:30.755Z>.
+<https://stad.gent/id/agent/530001368/2021-12-31T17:08:17.809Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001368>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:08:17.809Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4345_15, _:df_4345_17;
+    <http://www.w3.org/2004/02/skos/core#note> "http://www.keramiksammler.de/onlineshop_neu/index.html?jugendstil_bis_20er_jahre.htm";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4345_19;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4345_21;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Velten Vordamm Steingutfabrik";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q48755937>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4345_21 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1930"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1037892>.
+<http://vocab.getty.edu/tgn/1037892> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4345_19 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1910"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1037892>.
+_:df_4345_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00792"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4345_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001368"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001368/2021-12-31T17:08:17.809Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/vel.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/vel.ttl>.

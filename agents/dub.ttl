@@ -1,0 +1,63 @@
+<https://stad.gent/id/agent/670001228/2022-01-01T05:13:11.943Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001228>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:13:11.943Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1516_2, _:df_1516_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Dubois";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dubois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1516_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1211"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1516_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001228"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001228/2022-01-01T05:13:11.943Z>.
+<https://stad.gent/id/agent/570031190/2022-01-01T03:08:59.750Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570031190>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:08:59.750Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2320_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dubois Fils";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2320_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570031190"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570031190/2022-01-01T03:08:59.750Z>.
+<https://stad.gent/id/agent/570020355/2022-01-01T01:59:11.596Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020355>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:59:11.596Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2767_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Duboccage Eugène";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2767_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020355"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020355/2022-01-01T01:59:11.596Z>.
+<https://stad.gent/id/agent/530000903/2021-12-31T16:40:01.144Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000903>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:40:01.144Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4546_14, _:df_4546_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4546_18;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4546_19;
+    <http://xmlns.com/foaf/0.1/givenName> "Louis";
+    <http://xmlns.com/foaf/0.1/familyName> "Dubar";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dubar, Louis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500197503>, <https://www.wikidata.org/entity/Q21645344>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4546_23;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4546_23 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4546_19 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1951"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4546_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1876"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4546_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00455"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4546_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000903"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000903/2021-12-31T16:40:01.144Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/dub.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/dub.ttl>.

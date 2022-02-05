@@ -1,0 +1,361 @@
+<https://stad.gent/id/agent/570030391/2022-01-01T03:00:36.282Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030391>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:00:36.282Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2374_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Studio Simar-Stevens";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2374_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030391"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030391/2022-01-01T03:00:36.282Z>.
+<https://stad.gent/id/agent/530024195/2021-12-31T22:05:41.713Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T22:05:41.713Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2926_2, _:df_2926_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Studio Sabine Marcelis";
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2926_6;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2926_6 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_2926_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03193"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2926_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024195"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024195/2021-12-31T22:05:41.713Z>.
+<https://stad.gent/id/agent/530024099/2021-12-31T21:59:19.083Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024099>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:59:19.083Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2953_2, _:df_2953_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2953_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2953_8;
+    <http://xmlns.com/foaf/0.1/givenName> "William";
+    <http://xmlns.com/foaf/0.1/familyName> "Stumpf";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stumpf, William";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q55219834>, <https://www.wikidata.org/entity/Q4911047>, <http://vocab.getty.edu/ulan/500036942>, <http://vocab.getty.edu/ulan/500460714>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2953_15;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2953_15 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amerikaans"@nl.
+_:df_2953_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2006-08-30"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/2055340>.
+<http://vocab.getty.edu/tgn/2055340> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_2953_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1936-03-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7014444>.
+<http://vocab.getty.edu/tgn/7014444> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_2953_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03146"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2953_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024099"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024099/2021-12-31T21:59:19.083Z>.
+<https://stad.gent/id/agent/530024105/2021-12-31T21:59:39.396Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024105>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:59:39.396Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2953_29, _:df_2953_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2953_33;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2953_35;
+    <http://xmlns.com/foaf/0.1/givenName> "Bill";
+    <http://xmlns.com/foaf/0.1/familyName> "Stumpf";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stumpf, Bill";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q55219834>, <https://www.wikidata.org/entity/Q4911047>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2953_42;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2953_42 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amerikaans"@nl.
+_:df_2953_35 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2006-08-30"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/2055340>.
+<http://vocab.getty.edu/tgn/2055340> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_2953_33 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1936-03-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7014444>.
+<http://vocab.getty.edu/tgn/7014444> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_2953_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02955"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2953_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024105"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024105/2021-12-31T21:59:39.396Z>.
+<https://stad.gent/id/agent/530023978/2021-12-31T21:50:50.901Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023978>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:50:50.901Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2983_33, _:df_2983_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Studio Novio";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2983_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03089"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2983_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023978"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023978/2021-12-31T21:50:50.901Z>.
+<https://stad.gent/id/agent/530023797/2021-12-31T21:42:13.041Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023797>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:42:13.041Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2998_29, _:df_2998_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Stuyvaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stuyvaert, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2998_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03028"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2998_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023797"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023797/2021-12-31T21:42:13.041Z>.
+<https://stad.gent/id/agent/530023389/2021-12-31T21:23:35.790Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023389>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:23:35.790Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3088_30, _:df_3088_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3088_34;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Studio Gruppo 14";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3088_34 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>.
+_:df_3088_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02879"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3088_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023389"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023389/2021-12-31T21:23:35.790Z>.
+<https://stad.gent/id/agent/530023242/2021-12-31T21:13:11.399Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023242>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:13:11.399Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3154_7, _:df_3154_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3154_11;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3154_13;
+    <http://xmlns.com/foaf/0.1/givenName> "Victor";
+    <http://xmlns.com/foaf/0.1/familyName> "Stuyvaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stuyvaert, Victor";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/75987>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3154_17;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3154_17 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3154_13 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1974"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3154_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1897"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_3154_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02766"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3154_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023242"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023242/2021-12-31T21:13:11.399Z>.
+<https://stad.gent/id/agent/530022833/2021-12-31T20:56:08.613Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022833>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:56:08.613Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3241_21, _:df_3241_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3241_25;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Studio Wieki Somers";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3241_25 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2003"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006792>.
+<http://vocab.getty.edu/tgn/7006792> a <http://purl.org/dc/terms/Location>.
+_:df_3241_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02623"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3241_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022833"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022833/2021-12-31T20:56:08.613Z>.
+<https://stad.gent/id/agent/530022048/2021-12-31T20:47:45.462Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022048>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:47:45.462Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3283_2, _:df_3283_4;
+    <http://www.w3.org/2004/02/skos/core#note> "1934 gründete Hans Goltermann in Stuttgart eine Gardinenfabrik. 1938 erwarb er auch eine Weberei in Lengenfeld/Sachsen. Im selben Jahr richtete er ein eigenes Entwurfsatelier ein, das unter der Leitung von Margret Hildebrand, spätere Professorin an der Hochschule für Bildende Künste in Hamburg, einen eigenen unverwechselbaren Kollektionsstil schuf. Nach der vollständigen Zerstörung der Geschäftsräume in Stuttgart 1944 und der Enteignung des Betriebs in Lengenfeld erfolgte der stufenweise Wiederaufbau des Betriebs in Herrenberg. Ab 1963 übernahm Antoinette de Boer, eine Meisterschülerein von Margret Hildebrand, die Leitung des Entwurfsateliers. Die Produkte - Vorhangstoffe, Gardinen und Möbelstoffe - wurden erfolgreich verkauft und für ihr gutes Design prämiert. So erhielt die Firma auf der IX.Triennale in Mailand 1951 eine Goldmedaille. 1999 mußte das Unternehmen Konkurs anmelden.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3283_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3283_8;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stuttgarter Gardinenfabrik";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3283_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2010"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012504>.
+<http://vocab.getty.edu/tgn/7012504> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3283_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1940"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012504>.
+_:df_3283_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02550"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3283_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022048"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022048/2021-12-31T20:47:45.462Z>.
+<https://stad.gent/id/agent/530022034/2021-12-31T20:47:10.163Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022034>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:47:10.163Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3289_17, _:df_3289_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Studio Simple";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3289_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02543"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3289_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022034"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022034/2021-12-31T20:47:10.163Z>.
+<https://stad.gent/id/agent/530021917/2021-12-31T20:40:02.480Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021917>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:40:02.480Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3337_21, _:df_3337_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3337_24;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Studio Swine";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3337_24 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2011"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3337_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02463"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3337_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021917"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021917/2021-12-31T20:40:02.480Z>.
+<https://stad.gent/id/agent/530020033/2021-12-31T19:40:13.805Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020033>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:40:13.805Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3667_2, _:df_3667_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "studio taschide";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3667_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01912"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3667_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020033"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020033/2021-12-31T19:40:13.805Z>.
+<https://stad.gent/id/agent/530016832/2021-12-31T18:52:54.760Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016832>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:52:54.760Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3793_9, _:df_3793_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3793_13;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Studio Pieter Stockmans";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3793_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1987"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007886>.
+<http://vocab.getty.edu/tgn/7007886> a <http://purl.org/dc/terms/Location>.
+_:df_3793_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01708"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3793_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016832"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016832/2021-12-31T18:52:54.760Z>.
+<https://stad.gent/id/agent/530016769/2021-12-31T18:48:48.010Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016769>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:48:48.010Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3817_21, _:df_3817_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Adriano";
+    <http://xmlns.com/foaf/0.1/familyName> "Stucchi";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stucchi, Adriano";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3817_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01669"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3817_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016769"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016769/2021-12-31T18:48:48.010Z>.
+<https://stad.gent/id/agent/530016684/2021-12-31T18:45:01.783Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016684>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:45:01.783Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3832_9, _:df_3832_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Studio Claerhout";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3832_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01642"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3832_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016684"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016684/2021-12-31T18:45:01.783Z>.
+<https://stad.gent/id/agent/530016553/2021-12-31T18:37:43.894Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016553>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:37:43.894Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3874_27, _:df_3874_29;
+    <http://www.w3.org/2004/02/skos/core#note> "Begin 1925 gingen de gebroeders Luc en Paul Haesaerts, neergestreken in “Auberge De Vos” op het dorpsplein, zich associëren met de gezusters De Saedeleer onder de naam “Société de Tapis d’Art De Saedeleer et Co”, ook wel “Studio De Saedeleer” genoemd.\r\nDe uitbreiding van het atelier halverwege tussen het dorpsplein en de villa Tynlon werd op 12 september 1926 gevierd met een groot feest op het dorpsplein te Etikhove. \r\nVanaf 1927 gaat Elisabeth De Saedeleer op vraag van directeur en architect Henry Van de Velde de leiding op zich nemen van de Textielkunst-afdeling aan het “Hoger Instituut voor Sierkunsten” te Brussel.Vanaf 1927 gaat Elisabeth De Saedeleer op vraag van directeur en architect Henry Van de Velde de leiding op zich nemen van de Textielkunst-afdeling aan het “Hoger Instituut voor Sierkunsten” te Brussel. \r\nWanneer de gebroeders Haesaerts in 1929 ook naar Brussel verhuizen, viel het atelier te Etikhove stil.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3874_31;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3874_32;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Studio de Saedeleer";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3874_32 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1929"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3874_31 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1925"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7031666>.
+<http://vocab.getty.edu/tgn/7031666> a <http://purl.org/dc/terms/Location>.
+_:df_3874_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01575"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3874_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016553"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016553/2021-12-31T18:37:43.894Z>.
+<https://stad.gent/id/agent/530013700/2021-12-31T18:24:53.893Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013700>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:24:53.893Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3931_20, _:df_3931_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3931_23;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Studio Opi";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q77353970>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3931_26;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3931_26 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_3931_23 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1955"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3931_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01480"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3931_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013700"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013700/2021-12-31T18:24:53.893Z>.
+<https://stad.gent/id/agent/530001799/2021-12-31T17:34:18.016Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001799>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:34:18.016Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4159_30, _:df_4159_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4159_33;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Studio Cisotti Laube";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4159_33 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1991"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4159_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01101"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4159_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001799"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001799/2021-12-31T17:34:18.016Z>.
+<https://stad.gent/id/agent/530001501/2021-12-31T17:16:00.645Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001501>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:16:00.645Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4288_2, _:df_4288_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4288_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Studio Alchimia";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500205287>, <https://www.wikidata.org/entity/Q2011880>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4288_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1976"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>.
+_:df_4288_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00883"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4288_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001501"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001501/2021-12-31T17:16:00.645Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/stu.ttl> <https://w3id.org/tree#relation> _:df_1_1441.
+_:df_1_1441 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/stud.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "stud".
+<https://oliviervd.github.io/substrings_coghent/agents/stu.ttl> <https://w3id.org/tree#relation> _:df_1_1442.
+_:df_1_1442 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/stuu.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "stuu".
+<https://oliviervd.github.io/substrings_coghent/agents/stu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/stu.ttl>.

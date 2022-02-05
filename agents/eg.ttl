@@ -1,0 +1,127 @@
+<https://stad.gent/id/agent/670001263/2022-01-01T05:16:08.201Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001263>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:16:08.201Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1495_2, _:df_1495_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "Eggermont";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Eggermont, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1495_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1246"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1495_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001263"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001263/2022-01-01T05:16:08.201Z>.
+<https://stad.gent/id/agent/670001264/2022-01-01T05:16:13.202Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001264>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:16:13.202Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1495_7, _:df_1495_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Eghele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Eghele";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1495_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1247"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1495_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001264"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001264/2022-01-01T05:16:13.202Z>.
+<https://stad.gent/id/agent/670001265/2022-01-01T05:16:18.204Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001265>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:16:18.204Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1495_11, _:df_1495_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Eghels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Eghels, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1495_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1248"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1495_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001265"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001265/2022-01-01T05:16:18.204Z>.
+<https://stad.gent/id/agent/570028197/2022-01-01T02:23:41.956Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028197>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:23:41.956Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2599_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "égé";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2599_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028197"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028197/2022-01-01T02:23:41.956Z>.
+<https://stad.gent/id/agent/570018558/2022-01-01T01:49:07.543Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570018558>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:49:07.543Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2836_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "EGEA (Eau-Gaz-Electricité et Applications)";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2836_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018558"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570018558/2022-01-01T01:49:07.543Z>.
+<https://stad.gent/id/agent/530023477/2021-12-31T21:29:33.193Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023477>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:29:33.193Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3055_2, _:df_3055_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gianni";
+    <http://xmlns.com/foaf/0.1/familyName> "Eggermont";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Eggermont, Gianni";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3055_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02930"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3055_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023477"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023477/2021-12-31T21:29:33.193Z>.
+<https://stad.gent/id/agent/530016858/2021-12-31T18:54:35.427Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:54:35.427Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3781_2, _:df_3781_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Johanna";
+    <http://xmlns.com/foaf/0.1/familyName> "Egnell";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Egnell, Johanna";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3781_7;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3781_7 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Zweeds"@nl.
+_:df_3781_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01727"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3781_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016858/2021-12-31T18:54:35.427Z>.
+<https://stad.gent/id/agent/530001448/2021-12-31T17:12:24.052Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001448>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:12:24.052Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4315_15, _:df_4315_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4315_19;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4315_21;
+    <http://xmlns.com/foaf/0.1/givenName> "Jean-Jules";
+    <http://xmlns.com/foaf/0.1/familyName> "Eggerix";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Eggerix, Jean-Jules";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1829006>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4315_25;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4315_25 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4315_21 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1963-05-22"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008815>.
+<http://vocab.getty.edu/tgn/7008815> a <http://purl.org/dc/terms/Location>.
+_:df_4315_19 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1884-08-21"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007855>.
+<http://vocab.getty.edu/tgn/7007855> a <http://purl.org/dc/terms/Location>.
+_:df_4315_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00841"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4315_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001448"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001448/2021-12-31T17:12:24.052Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/eg.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/eg.ttl>.

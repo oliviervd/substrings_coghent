@@ -1,0 +1,91 @@
+<https://stad.gent/id/agent/530023630/2021-12-31T21:39:37.060Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023630>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:39:37.060Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3010_14, _:df_3010_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3010_18;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Royal Copenhagen";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500336600>, <https://www.wikidata.org/entity/Q1440151>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3010_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1775-05-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003476>.
+<http://vocab.getty.edu/tgn/7003476> a <http://purl.org/dc/terms/Location>.
+_:df_3010_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03005"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3010_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023630"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023630/2021-12-31T21:39:37.060Z>.
+<https://stad.gent/id/agent/530023200/2021-12-31T21:09:55.395Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023200>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:09:55.395Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3178_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Royal Sphinx Maastricht";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/530017685>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/530017685> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Koninklijke Sphinx"@nl.
+_:df_3178_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023200"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023200/2021-12-31T21:09:55.395Z>.
+<https://stad.gent/id/agent/530021586/2021-12-31T20:26:06.813Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021586>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:26:06.813Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3424_21, _:df_3424_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Royal Crystal";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3424_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02317"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3424_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021586"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021586/2021-12-31T20:26:06.813Z>.
+<https://stad.gent/id/agent/530020879/2021-12-31T20:10:20.814Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020879>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:10:20.814Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3508_25, _:df_3508_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3508_28;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Royal Brierley Crystal";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q7373842>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3508_28 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1776"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3508_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02179"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3508_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020879"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020879/2021-12-31T20:10:20.814Z>.
+<https://stad.gent/id/agent/530011055/2021-12-31T17:49:03.582Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530011055>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:49:03.582Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4093_23, _:df_4093_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Royal Leerdam Crystal";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2663996>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4093_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01213"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4093_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530011055"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530011055/2021-12-31T17:49:03.582Z>.
+<https://stad.gent/id/agent/530001315/2021-12-31T17:05:26.456Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001315>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:05:26.456Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4366_31, _:df_4366_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4366_35;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Royal Staffordshire";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q17026370>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4366_35 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1894"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/4002012>.
+<http://vocab.getty.edu/tgn/4002012> a <http://purl.org/dc/terms/Location>.
+_:df_4366_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00758"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4366_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001315"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001315/2021-12-31T17:05:26.456Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/roy.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/roy.ttl>.

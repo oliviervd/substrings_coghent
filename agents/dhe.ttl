@@ -1,0 +1,48 @@
+<https://stad.gent/id/agent/670001153/2022-01-01T05:06:59.688Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001153>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:06:59.688Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1561_11, _:df_1561_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "graaf, heer van Severen Philippe Maurice, graaf Dheems";
+    <http://xmlns.com/foaf/0.1/givenName> "Philippe Maurice, graaf";
+    <http://xmlns.com/foaf/0.1/familyName> "Dheems";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dheems, Philippe Maurice, graaf";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1561_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1136"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1561_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001153"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001153/2022-01-01T05:06:59.688Z>.
+<https://stad.gent/id/agent/670001155/2022-01-01T05:07:04.690Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001155>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:07:04.690Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1561_20, _:df_1561_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Martinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhert, Martinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1561_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1138"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1561_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001155"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001155/2022-01-01T05:07:04.690Z>.
+<https://stad.gent/id/agent/670001156/2022-01-01T05:07:09.691Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001156>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:07:09.691Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1561_28, _:df_1561_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Martinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Dheuvel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dheuvel, Martinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1561_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1139"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1561_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001156"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001156/2022-01-01T05:07:09.691Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/dhe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/dhe.ttl>.

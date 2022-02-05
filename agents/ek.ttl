@@ -1,0 +1,102 @@
+<https://stad.gent/id/agent/530020751/2021-12-31T20:04:18.014Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020751>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:04:18.014Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3535_6, _:df_3535_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3535_10;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3535_12;
+    <http://xmlns.com/foaf/0.1/givenName> "Yngve";
+    <http://xmlns.com/foaf/0.1/familyName> "Ekström";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ekström, Yngve";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1490509>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3535_16;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3535_16 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Zweeds"@nl.
+_:df_3535_12 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1988-03-13"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7010985>.
+<http://vocab.getty.edu/tgn/7010985> a <http://purl.org/dc/terms/Location>.
+_:df_3535_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1913-06-16"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <https://www.wikidata.org/entity/q1826311>.
+<https://www.wikidata.org/entity/q1826311> a <http://purl.org/dc/terms/Location>.
+_:df_3535_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02132"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3535_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020751"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020751/2021-12-31T20:04:18.014Z>.
+<https://stad.gent/id/agent/530016581/2021-12-31T18:39:14.536Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016581>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:39:14.536Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3865_27, _:df_3865_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3865_31;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Ekselius";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ekselius, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q74719410>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3865_38;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3865_38 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Zweeds"@nl.
+_:df_3865_31 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1946-06-07"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1063838>.
+<http://vocab.getty.edu/tgn/1063838> a <http://purl.org/dc/terms/Location>.
+_:df_3865_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01590"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3865_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016581"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016581/2021-12-31T18:39:14.536Z>.
+<https://stad.gent/id/agent/530001653/2021-12-31T17:25:49.376Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001653>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:25:49.376Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4219_26, _:df_4219_28;
+    <http://www.w3.org/2004/02/skos/core#note> "Werkte van 1889 tot zijn dood in 1945 bij porseleinfabriek Gustavsberg.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4219_29;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4219_30;
+    <http://xmlns.com/foaf/0.1/givenName> "Josef";
+    <http://xmlns.com/foaf/0.1/familyName> "Ekberg";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ekberg, Josef";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q6279766>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4219_34;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4219_34 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Zweeds"@nl.
+_:df_4219_30 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1945-12-07"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4219_29 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1877-02-18"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4219_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01000"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4219_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001653"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001653/2021-12-31T17:25:49.376Z>.
+<https://stad.gent/id/agent/530001564/2021-12-31T17:20:07.341Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001564>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:20:07.341Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4261_34, _:df_4261_36;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4261_37;
+    <http://xmlns.com/foaf/0.1/givenName> "Emmanuel Ekong";
+    <http://xmlns.com/foaf/0.1/familyName> "Ekefrey";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ekefrey, Emmanuel Ekong";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4261_40;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4261_40 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nigeriaans"@nl.
+_:df_4261_37 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1952"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4261_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00932"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4261_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001564"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001564/2021-12-31T17:20:07.341Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/ek.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/ek.ttl>.

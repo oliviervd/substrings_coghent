@@ -1,0 +1,33 @@
+<https://stad.gent/id/agent/530023709/2021-12-31T21:41:07.702Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023709>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:41:07.702Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3004_8, _:df_3004_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pomorski";
+    <http://xmlns.com/foaf/0.1/familyName> "Pawel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pawel, Pomorski";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q62395496>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3004_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03015"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3004_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023709"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023709/2021-12-31T21:41:07.702Z>.
+<https://stad.gent/id/agent/530019515/2021-12-31T19:29:34.392Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019515>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:29:34.392Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3709_10, _:df_3709_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pierre";
+    <http://xmlns.com/foaf/0.1/familyName> "Pawson";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pawson, Pierre";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3709_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01844"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3709_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019515"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019515/2021-12-31T19:29:34.392Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/paw.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/paw.ttl>.

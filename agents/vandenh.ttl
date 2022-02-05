@@ -1,0 +1,65 @@
+<https://stad.gent/id/agent/530021717/2021-12-31T20:35:15.602Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021717>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:35:15.602Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3358_2, _:df_3358_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Sylvie";
+    <http://xmlns.com/foaf/0.1/familyName> "Vandenhoucke";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vandenhoucke, Sylvie";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/122666>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3358_8;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3358_8 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3358_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02425"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3358_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021717"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021717/2021-12-31T20:35:15.602Z>.
+<https://stad.gent/id/agent/530020848/2021-12-31T20:08:50.127Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020848>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:08:50.127Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3517_20, _:df_3517_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Ed";
+    <http://xmlns.com/foaf/0.1/familyName> "Vandenhove";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vandenhove, Ed";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3517_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02164"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3517_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020848"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020848/2021-12-31T20:08:50.127Z>.
+<https://stad.gent/id/agent/530001621/2021-12-31T17:23:43.659Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001621>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:23:43.659Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4234_20, _:df_4234_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4234_24;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4234_26;
+    <http://xmlns.com/foaf/0.1/givenName> "Charles";
+    <http://xmlns.com/foaf/0.1/familyName> "Vandenhove";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vandenhove, Charles";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500029757>, <https://www.wikidata.org/entity/Q1066309>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4234_30;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4234_30 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4234_26 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2019-01-22"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007945>.
+<http://vocab.getty.edu/tgn/7007945> a <http://purl.org/dc/terms/Location>.
+_:df_4234_24 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1927-07-03"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7254298>.
+<http://vocab.getty.edu/tgn/7254298> a <http://purl.org/dc/terms/Location>.
+_:df_4234_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00975"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4234_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001621"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001621/2021-12-31T17:23:43.659Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/vandenh.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/vandenh.ttl>.

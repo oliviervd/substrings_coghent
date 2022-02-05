@@ -1,0 +1,67 @@
+<https://stad.gent/id/agent/530021657/2021-12-31T20:30:58.756Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021657>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:30:58.756Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3391_40, _:df_3391_42;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3391_43;
+    <http://xmlns.com/foaf/0.1/givenName> "Inge";
+    <http://xmlns.com/foaf/0.1/familyName> "Vinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vinck, Inge";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3391_46;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3391_46 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3391_43 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1973"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3391_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02374"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3391_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021657"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021657/2021-12-31T20:30:58.756Z>.
+<https://stad.gent/id/agent/530020074/2021-12-31T19:43:19.810Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020074>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:43:19.810Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3646_2, _:df_3646_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3646_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Paul Emelie";
+    <http://xmlns.com/foaf/0.1/familyName> "Vincent";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vincent, Paul Emelie";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3646_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3646_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3646_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1924-03-05"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003456>.
+<http://vocab.getty.edu/tgn/7003456> a <http://purl.org/dc/terms/Location>.
+_:df_3646_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01947"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3646_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020074"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020074/2021-12-31T19:43:19.810Z>.
+<https://stad.gent/id/agent/530013308/2021-12-31T18:00:43.367Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013308>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:00:43.367Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4078_6, _:df_4078_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4078_9;
+    <http://xmlns.com/foaf/0.1/givenName> "Luc";
+    <http://xmlns.com/foaf/0.1/familyName> "Vincent";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vincent, Luc";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4078_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4078_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4078_9 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1952-01-22"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4078_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01234"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4078_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013308"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013308/2021-12-31T18:00:43.367Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/vin.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/vin.ttl>.

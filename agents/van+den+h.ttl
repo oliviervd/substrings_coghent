@@ -1,0 +1,135 @@
+<https://stad.gent/id/agent/530024115/2021-12-31T22:00:24.737Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024115>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T22:00:24.737Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2950_29, _:df_2950_31;
+    <http://www.w3.org/2004/02/skos/core#note> "Hij zou hebben samengewerkt met het architectenduo Edgar Lelubre en Mathys. Zijn vader L. Van den Hoeck zou hebben samengewerkt met Emile De Weerdt. Zijn bedrijf en atelier waren eerder al gevestigd op een ander nummer in de Sint-Pietersnieuwstraat, tegenover de Vooruit. Zijn dochter Arlette Van den Hoeck studeerde binnenhuisarchitectuur en zette de zaak verder tot 1996, maar dan als interieurwinkel. Séraphin Van den Hoeck was gestopt met zelf te ontwerpen rond 1969.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2950_32;
+    <http://xmlns.com/foaf/0.1/givenName> "Séraphin";
+    <http://xmlns.com/foaf/0.1/familyName> "Van den Hoeck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van den Hoeck, Séraphin";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2950_35;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2950_35 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2950_32 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1904"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2950_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03154"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2950_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024115"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024115/2021-12-31T22:00:24.737Z>.
+<https://stad.gent/id/agent/530023585/2021-12-31T21:36:35.807Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:36:35.807Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3019_11, _:df_3019_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3019_15;
+    <http://xmlns.com/foaf/0.1/givenName> "Netty";
+    <http://xmlns.com/foaf/0.1/familyName> "van den heuvel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van den heuvel, Netty";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/88678>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3019_19;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3019_19 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_3019_15 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1956-12-11"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1048268>.
+<http://vocab.getty.edu/tgn/1048268> a <http://purl.org/dc/terms/Location>.
+_:df_3019_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02990"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3019_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023585/2021-12-31T21:36:35.807Z>.
+<https://stad.gent/id/agent/530021738/2021-12-31T20:36:41.257Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021738>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:36:41.257Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3349_21, _:df_3349_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3349_24;
+    <http://xmlns.com/foaf/0.1/givenName> "Frank";
+    <http://xmlns.com/foaf/0.1/familyName> "Van Den Ham";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van Den Ham, Frank";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/35569>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3349_28;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3349_28 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_3349_24 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1952"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3349_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02442"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3349_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021738"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021738/2021-12-31T20:36:41.257Z>.
+<https://stad.gent/id/agent/530021663/2021-12-31T20:31:29.050Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021663>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:31:29.050Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3385_2, _:df_3385_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3385_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Herma";
+    <http://xmlns.com/foaf/0.1/familyName> "Van den Heuvel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van den Heuvel, Herma";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/38164>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3385_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3385_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_3385_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1951-12-20"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7270576>.
+<http://vocab.getty.edu/tgn/7270576> a <http://purl.org/dc/terms/Location>.
+_:df_3385_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02380"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3385_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021663"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021663/2021-12-31T20:31:29.050Z>.
+<https://stad.gent/id/agent/530021327/2021-12-31T20:17:58.842Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021327>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:17:58.842Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3472_9, _:df_3472_11;
+    <http://www.w3.org/2004/02/skos/core#note> "Naam komt voor als Van den Houten en als Vandenhouten. Objecten DmG zijn gesigneerd \"Van den Houte[n]\".";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3472_13;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3472_15;
+    <http://xmlns.com/foaf/0.1/givenName> "Léon";
+    <http://xmlns.com/foaf/0.1/familyName> "Van den Houten";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van den Houten, Léon";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3472_15 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1944"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008815>.
+<http://vocab.getty.edu/tgn/7008815> a <http://purl.org/dc/terms/Location>.
+_:df_3472_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1874"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>.
+_:df_3472_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02236"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3472_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021327"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021327/2021-12-31T20:17:58.842Z>.
+<https://stad.gent/id/agent/530001728/2021-12-31T17:29:46.051Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001728>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:29:46.051Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4192_39, _:df_4192_41;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Laurens";
+    <http://xmlns.com/foaf/0.1/familyName> "van den Hane";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van den Hane, Laurens";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4192_41 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01047"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4192_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001728"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001728/2021-12-31T17:29:46.051Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/van+den+h.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/van+den+h.ttl>.

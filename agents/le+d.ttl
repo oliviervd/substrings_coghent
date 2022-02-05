@@ -1,0 +1,90 @@
+<https://stad.gent/id/agent/670001652/2022-01-01T05:48:24.658Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001652>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:48:24.658Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1264_2, _:df_1264_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jaecques";
+    <http://xmlns.com/foaf/0.1/familyName> "le Ducq";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "le Ducq, Jaecques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1264_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1635"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1264_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001652"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001652/2022-01-01T05:48:24.658Z>.
+<https://stad.gent/id/agent/670001653/2022-01-01T05:48:29.660Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001653>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:48:29.660Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1264_7, _:df_1264_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bernard";
+    <http://xmlns.com/foaf/0.1/familyName> "le Ducq";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "le Ducq, Bernard";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1264_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1636"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1264_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001653"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001653/2022-01-01T05:48:29.660Z>.
+<https://stad.gent/id/agent/670001654/2022-01-01T05:48:34.661Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001654>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:48:34.661Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1264_12, _:df_1264_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "jonkvrouw Petronelle le Duyck";
+    <http://xmlns.com/foaf/0.1/givenName> "Petronelle";
+    <http://xmlns.com/foaf/0.1/familyName> "le Duyck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "le Duyck, Petronelle";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1264_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1637"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1264_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001654"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001654/2022-01-01T05:48:34.661Z>.
+<https://stad.gent/id/agent/670001651/2022-01-01T05:48:19.656Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001651>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:48:19.656Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1267_30, _:df_1267_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "le Ducq";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "le Ducq";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1267_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1634"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1267_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001651"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001651/2022-01-01T05:48:19.656Z>.
+<https://stad.gent/id/agent/530022431/2021-12-31T20:53:17.674Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022431>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:53:17.674Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3253_19, _:df_3253_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3253_23;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3253_25;
+    <http://xmlns.com/foaf/0.1/givenName> "Petrus";
+    <http://xmlns.com/foaf/0.1/familyName> "Le Doulx";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Le Doulx, Petrus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500003328>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3253_29;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3253_29 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3253_25 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1807"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007867>.
+<http://vocab.getty.edu/tgn/7007867> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3253_23 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1730"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007867>.
+_:df_3253_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02602"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3253_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022431"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022431/2021-12-31T20:53:17.674Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/le+d.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/le+d.ttl>.

@@ -1,0 +1,179 @@
+<https://stad.gent/id/agent/670000310/2022-01-01T03:56:19.073Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000310>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:56:19.073Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2065_2, _:df_2065_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guilliaume";
+    <http://xmlns.com/foaf/0.1/familyName> "Cannaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cannaert, Guilliaume";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2065_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0293"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2065_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000310"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000310/2022-01-01T03:56:19.073Z>.
+<https://stad.gent/id/agent/670000311/2022-01-01T03:56:24.074Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000311>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:56:24.074Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2065_12, _:df_2065_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Marie Theresia";
+    <http://xmlns.com/foaf/0.1/familyName> "Cannoijelle";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cannoijelle, Marie Theresia";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2065_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0294"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2065_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000311"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000311/2022-01-01T03:56:24.074Z>.
+<https://stad.gent/id/agent/670000312/2022-01-01T03:56:29.077Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000312>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:56:29.077Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2065_17, _:df_2065_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anthonius Josephus";
+    <http://xmlns.com/foaf/0.1/familyName> "Canon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Canon, Anthonius Josephus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2065_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0295"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2065_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000312"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000312/2022-01-01T03:56:29.077Z>.
+<https://stad.gent/id/agent/570030413/2022-01-01T03:00:46.604Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030413>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:00:46.604Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2371_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cannon Iron Foundries Ltd.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2371_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030413"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030413/2022-01-01T03:00:46.604Z>.
+<https://stad.gent/id/agent/530023282/2021-12-31T21:16:02.738Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023282>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:16:02.738Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3133_2, _:df_3133_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3133_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3133_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Cantré";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cantré, Jan Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500041235>, <https://www.wikidata.org/entity/Q2514399>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3133_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3133_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3133_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1931-12-21"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3133_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1886-07-21"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_3133_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02800"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3133_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023282"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023282/2021-12-31T21:16:02.738Z>.
+<https://stad.gent/id/agent/530022134/2021-12-31T20:50:51.617Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022134>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:50:51.617Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3262_2, _:df_3262_4;
+    <http://www.w3.org/2004/02/skos/core#note> "Gabrielle Canivet huwde in 1892 Constant Montald";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3262_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3262_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Gabrielle";
+    <http://xmlns.com/foaf/0.1/familyName> "Canivet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Canivet, Gabrielle";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q28927490>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3262_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3262_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3262_6 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1942"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3262_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1867"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3262_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02585"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3262_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022134"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022134/2021-12-31T20:50:51.617Z>.
+<https://stad.gent/id/agent/530011021/2021-12-31T17:48:53.580Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530011021>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:48:53.580Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4093_16, _:df_4093_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4093_20;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "CANON";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500334802>, <https://www.wikidata.org/entity/Q62621>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4093_20 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1937-08-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <https://www.wikidata.org/entity/q217234>.
+<https://www.wikidata.org/entity/q217234> a <http://purl.org/dc/terms/Location>.
+_:df_4093_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01212"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4093_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530011021"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530011021/2021-12-31T17:48:53.580Z>.
+<https://stad.gent/id/agent/530001299/2021-12-31T17:04:26.107Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001299>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:04:26.107Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4372_18, _:df_4372_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4372_22;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4372_24;
+    <http://xmlns.com/foaf/0.1/givenName> "Jozef";
+    <http://xmlns.com/foaf/0.1/familyName> "Cantré";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cantré, Jozef";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500192662>, <https://www.wikidata.org/entity/Q2271270>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4372_28;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4372_28 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4372_24 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1957-08-29"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4372_22 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1890-12-26"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_4372_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00746"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4372_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001299"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001299/2021-12-31T17:04:26.107Z>.
+<https://stad.gent/id/agent/470019555/2021-12-31T15:38:42.308Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470019555>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:38:42.308Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4822_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cantré, Jozef";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2271270>, <http://vocab.getty.edu/page/ulan/500192662>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4822_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470019555"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470019555/2021-12-31T15:38:42.308Z>.
+<https://stad.gent/id/agent/470002829/2021-12-31T15:29:13.590Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470002829>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:29:13.590Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4891_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Canon";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q62621>, <http://vocab.getty.edu/page/ulan/500334802>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4891_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470002829"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470002829/2021-12-31T15:29:13.590Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/can.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/can.ttl>.

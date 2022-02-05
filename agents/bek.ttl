@@ -1,0 +1,129 @@
+<https://stad.gent/id/agent/670000126/2022-01-01T03:40:51.966Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000126>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:40:51.966Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2176_7, _:df_2176_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Franchois";
+    <http://xmlns.com/foaf/0.1/familyName> "Bekaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bekaert, Franchois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2176_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0109"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2176_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000126"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000126/2022-01-01T03:40:51.966Z>.
+<https://stad.gent/id/agent/670000127/2022-01-01T03:40:56.967Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000127>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:40:56.967Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2176_15, _:df_2176_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Daniel";
+    <http://xmlns.com/foaf/0.1/familyName> "Bekaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bekaert, Daniel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2176_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0110"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2176_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000127"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000127/2022-01-01T03:40:56.967Z>.
+<https://stad.gent/id/agent/670000128/2022-01-01T03:41:01.969Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000128>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:41:01.969Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2176_20, _:df_2176_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joseph";
+    <http://xmlns.com/foaf/0.1/familyName> "Bekemans";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bekemans, Joseph";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2176_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0111"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2176_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000128"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000128/2022-01-01T03:41:01.969Z>.
+<https://stad.gent/id/agent/530023465/2021-12-31T21:28:37.834Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023465>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:28:37.834Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3061_2, _:df_3061_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3061_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bekaert-Depla";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3061_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026794>.
+<http://vocab.getty.edu/tgn/1026794> a <http://purl.org/dc/terms/Location>.
+_:df_3061_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02920"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3061_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023465"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023465/2021-12-31T21:28:37.834Z>.
+<https://stad.gent/id/agent/530013618/2021-12-31T18:20:01.814Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013618>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:20:01.814Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3958_2, _:df_3958_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bekaert Progressive Composites";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3958_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01432"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3958_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013618"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013618/2021-12-31T18:20:01.814Z>.
+<https://stad.gent/id/agent/530013307/2021-12-31T18:00:38.364Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013307>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:00:38.364Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4078_2, _:df_4078_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bekaert Matress Ticking";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4078_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01233"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4078_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013307"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013307/2021-12-31T18:00:38.364Z>.
+<https://stad.gent/id/agent/530001484/2021-12-31T17:14:54.975Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001484>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:14:54.975Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4297_18, _:df_4297_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4297_22;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bekaert Textiles";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4297_22 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026794>.
+<http://vocab.getty.edu/tgn/1026794> a <http://purl.org/dc/terms/Location>.
+_:df_4297_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00870"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4297_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001484"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001484/2021-12-31T17:14:54.975Z>.
+<https://stad.gent/id/agent/530001479/2021-12-31T17:14:39.971Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001479>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:14:39.971Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4300_39, _:df_4300_41;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4300_43;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4300_45;
+    <http://xmlns.com/foaf/0.1/givenName> "Piet";
+    <http://xmlns.com/foaf/0.1/familyName> "Bekaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bekaert, Piet";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2895936>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4300_45 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2000-07-07"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7253069>.
+<http://vocab.getty.edu/tgn/7253069> a <http://purl.org/dc/terms/Location>.
+_:df_4300_43 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1939-05-08"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7254795>.
+<http://vocab.getty.edu/tgn/7254795> a <http://purl.org/dc/terms/Location>.
+_:df_4300_41 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00867"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4300_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001479"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001479/2021-12-31T17:14:39.971Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/bek.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/bek.ttl>.

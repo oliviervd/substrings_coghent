@@ -1,0 +1,46 @@
+<https://stad.gent/id/agent/670001067/2022-01-01T04:59:46.637Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001067>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:59:46.637Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1612_2, _:df_1612_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Niclays";
+    <http://xmlns.com/foaf/0.1/familyName> "de Zomere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Zomere, Niclays";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1612_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1050"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1612_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001067"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001067/2022-01-01T04:59:46.637Z>.
+<https://stad.gent/id/agent/670001068/2022-01-01T04:59:51.639Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001068>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:59:51.639Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1612_7, _:df_1612_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joosyne";
+    <http://xmlns.com/foaf/0.1/familyName> "de Zomere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Zomere, Joosyne";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1612_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1051"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1612_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001068"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001068/2022-01-01T04:59:51.639Z>.
+<https://stad.gent/id/agent/670001069/2022-01-01T04:59:56.640Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001069>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:59:56.640Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1612_12, _:df_1612_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Hugo";
+    <http://xmlns.com/foaf/0.1/familyName> "de Zutter";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Zutter, Hugo";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1612_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1052"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1612_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001069"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001069/2022-01-01T04:59:56.640Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/de+z.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/de+z.ttl>.

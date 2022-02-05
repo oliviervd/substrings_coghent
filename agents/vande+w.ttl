@@ -1,0 +1,90 @@
+<https://stad.gent/id/agent/670002861/2022-01-01T07:29:01.225Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002861>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:29:01.225Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_544_2, _:df_544_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "vande Walle";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vande Walle, Jacobus weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_544_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2844"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_544_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002861"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002861/2022-01-01T07:29:01.225Z>.
+<https://stad.gent/id/agent/670002862/2022-01-01T07:29:06.228Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002862>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:29:06.228Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_544_7, _:df_544_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "vande Walle";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vande Walle, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_544_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2845"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_544_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002862"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002862/2022-01-01T07:29:06.228Z>.
+<https://stad.gent/id/agent/670002857/2022-01-01T07:28:41.217Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002857>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:28:41.217Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_547_10, _:df_547_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Odemaerdus";
+    <http://xmlns.com/foaf/0.1/familyName> "vande Waele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vande Waele, Odemaerdus";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_547_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2840"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_547_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002857"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002857/2022-01-01T07:28:41.217Z>.
+<https://stad.gent/id/agent/670002858/2022-01-01T07:28:46.220Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:28:46.220Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_547_15, _:df_547_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "J.";
+    <http://xmlns.com/foaf/0.1/familyName> "vande Waele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vande Waele, J.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_547_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2841"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_547_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002858/2022-01-01T07:28:46.220Z>.
+<https://stad.gent/id/agent/670002859/2022-01-01T07:28:51.222Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002859>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:28:51.222Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_547_20, _:df_547_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "vande Waere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vande Waere, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_547_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2842"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_547_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002859"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002859/2022-01-01T07:28:51.222Z>.
+<https://stad.gent/id/agent/670002860/2022-01-01T07:28:56.223Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002860>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:28:56.223Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_547_25, _:df_547_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "vande Walle";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vande Walle, Joannes weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_547_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2843"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_547_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002860"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002860/2022-01-01T07:28:56.223Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/vande+w.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/vande+w.ttl>.

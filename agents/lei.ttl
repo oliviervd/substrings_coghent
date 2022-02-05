@@ -1,0 +1,73 @@
+<https://stad.gent/id/agent/530019412/2021-12-31T19:27:23.394Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019412>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:27:23.394Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3715_35, _:df_3715_37;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3715_39;
+    <http://xmlns.com/foaf/0.1/givenName> "Edward";
+    <http://xmlns.com/foaf/0.1/familyName> "Leibovitz";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Leibovitz, Edward";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500379739>, <https://rkd.nl/explore/artists/91139>, <https://www.wikidata.org/entity/Q96991548>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3715_43;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3715_43 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3715_39 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1946"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004033>.
+<http://vocab.getty.edu/tgn/7004033> a <http://purl.org/dc/terms/Location>.
+_:df_3715_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01837"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3715_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019412"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019412/2021-12-31T19:27:23.394Z>.
+<https://stad.gent/id/agent/530000616/2021-12-31T16:21:13.899Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:21:13.899Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4681_23, _:df_4681_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4681_27;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4681_29;
+    <http://xmlns.com/foaf/0.1/givenName> "Inkeri";
+    <http://xmlns.com/foaf/0.1/familyName> "Leivo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Leivo, Inkeri";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q11864888>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4681_33;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4681_33 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Fins"@nl.
+_:df_4681_29 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2010-09-05"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009880>.
+<http://vocab.getty.edu/tgn/7009880> a <http://purl.org/dc/terms/Location>.
+_:df_4681_27 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1944-05-29"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1031415>.
+<http://vocab.getty.edu/tgn/1031415> a <http://purl.org/dc/terms/Location>.
+_:df_4681_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00231"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4681_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000616"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000616/2021-12-31T16:21:13.899Z>.
+<https://stad.gent/id/agent/530000435/2021-12-31T16:08:23.245Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000435>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:08:23.245Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4759_31, _:df_4759_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4759_35;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Leica Camera GmbH";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q161833>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4759_35 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1913"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012774>.
+<http://vocab.getty.edu/tgn/7012774> a <http://purl.org/dc/terms/Location>.
+_:df_4759_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00103"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4759_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000435"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000435/2021-12-31T16:08:23.245Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/lei.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/lei.ttl>.

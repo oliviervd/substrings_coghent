@@ -1,0 +1,144 @@
+<https://stad.gent/id/agent/570019772/2022-01-01T01:55:20.330Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570019772>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:55:20.330Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2794_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2794_17;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "General Electric Company";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q54173>;
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570029394>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570029394> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "GE"@nl.
+_:df_2794_17 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1892"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2794_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019772"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570019772/2022-01-01T01:55:20.330Z>.
+<https://stad.gent/id/agent/530024242/2021-12-31T22:08:53.030Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024242>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T22:08:53.030Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2914_29, _:df_2914_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2914_33;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "General Decoration";
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2914_35;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2914_35 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2914_33 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1969"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>.
+_:df_2914_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03210"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2914_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024242"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024242/2021-12-31T22:08:53.030Z>.
+<https://stad.gent/id/agent/530021710/2021-12-31T20:34:45.590Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021710>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:34:45.590Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3364_31, _:df_3364_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Christophe";
+    <http://xmlns.com/foaf/0.1/familyName> "Genard";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Genard, Christophe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3364_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02419"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3364_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021710"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021710/2021-12-31T20:34:45.590Z>.
+<https://stad.gent/id/agent/530020958/2021-12-31T20:12:06.535Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020958>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:12:06.535Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3496_7, _:df_3496_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3496_11;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "General Motors";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500255562>, <https://www.wikidata.org/entity/Q81965>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3496_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1908"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7013547>.
+<http://vocab.getty.edu/tgn/7013547> a <http://purl.org/dc/terms/Location>.
+_:df_3496_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02197"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3496_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020958"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020958/2021-12-31T20:12:06.535Z>.
+<https://stad.gent/id/agent/530020721/2021-12-31T20:02:12.301Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020721>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:02:12.301Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3547_11, _:df_3547_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3547_15;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gense";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3547_15 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1856"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1062938>.
+<http://vocab.getty.edu/tgn/1062938> a <http://purl.org/dc/terms/Location>.
+_:df_3547_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02112"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3547_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020721"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020721/2021-12-31T20:02:12.301Z>.
+<https://stad.gent/id/agent/530019441/2021-12-31T19:27:58.759Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019441>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:27:58.759Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3712_14, _:df_3712_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3712_18;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3712_20;
+    <http://xmlns.com/foaf/0.1/givenName> "Maurice";
+    <http://xmlns.com/foaf/0.1/familyName> "Gensoli";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gensoli, Maurice";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q30301640>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3712_24;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3712_24 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_3712_20 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1973"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008929>.
+<http://vocab.getty.edu/tgn/7008929> a <http://purl.org/dc/terms/Location>.
+_:df_3712_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1892-07-04"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/page/tgn/1000798>.
+<http://vocab.getty.edu/page/tgn/1000798> a <http://purl.org/dc/terms/Location>.
+_:df_3712_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00803"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3712_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019441"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019441/2021-12-31T19:27:58.759Z>.
+<https://stad.gent/id/agent/530013440/2021-12-31T18:08:01.271Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013440>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:08:01.271Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4033_13, _:df_4033_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4033_17;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "General Biscuits";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4033_17 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007892>.
+<http://vocab.getty.edu/tgn/7007892> a <http://purl.org/dc/terms/Location>.
+_:df_4033_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01309"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4033_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013440"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013440/2021-12-31T18:08:01.271Z>.
+<https://stad.gent/id/agent/470011050/2021-12-31T15:35:00.732Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470011050>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:35:00.732Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4849_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "General Motors";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q81965>, <http://vocab.getty.edu/page/ulan/500255562>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4849_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470011050"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470011050/2021-12-31T15:35:00.732Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/gen.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/gen.ttl>.

@@ -1,0 +1,45 @@
+<https://stad.gent/id/agent/530023832/2021-12-31T21:43:23.310Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023832>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:43:23.310Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2995_18, _:df_2995_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Nora";
+    <http://xmlns.com/foaf/0.1/familyName> "De Rudder";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Rudder, Nora";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2995_23;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2995_23 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2995_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03032"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2995_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023832"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023832/2021-12-31T21:43:23.310Z>.
+<https://stad.gent/id/agent/530021421/2021-12-31T20:22:00.206Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021421>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:22:00.206Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3448_15, _:df_3448_17;
+    <http://www.w3.org/2004/02/skos/core#note> "8 ROZE 1983: p. 68, 90.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3448_19;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3448_20;
+    <http://xmlns.com/foaf/0.1/givenName> "Dominicus Petrus Johannes";
+    <http://xmlns.com/foaf/0.1/familyName> "de Ruiter";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Ruiter, Dominicus Petrus Johannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/en/explore/artists/108630>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3448_20 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1947"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3448_19 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1872-08-16"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006792>.
+<http://vocab.getty.edu/tgn/7006792> a <http://purl.org/dc/terms/Location>.
+_:df_3448_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02277"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3448_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021421"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021421/2021-12-31T20:22:00.206Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/de+ru.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/de+ru.ttl>.

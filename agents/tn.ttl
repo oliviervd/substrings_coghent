@@ -1,0 +1,30 @@
+<https://stad.gent/id/agent/530020845/2021-12-31T20:08:40.123Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:08:40.123Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3517_14, _:df_3517_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3517_17;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "TNT post";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1105744>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3517_17 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2011"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3517_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02163"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3517_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020845/2021-12-31T20:08:40.123Z>.
+<https://stad.gent/id/agent/530001794/2021-12-31T17:33:52.679Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001794>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:33:52.679Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4162_18, _:df_4162_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "TNT AVS Comp.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4162_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01096"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4162_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001794"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001794/2021-12-31T17:33:52.679Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/tn.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/tn.ttl>.

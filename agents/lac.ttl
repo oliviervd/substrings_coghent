@@ -1,0 +1,88 @@
+<https://stad.gent/id/agent/530018932/2021-12-31T19:22:36.661Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530018932>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:22:36.661Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3724_8, _:df_3724_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Sofie";
+    <http://xmlns.com/foaf/0.1/familyName> "Lachaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lachaert, Sofie";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q22236065>, <https://rkd.nl/en/explore/artists/47255>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3724_14;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3724_14 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3724_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01821"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3724_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530018932"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530018932/2021-12-31T19:22:36.661Z>.
+<https://stad.gent/id/agent/530001639/2021-12-31T17:24:59.069Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001639>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:24:59.069Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4225_25, _:df_4225_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "C.R.";
+    <http://xmlns.com/foaf/0.1/familyName> "Lachintosh";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lachintosh, C.R.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4225_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00990"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4225_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001639"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001639/2021-12-31T17:24:59.069Z>.
+<https://stad.gent/id/agent/530000905/2021-12-31T16:40:11.148Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000905>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:40:11.148Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4546_30, _:df_4546_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4546_34;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4546_36;
+    <http://xmlns.com/foaf/0.1/givenName> "Raoul";
+    <http://xmlns.com/foaf/0.1/familyName> "Lachenal";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lachenal, Raoul";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q7293750>, <http://vocab.getty.edu/ulan/500122689>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4546_36 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1956"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008963>.
+<http://vocab.getty.edu/tgn/7008963> a <http://purl.org/dc/terms/Location>.
+_:df_4546_34 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1885"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1032522>.
+<http://vocab.getty.edu/tgn/1032522> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4546_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00457"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4546_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000905"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000905/2021-12-31T16:40:11.148Z>.
+<https://stad.gent/id/agent/530000906/2021-12-31T16:40:16.150Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000906>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:40:16.150Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4546_40, _:df_4546_42;
+    <http://www.w3.org/2004/02/skos/core#note> "http://www.jasonjacques.com/works/edmond-lachenal/";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4546_44;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4546_46;
+    <http://xmlns.com/foaf/0.1/givenName> "Edmond";
+    <http://xmlns.com/foaf/0.1/familyName> "Lachenal";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lachenal, Edmond";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500122688>, <https://www.wikidata.org/entity/Q5338890>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4546_46 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1948"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1032522>.
+<http://vocab.getty.edu/tgn/1032522> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4546_44 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1855"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>.
+_:df_4546_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00458"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4546_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000906"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000906/2021-12-31T16:40:16.150Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/lac.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/lac.ttl>.

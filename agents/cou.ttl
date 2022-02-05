@@ -1,0 +1,26 @@
+<https://stad.gent/id/agent/570025397/2022-01-01T02:16:53.521Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570025397>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:16:53.521Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2644_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Court de Payen et Falque";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2644_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025397"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570025397/2022-01-01T02:16:53.521Z>.
+<https://stad.gent/id/agent/530001090/2021-12-31T16:52:36.415Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001090>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:52:36.415Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4456_12, _:df_4456_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "M.";
+    <http://xmlns.com/foaf/0.1/familyName> "Courtois";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Courtois, M.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4456_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00605"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4456_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001090"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001090/2021-12-31T16:52:36.415Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/cou.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/cou.ttl>.

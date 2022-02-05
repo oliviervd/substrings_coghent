@@ -1,0 +1,29 @@
+<https://stad.gent/id/agent/530020664/2021-12-31T19:58:55.975Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020664>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:58:55.975Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3568_23, _:df_3568_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Duvivier";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3568_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02080"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3568_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020664"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020664/2021-12-31T19:58:55.975Z>.
+<https://stad.gent/id/agent/530020021/2021-12-31T19:39:18.372Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020021>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:39:18.372Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3676_25, _:df_3676_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Ivan";
+    <http://xmlns.com/foaf/0.1/familyName> "Duval";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Duval, Ivan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3676_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01901"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3676_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020021"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020021/2021-12-31T19:39:18.372Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/duv.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/duv.ttl>.

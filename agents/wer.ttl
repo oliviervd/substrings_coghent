@@ -1,0 +1,67 @@
+<https://stad.gent/id/agent/530020876/2021-12-31T20:10:10.472Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020876>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:10:10.472Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3508_10, _:df_3508_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Adolf";
+    <http://xmlns.com/foaf/0.1/familyName> "Wertnik";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wertnik, Adolf";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3508_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02177"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3508_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020876"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020876/2021-12-31T20:10:10.472Z>.
+<https://stad.gent/id/agent/530013589/2021-12-31T18:18:06.158Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013589>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:18:06.158Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3970_15, _:df_3970_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "werkstatt.mosler";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3970_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01414"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3970_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013589"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013589/2021-12-31T18:18:06.158Z>.
+<https://stad.gent/id/agent/530001288/2021-12-31T17:03:30.725Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001288>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:03:30.725Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4378_14, _:df_4378_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Werner";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4378_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00735"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4378_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001288"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001288/2021-12-31T17:03:30.725Z>.
+<https://stad.gent/id/agent/530000636/2021-12-31T16:22:44.565Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:22:44.565Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4669_2, _:df_4669_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "F.A.";
+    <http://xmlns.com/foaf/0.1/familyName> "Werver";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Werver, F.A.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4669_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00249"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4669_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000636/2021-12-31T16:22:44.565Z>.
+<https://stad.gent/id/agent/530000594/2021-12-31T16:19:28.207Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000594>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:19:28.207Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4693_7, _:df_4693_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "werkhuizen De Kroon";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4693_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00210"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4693_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000594"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000594/2021-12-31T16:19:28.207Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/wer.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/wer.ttl>.

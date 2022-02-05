@@ -1,0 +1,27 @@
+<https://stad.gent/id/agent/530000682/2021-12-31T16:26:26.075Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000682>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:26:26.075Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4645_22, _:df_4645_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "P.";
+    <http://xmlns.com/foaf/0.1/familyName> "Kruyt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kruyt, P.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4645_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00293"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4645_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000682"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000682/2021-12-31T16:26:26.075Z>.
+<https://stad.gent/id/agent/470008773/2021-12-31T15:33:15.181Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470008773>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:33:15.181Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4861_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Krups";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1790254>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4861_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470008773"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470008773/2021-12-31T15:33:15.181Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/kru.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/kru.ttl>.

@@ -1,0 +1,184 @@
+<https://stad.gent/id/agent/670000706/2022-01-01T04:29:32.986Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000706>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:29:32.986Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1828_2, _:df_1828_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Bantus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Jonghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Jonghe, Jan Bantus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1828_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0689"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1828_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000706"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000706/2022-01-01T04:29:32.986Z>.
+<https://stad.gent/id/agent/670000707/2022-01-01T04:29:37.989Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000707>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:29:37.989Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1828_7, _:df_1828_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Theresia";
+    <http://xmlns.com/foaf/0.1/familyName> "de Jonghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Jonghe, Theresia";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1828_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0690"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1828_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000707"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000707/2022-01-01T04:29:37.989Z>.
+<https://stad.gent/id/agent/670000708/2022-01-01T04:29:42.990Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000708>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:29:42.990Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1828_12, _:df_1828_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Theodore-Joseph";
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_1828_16;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_1828_17;
+    <http://xmlns.com/foaf/0.1/givenName> "Theodor";
+    <http://xmlns.com/foaf/0.1/familyName> "de Jonghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Jonghe, Theodor";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1828_17 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1776"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_1828_16 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1690"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_1828_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0691"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1828_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000708"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000708/2022-01-01T04:29:42.990Z>.
+<https://stad.gent/id/agent/670000702/2022-01-01T04:29:12.978Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:29:12.978Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1831_10, _:df_1831_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Lieven";
+    <http://xmlns.com/foaf/0.1/familyName> "de Jans";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Jans, Lieven";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1831_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0685"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1831_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000702/2022-01-01T04:29:12.978Z>.
+<https://stad.gent/id/agent/670000703/2022-01-01T04:29:17.981Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000703>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:29:17.981Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1831_15, _:df_1831_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "de Jans";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Jans, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1831_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0686"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1831_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000703"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000703/2022-01-01T04:29:17.981Z>.
+<https://stad.gent/id/agent/670000704/2022-01-01T04:29:22.982Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000704>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:29:22.982Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1831_23, _:df_1831_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gheeraert";
+    <http://xmlns.com/foaf/0.1/familyName> "de Jonckhere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Jonckhere, Gheeraert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1831_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0687"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1831_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000704"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000704/2022-01-01T04:29:22.982Z>.
+<https://stad.gent/id/agent/670000705/2022-01-01T04:29:27.984Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000705>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:29:27.984Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1831_28, _:df_1831_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Petrus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Jonge";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Jonge, Petrus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1831_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0688"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1831_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000705"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000705/2022-01-01T04:29:27.984Z>.
+<https://stad.gent/id/agent/570028438/2022-01-01T02:34:05.844Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028438>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:34:05.844Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2536_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Jaeger, Ernest";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2536_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028438"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028438/2022-01-01T02:34:05.844Z>.
+<https://stad.gent/id/agent/570019099/2022-01-01T01:52:13.681Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570019099>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:52:13.681Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2815_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Jonghe, Daniel";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2815_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019099"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570019099/2022-01-01T01:52:13.681Z>.
+<https://stad.gent/id/agent/530013300/2021-12-31T18:00:18.357Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013300>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:00:18.357Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4081_16, _:df_4081_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/familyName> "De Jaeger";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Jaeger";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4081_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01230"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4081_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013300"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013300/2021-12-31T18:00:18.357Z>.
+<https://stad.gent/id/agent/530001862/2021-12-31T17:38:14.303Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001862>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:38:14.303Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4129_2, _:df_4129_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4129_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Marc";
+    <http://xmlns.com/foaf/0.1/familyName> "De Jonghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Jonghe, Marc";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q21544022>, <https://rkd.nl/en/explore/artists/130547>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4129_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4129_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4129_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1962-02-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007864>.
+<http://vocab.getty.edu/tgn/7007864> a <http://purl.org/dc/terms/Location>.
+_:df_4129_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01148"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4129_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001862"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001862/2021-12-31T17:38:14.303Z>.
+<https://stad.gent/id/agent/530000681/2021-12-31T16:26:21.073Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000681>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:26:21.073Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4645_17, _:df_4645_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "V.P.";
+    <http://xmlns.com/foaf/0.1/familyName> "De Jong";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Jong, V.P.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4645_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00292"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4645_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000681"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000681/2021-12-31T16:26:21.073Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/de+j.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/de+j.ttl>.

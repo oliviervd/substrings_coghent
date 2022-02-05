@@ -1,0 +1,193 @@
+<https://stad.gent/id/agent/530023187/2021-12-31T21:09:05.105Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023187>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:09:05.105Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3181_2, _:df_3181_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Emiel";
+    <http://xmlns.com/foaf/0.1/familyName> "Walravens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Walravens, Emiel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3181_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02720"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3181_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023187"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023187/2021-12-31T21:09:05.105Z>.
+<https://stad.gent/id/agent/530016811/2021-12-31T18:51:34.385Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016811>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:51:34.385Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3802_23, _:df_3802_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pia";
+    <http://xmlns.com/foaf/0.1/familyName> "Wallén";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wallén, Pia";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3802_28;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3802_28 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Zweeds"@nl.
+_:df_3802_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01696"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3802_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016811"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016811/2021-12-31T18:51:34.385Z>.
+<https://stad.gent/id/agent/530013732/2021-12-31T18:26:24.585Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013732>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:26:24.585Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3919_2, _:df_3919_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Wallaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wallaert, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3919_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01497"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3919_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013732"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013732/2021-12-31T18:26:24.585Z>.
+<https://stad.gent/id/agent/530001847/2021-12-31T17:37:09.016Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001847>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:37:09.016Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4138_24, _:df_4138_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4138_28;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4138_30;
+    <http://xmlns.com/foaf/0.1/givenName> "Alf";
+    <http://xmlns.com/foaf/0.1/familyName> "Wallander";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wallander, Alf";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q4350813>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4138_37;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4138_37 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Zweeds"@nl.
+_:df_4138_30 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1914-09-29"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009861>.
+<http://vocab.getty.edu/tgn/7009861> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4138_28 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1862-10-11"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009861>.
+_:df_4138_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01135"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4138_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001847"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001847/2021-12-31T17:37:09.016Z>.
+<https://stad.gent/id/agent/530001682/2021-12-31T17:27:10.074Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001682>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:27:10.074Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4210_25, _:df_4210_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Vera";
+    <http://xmlns.com/foaf/0.1/familyName> "Walther";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Walther, Vera";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/295971>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4210_31;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4210_31 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_4210_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01016"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4210_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001682"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001682/2021-12-31T17:27:10.074Z>.
+<https://stad.gent/id/agent/530001366/2021-12-31T17:08:07.481Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001366>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:08:07.481Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4345_6, _:df_4345_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "J.H.";
+    <http://xmlns.com/foaf/0.1/familyName> "Walton";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Walton, J.H.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4345_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00790"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4345_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001366"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001366/2021-12-31T17:08:07.481Z>.
+<https://stad.gent/id/agent/530001225/2021-12-31T17:00:09.375Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001225>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:00:09.375Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4402_14, _:df_4402_16;
+    <http://www.w3.org/2004/02/skos/core#note> "[http://www.macklowegallery.com/education.asp/art+nouveau/Artist+Biographies/antiques/Decorative+Artists/education/Almeric+Walter/id/190]";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4402_18;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4402_20;
+    <http://xmlns.com/foaf/0.1/givenName> "Amalric";
+    <http://xmlns.com/foaf/0.1/familyName> "Walter";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Walter, Amalric";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2839097>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4402_24;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4402_24 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_4402_20 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1959-11-09"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7625524>.
+<http://vocab.getty.edu/tgn/7625524> a <http://purl.org/dc/terms/Location>.
+_:df_4402_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1870-05-19"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007999>.
+<http://vocab.getty.edu/tgn/7007999> a <http://purl.org/dc/terms/Location>.
+_:df_4402_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00695"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4402_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001225"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001225/2021-12-31T17:00:09.375Z>.
+<https://stad.gent/id/agent/530001042/2021-12-31T16:49:15.086Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001042>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:49:15.086Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4480_10, _:df_4480_12;
+    <http://www.w3.org/2004/02/skos/core#note> "-In de adresgids \"Pantheon: Adressbuch der Kunst- und Antiquitäten-Sammler und -Händler, Bibliotheken, Archive, Museen, Kunst-, Altertums- und Geschichtsvereine, Bücherliebhaber, Numismatiker, 1914\" wordt Mme Blanche Wallet-Josse vermeld op 22, rue Condorcet te Parijs.\r\n-https://francearchives.fr/fr/facomponent/25bd8e7f35f362a33f57f2f35612583bbbf70d84\r\n-leefde nog in 1919, cf. index The Decorative Arts of France, 1900-1942";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Blanche";
+    <http://xmlns.com/foaf/0.1/familyName> "Wallet-Josse";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wallet-Josse, Blanche";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4480_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00565"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4480_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001042"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001042/2021-12-31T16:49:15.086Z>.
+<https://stad.gent/id/agent/530000909/2021-12-31T16:40:26.153Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000909>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:40:26.153Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4543_7, _:df_4543_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4543_11;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4543_12;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wallaert";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4543_12 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1845"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4543_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1787"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7259441>.
+<http://vocab.getty.edu/tgn/7259441> a <http://purl.org/dc/terms/Location>.
+_:df_4543_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00460"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4543_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000909"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000909/2021-12-31T16:40:26.153Z>.
+<https://stad.gent/id/agent/530000842/2021-12-31T16:35:59.563Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000842>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:35:59.563Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4576_26, _:df_4576_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Rich.";
+    <http://xmlns.com/foaf/0.1/familyName> "Walther";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Walther, Rich.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4576_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00407"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4576_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000842"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000842/2021-12-31T16:35:59.563Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/wal.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/wal.ttl>.

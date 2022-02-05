@@ -1,0 +1,61 @@
+<https://stad.gent/id/agent/670000561/2022-01-01T04:17:22.588Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000561>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:17:22.588Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1915_2, _:df_1915_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "de Boef";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Boef";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1915_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0544"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1915_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000561"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000561/2022-01-01T04:17:22.588Z>.
+<https://stad.gent/id/agent/670000562/2022-01-01T04:17:27.591Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000562>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:17:27.591Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1915_6, _:df_1915_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "de Bonghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Bonghe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1915_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0545"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1915_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000562"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000562/2022-01-01T04:17:27.591Z>.
+<https://stad.gent/id/agent/670000563/2022-01-01T04:17:32.592Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000563>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:17:32.592Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1915_10, _:df_1915_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francois Ignace";
+    <http://xmlns.com/foaf/0.1/familyName> "de Bosschere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Bosschere, Francois Ignace";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1915_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0546"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1915_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000563"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000563/2022-01-01T04:17:32.592Z>.
+<https://stad.gent/id/agent/530022122/2021-12-31T20:49:56.326Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022122>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:49:56.326Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3271_27, _:df_3271_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Sara";
+    <http://xmlns.com/foaf/0.1/familyName> "De Bondt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Bondt, Sara";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3271_32;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3271_32 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3271_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02574"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3271_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022122"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022122/2021-12-31T20:49:56.326Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/de+bo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/de+bo.ttl>.

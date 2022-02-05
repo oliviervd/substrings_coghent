@@ -1,0 +1,73 @@
+<https://stad.gent/id/agent/670000068/2022-01-01T03:35:59.889Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000068>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:35:59.889Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2212_17, _:df_2212_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Backelant";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Backelant, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2212_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0051"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2212_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000068"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000068/2022-01-01T03:35:59.889Z>.
+<https://stad.gent/id/agent/570031607/2022-01-01T03:10:45.339Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570031607>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:10:45.339Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2311_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bacher";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2311_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570031607"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570031607/2022-01-01T03:10:45.339Z>.
+<https://stad.gent/id/agent/530016624/2021-12-31T18:41:50.505Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016624>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:41:50.505Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3850_16, _:df_3850_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Baccarne Design";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3850_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01613"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3850_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016624"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016624/2021-12-31T18:41:50.505Z>.
+<https://stad.gent/id/agent/530001257/2021-12-31T17:01:24.737Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001257>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:01:24.737Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4393_14, _:df_4393_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4393_18;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Baccarat";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/Q788088>, <https://www.wikidata.org/entity/500124177>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4393_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1764"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>.
+_:df_4393_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00710"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4393_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001257"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001257/2021-12-31T17:01:24.737Z>.
+<https://stad.gent/id/agent/530000469/2021-12-31T16:10:54.267Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000469>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:10:54.267Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4747_13, _:df_4747_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bart";
+    <http://xmlns.com/foaf/0.1/familyName> "Baccarne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Baccarne, Bart";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q97828983>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4747_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00121"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4747_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000469"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000469/2021-12-31T16:10:54.267Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/bac.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/bac.ttl>.

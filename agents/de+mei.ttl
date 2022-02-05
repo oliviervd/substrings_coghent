@@ -1,0 +1,17 @@
+<https://stad.gent/id/agent/670000780/2022-01-01T04:35:46.170Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000780>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:35:46.170Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1786_28, _:df_1786_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Martinus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Meij";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Meij, Martinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1786_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0763"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1786_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000780"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000780/2022-01-01T04:35:46.170Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/de+mei.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/de+mei.ttl>.

@@ -1,0 +1,196 @@
+<https://stad.gent/id/agent/670001745/2022-01-01T05:56:07.529Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001745>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:56:07.529Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1210_14, _:df_1210_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Adriaen";
+    <http://xmlns.com/foaf/0.1/familyName> "Magere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Magere, Adriaen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1210_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1728"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1210_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001745"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001745/2022-01-01T05:56:07.529Z>.
+<https://stad.gent/id/agent/670001746/2022-01-01T05:56:12.531Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001746>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:56:12.531Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1210_22, _:df_1210_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Magerman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Magerman, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1210_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1729"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1210_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001746"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001746/2022-01-01T05:56:12.531Z>.
+<https://stad.gent/id/agent/570028310/2022-01-01T02:29:49.374Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028310>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:29:49.374Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2563_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Magica";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2563_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028310"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028310/2022-01-01T02:29:49.374Z>.
+<https://stad.gent/id/agent/530023338/2021-12-31T21:20:34.430Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023338>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:20:34.430Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3103_43, _:df_3103_45;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3103_47;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3103_49;
+    <http://xmlns.com/foaf/0.1/givenName> "René";
+    <http://xmlns.com/foaf/0.1/familyName> "Magritte";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Magritte, René";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500022967>, <https://www.wikidata.org/entity/Q7836>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3103_53;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3103_53 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3103_49 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1967-08-15"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>.
+_:df_3103_47 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1898-11-21"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026557>.
+<http://vocab.getty.edu/tgn/1026557> a <http://purl.org/dc/terms/Location>.
+_:df_3103_45 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02854"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3103_43 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023338"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023338/2021-12-31T21:20:34.430Z>.
+<https://stad.gent/id/agent/530016604/2021-12-31T18:40:40.159Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016604>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:40:40.159Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3856_37, _:df_3856_39;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3856_41;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3856_42;
+    <http://xmlns.com/foaf/0.1/givenName> "Erik";
+    <http://xmlns.com/foaf/0.1/familyName> "Magnussen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Magnussen, Erik";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500253319>, <https://www.wikidata.org/entity/Q1328943>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3856_46;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3856_46 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Deens"@nl.
+_:df_3856_42 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2014-05-23"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3856_41 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1940-03-31"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/8716277>.
+<http://vocab.getty.edu/tgn/8716277> a <http://purl.org/dc/terms/Location>.
+_:df_3856_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01606"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3856_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016604"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016604/2021-12-31T18:40:40.159Z>.
+<https://stad.gent/id/agent/530016543/2021-12-31T18:37:08.585Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016543>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:37:08.585Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3877_6, _:df_3877_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Magabo";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3877_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01568"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3877_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016543"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016543/2021-12-31T18:37:08.585Z>.
+<https://stad.gent/id/agent/530013545/2021-12-31T18:14:59.748Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013545>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:14:59.748Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3988_2, _:df_3988_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3988_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Magis";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1221314>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3988_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1976"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003297>.
+<http://vocab.getty.edu/tgn/7003297> a <http://purl.org/dc/terms/Location>.
+_:df_3988_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01382"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3988_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013545"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013545/2021-12-31T18:14:59.748Z>.
+<https://stad.gent/id/agent/530001805/2021-12-31T17:34:43.025Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001805>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:34:43.025Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4156_22, _:df_4156_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Vico";
+    <http://xmlns.com/foaf/0.1/familyName> "Maggistretti";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maggistretti, Vico";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500088629>, <https://www.wikidata.org/entity/Q1362985>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4156_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01106"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4156_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001805"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001805/2021-12-31T17:34:43.025Z>.
+<https://stad.gent/id/agent/530001780/2021-12-31T17:32:47.348Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001780>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:32:47.348Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4168_2, _:df_4168_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4168_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mag Instrument Inc.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4168_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1955"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7013154>.
+<http://vocab.getty.edu/tgn/7013154> a <http://purl.org/dc/terms/Location>.
+_:df_4168_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01083"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4168_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001780"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001780/2021-12-31T17:32:47.348Z>.
+<https://stad.gent/id/agent/530001779/2021-12-31T17:32:42.346Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001779>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:32:42.346Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4171_30, _:df_4171_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4171_34;
+    <http://xmlns.com/foaf/0.1/givenName> "Anthony";
+    <http://xmlns.com/foaf/0.1/familyName> "Maglica";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maglica, Anthony";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500460091>, <https://www.wikidata.org/entity/Q573560>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4171_38;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4171_38 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amerikaans"@nl.
+_:df_4171_34 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1930"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007567>.
+<http://vocab.getty.edu/tgn/7007567> a <http://purl.org/dc/terms/Location>.
+_:df_4171_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01082"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4171_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001779"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001779/2021-12-31T17:32:42.346Z>.
+<https://stad.gent/id/agent/470020345/2021-12-31T15:39:02.313Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470020345>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:39:02.313Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4819_7;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Magritte, René";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q7836>, <http://vocab.getty.edu/page/ulan/500022967>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4819_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470020345"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470020345/2021-12-31T15:39:02.313Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/mag.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/mag.ttl>.

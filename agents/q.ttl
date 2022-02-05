@@ -1,0 +1,173 @@
+<https://stad.gent/id/agent/530024435/2022-01-27T00:00:23.570Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024435>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-27T00:00:23.570Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_67_9, _:df_67_11;
+    <http://www.w3.org/2004/02/skos/core#note> "Galerij";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_67_13;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Quartett";
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_67_15;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_67_15 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_67_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7013260>.
+<http://vocab.getty.edu/tgn/7013260> a <http://purl.org/dc/terms/Location>.
+_:df_67_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03259"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_67_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024435"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024435/2022-01-27T00:00:23.570Z>.
+<https://stad.gent/id/agent/670002079/2022-01-01T06:24:07.679Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002079>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:24:07.679Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1009_7, _:df_1009_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anthone";
+    <http://xmlns.com/foaf/0.1/familyName> "Quetelet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Quetelet, Anthone";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1009_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2062"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1009_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002079"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002079/2022-01-01T06:24:07.679Z>.
+<https://stad.gent/id/agent/570029582/2022-01-01T02:54:39.002Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029582>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:54:39.002Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2413_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Q-Fix";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2413_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029582"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029582/2022-01-01T02:54:39.002Z>.
+<https://stad.gent/id/agent/570028530/2022-01-01T02:37:42.112Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028530>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:37:42.112Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2524_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Queen";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2524_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028530"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028530/2022-01-01T02:37:42.112Z>.
+<https://stad.gent/id/agent/530019857/2021-12-31T19:32:50.757Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019857>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:32:50.757Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3697_2, _:df_3697_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3697_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3697_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Jens";
+    <http://xmlns.com/foaf/0.1/familyName> "Quistgaard";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Quistgaard, Jens";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500128646>, <https://www.wikidata.org/entity/Q6179808>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3697_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3697_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Deens"@nl.
+_:df_3697_6 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2008-01-04"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3697_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1919-04-23"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3697_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01863"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3697_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019857"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019857/2021-12-31T19:32:50.757Z>.
+<https://stad.gent/id/agent/530013504/2021-12-31T18:12:03.454Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013504>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:12:03.454Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4006_2, _:df_4006_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4006_5;
+    <http://xmlns.com/foaf/0.1/givenName> "Arne";
+    <http://xmlns.com/foaf/0.1/familyName> "Quinze";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Quinze, Arne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500290621>, <https://www.wikidata.org/entity/Q1856624>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4006_9;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4006_9 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4006_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1971-12-13"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4006_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01352"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4006_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013504"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013504/2021-12-31T18:12:03.454Z>.
+<https://stad.gent/id/agent/530001928/2021-12-31T17:42:15.903Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001928>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:42:15.903Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4102_10, _:df_4102_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4102_14;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Quinze & Milan";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q7272548>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4102_14 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1999"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007934>.
+<http://vocab.getty.edu/tgn/7007934> a <http://purl.org/dc/terms/Location>.
+_:df_4102_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01196"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4102_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001928"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001928/2021-12-31T17:42:15.903Z>.
+<https://stad.gent/id/agent/530001910/2021-12-31T17:41:10.565Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001910>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:41:10.565Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4111_45, _:df_4111_47;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4111_49;
+    <http://xmlns.com/foaf/0.1/givenName> "Pol";
+    <http://xmlns.com/foaf/0.1/familyName> "Quadens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Quadens, Pol";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2858116>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4111_53;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4111_53 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4111_49 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1960"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008815>.
+<http://vocab.getty.edu/tgn/7008815> a <http://purl.org/dc/terms/Location>.
+_:df_4111_47 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01183"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4111_45 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001910"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001910/2021-12-31T17:41:10.565Z>.
+<https://stad.gent/id/agent/530000923/2021-12-31T16:41:21.464Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000923>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:41:21.464Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4537_22, _:df_4537_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Quenne Fils";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4537_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00471"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4537_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000923"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000923/2021-12-31T16:41:21.464Z>.
+<https://stad.gent/id/agent/530000918/2021-12-31T16:40:56.456Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000918>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:40:56.456Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4540_22, _:df_4540_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Arthur";
+    <http://xmlns.com/foaf/0.1/familyName> "Quillinus";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Quillinus, Arthur";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4540_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00466"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4540_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000918"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000918/2021-12-31T16:40:56.456Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/q.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/q.ttl>.

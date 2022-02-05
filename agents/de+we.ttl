@@ -1,0 +1,75 @@
+<https://stad.gent/id/agent/670001044/2022-01-01T04:57:50.865Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001044>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:57:50.865Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1627_15, _:df_1627_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Philippe";
+    <http://xmlns.com/foaf/0.1/familyName> "de Weghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Weghe, Jan Philippe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1627_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1027"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1627_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001044"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001044/2022-01-01T04:57:50.865Z>.
+<https://stad.gent/id/agent/670001045/2022-01-01T04:57:55.866Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001045>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:57:55.866Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1627_23, _:df_1627_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Philippe";
+    <http://xmlns.com/foaf/0.1/familyName> "de Werchin";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Werchin, Philippe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1627_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1028"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1627_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001045"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001045/2022-01-01T04:57:55.866Z>.
+<https://stad.gent/id/agent/670001046/2022-01-01T04:58:00.867Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001046>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:58:00.867Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1627_31, _:df_1627_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "de Wever";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Wever, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1627_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1029"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1627_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001046"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001046/2022-01-01T04:58:00.867Z>.
+<https://stad.gent/id/agent/570020409/2022-01-01T01:59:21.600Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020409>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:59:21.600Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2764_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Wette Frères";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2764_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020409"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020409/2022-01-01T01:59:21.600Z>.
+<https://stad.gent/id/agent/530021946/2021-12-31T20:40:42.859Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021946>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:40:42.859Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3331_2, _:df_3331_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Tine";
+    <http://xmlns.com/foaf/0.1/familyName> "de Weerdt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Weerdt, Tine";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3331_7;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3331_7 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3331_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02470"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3331_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021946"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021946/2021-12-31T20:40:42.859Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/de+we.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/de+we.ttl>.

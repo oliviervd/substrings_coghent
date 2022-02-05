@@ -1,0 +1,160 @@
+<https://stad.gent/id/agent/670000596/2022-01-01T04:20:18.549Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000596>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:20:18.549Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1894_2, _:df_1894_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "de Causmaeker";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Causmaeker, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1894_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0579"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1894_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000596"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000596/2022-01-01T04:20:18.549Z>.
+<https://stad.gent/id/agent/670000591/2022-01-01T04:19:53.539Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000591>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:19:53.539Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1897_2, _:df_1897_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "de Caigny";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Caigny, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1897_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0574"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1897_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000591"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000591/2022-01-01T04:19:53.539Z>.
+<https://stad.gent/id/agent/670000592/2022-01-01T04:19:58.541Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000592>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:19:58.541Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1897_10, _:df_1897_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "de Castillion";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Castillion, Joannes Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1897_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0575"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1897_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000592"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000592/2022-01-01T04:19:58.541Z>.
+<https://stad.gent/id/agent/670000593/2022-01-01T04:20:03.543Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000593>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:20:03.543Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1897_18, _:df_1897_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Frans Jozef de Castro?", "jonker, heer van Villers, Puivelde input['forename'][0] de Castro";
+    <http://xmlns.com/foaf/0.1/familyName> "de Castro";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Castro";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1897_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0576"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1897_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000593"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000593/2022-01-01T04:20:03.543Z>.
+<https://stad.gent/id/agent/670000594/2022-01-01T04:20:08.544Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000594>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:20:08.544Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1897_26, _:df_1897_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan François Albert";
+    <http://xmlns.com/foaf/0.1/familyName> "de Causemaecker";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Causemaecker, Jan François Albert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1897_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0577"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1897_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000594"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000594/2022-01-01T04:20:08.544Z>.
+<https://stad.gent/id/agent/670000595/2022-01-01T04:20:13.547Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000595>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:20:13.547Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1897_31, _:df_1897_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "de Causemaecker";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Causemaecker, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1897_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0578"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1897_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000595"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000595/2022-01-01T04:20:13.547Z>.
+<https://stad.gent/id/agent/670000590/2022-01-01T04:19:48.536Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000590>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:19:48.536Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1900_31, _:df_1900_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Charles";
+    <http://xmlns.com/foaf/0.1/familyName> "de Caesteckere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Caesteckere, Charles";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1900_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0573"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1900_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000590"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000590/2022-01-01T04:19:48.536Z>.
+<https://stad.gent/id/agent/570028994/2022-01-01T02:46:45.883Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028994>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:46:45.883Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2461_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Cavel & Roegiers";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2461_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028994"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028994/2022-01-01T02:46:45.883Z>.
+<https://stad.gent/id/agent/530021999/2021-12-31T20:44:34.171Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021999>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:44:34.171Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3307_16, _:df_3307_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3307_20;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3307_22;
+    <http://xmlns.com/foaf/0.1/givenName> "Amédée";
+    <http://xmlns.com/foaf/0.1/familyName> "de Caranza";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Caranza, Amédée";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q20128329>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3307_29;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3307_29 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_3307_22 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1914-03-20"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009692>.
+<http://vocab.getty.edu/tgn/7009692> a <http://purl.org/dc/terms/Location>.
+_:df_3307_20 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1843-07-23"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7002473>.
+<http://vocab.getty.edu/tgn/7002473> a <http://purl.org/dc/terms/Location>.
+_:df_3307_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02512"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3307_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021999"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021999/2021-12-31T20:44:34.171Z>.
+<https://stad.gent/id/agent/530000866/2021-12-31T16:37:25.215Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000866>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:37:25.215Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4564_2, _:df_4564_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "P.";
+    <http://xmlns.com/foaf/0.1/familyName> "de Cagny";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Cagny, P.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4564_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00424"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4564_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000866"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000866/2021-12-31T16:37:25.215Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/de+ca.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/de+ca.ttl>.

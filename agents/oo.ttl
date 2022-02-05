@@ -1,0 +1,132 @@
+<https://stad.gent/id/agent/670001966/2022-01-01T06:14:38.975Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001966>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:14:38.975Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1078_20, _:df_1078_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Kanunnik van het Sint-Baafskapittel Joannes Ooms";
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Ooms";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ooms, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1078_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1949"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1078_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001966"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001966/2022-01-01T06:14:38.975Z>.
+<https://stad.gent/id/agent/670001967/2022-01-01T06:14:44.211Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001967>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:14:44.211Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1078_26, _:df_1078_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Oortelman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Oortelman, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1078_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1950"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1078_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001967"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001967/2022-01-01T06:14:44.211Z>.
+<https://stad.gent/id/agent/530023482/2021-12-31T21:29:53.200Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023482>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:29:53.200Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3055_33, _:df_3055_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3055_36;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3055_37;
+    <http://xmlns.com/foaf/0.1/givenName> "Gaston";
+    <http://xmlns.com/foaf/0.1/familyName> "Oorlynck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Oorlynck, Gaston";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3055_40;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3055_40 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3055_37 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1989"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3055_36 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1909"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3055_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02934"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3055_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023482"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023482/2021-12-31T21:29:53.200Z>.
+<https://stad.gent/id/agent/530023415/2021-12-31T21:25:36.451Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023415>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:25:36.451Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3079_20, _:df_3079_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pierre";
+    <http://xmlns.com/foaf/0.1/familyName> "Oosterlick";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Oosterlick, Pierre";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3079_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02893"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3079_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023415"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023415/2021-12-31T21:25:36.451Z>.
+<https://stad.gent/id/agent/530023357/2021-12-31T21:21:45.104Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023357>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:21:45.104Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3097_29, _:df_3097_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3097_33;
+    <http://xmlns.com/foaf/0.1/givenName> "Ben";
+    <http://xmlns.com/foaf/0.1/familyName> "Oostrum";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Oostrum, Ben";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/60804>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3097_37;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3097_37 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_3097_33 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1960-05-14"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006800>.
+<http://vocab.getty.edu/tgn/7006800> a <http://purl.org/dc/terms/Location>.
+_:df_3097_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02864"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3097_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023357"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023357/2021-12-31T21:21:45.104Z>.
+<https://stad.gent/id/agent/530016774/2021-12-31T18:49:03.352Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016774>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:49:03.352Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3817_36, _:df_3817_38;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guido";
+    <http://xmlns.com/foaf/0.1/familyName> "Ooms";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ooms, Guido";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3817_41;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3817_41 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_3817_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01671"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3817_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016774"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016774/2021-12-31T18:49:03.352Z>.
+<https://stad.gent/id/agent/530013325/2021-12-31T18:01:23.683Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013325>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:01:23.683Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4075_29, _:df_4075_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4075_32;
+    <http://xmlns.com/foaf/0.1/givenName> "Koen";
+    <http://xmlns.com/foaf/0.1/familyName> "Ooms";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ooms, Koen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4075_32 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1964"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4075_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01242"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4075_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013325"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013325/2021-12-31T18:01:23.683Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/oo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/oo.ttl>.

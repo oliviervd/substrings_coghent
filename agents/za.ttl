@@ -1,0 +1,176 @@
+<https://stad.gent/id/agent/530020060/2021-12-31T19:42:19.501Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020060>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:42:19.501Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3655_22, _:df_3655_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Alessandro";
+    <http://xmlns.com/foaf/0.1/familyName> "Zambelli";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zambelli, Alessandro";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3655_27;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3655_27 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_3655_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01935"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3655_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020060"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020060/2021-12-31T19:42:19.501Z>.
+<https://stad.gent/id/agent/530013540/2021-12-31T18:14:39.742Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013540>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:14:39.742Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3991_13, _:df_3991_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3991_17;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zanussi";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q147065>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3991_17 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1916"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1045885>.
+<http://vocab.getty.edu/tgn/1045885> a <http://purl.org/dc/terms/Location>.
+_:df_3991_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01379"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3991_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013540"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013540/2021-12-31T18:14:39.742Z>.
+<https://stad.gent/id/agent/530001772/2021-12-31T17:32:12.020Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001772>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:32:12.020Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4174_33, _:df_4174_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4174_37;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4174_39;
+    <http://xmlns.com/foaf/0.1/givenName> "Marco";
+    <http://xmlns.com/foaf/0.1/familyName> "Zanuso";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zanuso, Marco";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500065259>, <https://www.wikidata.org/entity/Q1394730>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4174_43;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4174_43 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_4174_39 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2001-07-11"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4174_37 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1916-05-14"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+_:df_4174_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01076"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4174_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001772"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001772/2021-12-31T17:32:12.020Z>.
+<https://stad.gent/id/agent/530001361/2021-12-31T17:07:47.473Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001361>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:07:47.473Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4348_12, _:df_4348_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4348_15;
+    <http://xmlns.com/foaf/0.1/givenName> "Meindert Huibert";
+    <http://xmlns.com/foaf/0.1/familyName> "Zaalberg";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zaalberg, Meindert Huibert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500040832>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4348_19;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4348_19 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_4348_15 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1907"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4348_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00786"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4348_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001361"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001361/2021-12-31T17:07:47.473Z>.
+<https://stad.gent/id/agent/530000632/2021-12-31T16:22:24.557Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000632>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:22:24.557Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4672_7, _:df_4672_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4672_10;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4672_11;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zaanlandse Zilversmederij";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4672_11 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1990"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4672_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1920"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4672_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00245"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4672_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000632"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000632/2021-12-31T16:22:24.557Z>.
+<https://stad.gent/id/agent/530000598/2021-12-31T16:19:48.526Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000598>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:19:48.526Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4690_2, _:df_4690_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4690_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Marco";
+    <http://xmlns.com/foaf/0.1/familyName> "Zanini";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zanini, Marco";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q21055262>, <http://vocab.getty.edu/ulan/500273261>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4690_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4690_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_4690_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1971-09-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>.
+_:df_4690_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00214"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4690_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000598"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000598/2021-12-31T16:19:48.526Z>.
+<https://stad.gent/id/agent/530000397/2021-12-31T16:05:37.256Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000397>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:05:37.256Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4774_21, _:df_4774_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4774_25;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zanotta";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500282974>, <https://www.wikidata.org/entity/Q98024745>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4774_25 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1954"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1045694>.
+<http://vocab.getty.edu/tgn/1045694> a <http://purl.org/dc/terms/Location>.
+_:df_4774_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00078"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4774_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000397"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000397/2021-12-31T16:05:37.256Z>.
+<https://stad.gent/id/agent/530000068/2021-12-31T15:43:08.899Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000068>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:43:08.899Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4813_29, _:df_4813_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4813_33;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4813_35;
+    <http://xmlns.com/foaf/0.1/givenName> "Carlo";
+    <http://xmlns.com/foaf/0.1/familyName> "Zauli";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zauli, Carlo";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500395467>, <https://www.wikidata.org/entity/Q21282241>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4813_39;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4813_39 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_4813_35 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2002-01-14"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004995>.
+<http://vocab.getty.edu/tgn/7004995> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4813_33 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1926-08-19"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004995>.
+_:df_4813_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00011"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4813_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000068"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000068/2021-12-31T15:43:08.899Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/za.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/za.ttl>.

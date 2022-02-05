@@ -1,0 +1,276 @@
+<https://stad.gent/id/agent/670000387/2022-01-01T04:02:42.836Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000387>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:02:42.836Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2020_6, _:df_2020_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Claus";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Claus, weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2020_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0370"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2020_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000387"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000387/2022-01-01T04:02:42.836Z>.
+<https://stad.gent/id/agent/670000388/2022-01-01T04:02:47.837Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000388>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:02:47.837Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2020_11, _:df_2020_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Claus";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Claus, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2020_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0371"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2020_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000388"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000388/2022-01-01T04:02:47.837Z>.
+<https://stad.gent/id/agent/670000389/2022-01-01T04:02:52.838Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000389>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:02:52.838Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2020_19, _:df_2020_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Abraham";
+    <http://xmlns.com/foaf/0.1/familyName> "Claus";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Claus, Abraham";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2020_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0372"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2020_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000389"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000389/2022-01-01T04:02:52.838Z>.
+<https://stad.gent/id/agent/670000390/2022-01-01T04:02:58.078Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000390>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:02:58.078Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2020_27, _:df_2020_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guillaume weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Clauwers";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Clauwers, Guillaume weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2020_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0373"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2020_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000390"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000390/2022-01-01T04:02:58.078Z>.
+<https://stad.gent/id/agent/670000381/2022-01-01T04:02:12.825Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000381>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:02:12.825Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2023_2, _:df_2023_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jaecques";
+    <http://xmlns.com/foaf/0.1/familyName> "Claeyssens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Claeyssens, Jaecques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2023_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0364"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2023_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000381"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000381/2022-01-01T04:02:12.825Z>.
+<https://stad.gent/id/agent/670000382/2022-01-01T04:02:17.828Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000382>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:02:17.828Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2023_7, _:df_2023_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Paschier";
+    <http://xmlns.com/foaf/0.1/familyName> "Claeyssens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Claeyssens, Paschier";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2023_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0365"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2023_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000382"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000382/2022-01-01T04:02:17.828Z>.
+<https://stad.gent/id/agent/670000383/2022-01-01T04:02:22.829Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000383>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:02:22.829Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2023_12, _:df_2023_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guillaume";
+    <http://xmlns.com/foaf/0.1/familyName> "Claije";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Claije, Guillaume";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2023_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0366"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2023_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000383"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000383/2022-01-01T04:02:22.829Z>.
+<https://stad.gent/id/agent/670000384/2022-01-01T04:02:27.831Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000384>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:02:27.831Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2023_17, _:df_2023_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Laureijns erfgenamen";
+    <http://xmlns.com/foaf/0.1/familyName> "Clarebaut";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Clarebaut, Laureijns erfgenamen";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2023_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0367"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2023_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000384"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000384/2022-01-01T04:02:27.831Z>.
+<https://stad.gent/id/agent/670000385/2022-01-01T04:02:32.833Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000385>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:02:32.833Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2023_22, _:df_2023_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Amandus";
+    <http://xmlns.com/foaf/0.1/familyName> "Claus";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Claus, Amandus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2023_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0368"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2023_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000385"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000385/2022-01-01T04:02:32.833Z>.
+<https://stad.gent/id/agent/670000378/2022-01-01T04:01:57.464Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000378>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:01:57.464Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2026_18, _:df_2026_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Claes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Claes, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2026_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0361"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2026_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000378"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000378/2022-01-01T04:01:57.464Z>.
+<https://stad.gent/id/agent/670000379/2022-01-01T04:02:02.466Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000379>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:02:02.466Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2026_26, _:df_2026_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Claes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Claes, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2026_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0362"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2026_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000379"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000379/2022-01-01T04:02:02.466Z>.
+<https://stad.gent/id/agent/670000380/2022-01-01T04:02:07.823Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000380>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:02:07.823Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2026_31, _:df_2026_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Claeye";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Claeye, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2026_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0363"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2026_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000380"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000380/2022-01-01T04:02:07.823Z>.
+<https://stad.gent/id/agent/570030806/2022-01-01T03:06:38.933Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030806>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:06:38.933Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2335_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Claude, Paz et Silva";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2335_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030806"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030806/2022-01-01T03:06:38.933Z>.
+<https://stad.gent/id/agent/570029232/2022-01-01T02:50:02.188Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029232>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:50:02.188Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2443_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Clartalux";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2443_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029232"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029232/2022-01-01T02:50:02.188Z>.
+<https://stad.gent/id/agent/530023461/2021-12-31T21:28:17.488Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023461>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:28:17.488Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3064_6, _:df_3064_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Mieke";
+    <http://xmlns.com/foaf/0.1/familyName> "Claeys";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Claeys, Mieke";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3064_11;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3064_11 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3064_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02916"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3064_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023461"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023461/2021-12-31T21:28:17.488Z>.
+<https://stad.gent/id/agent/530018526/2021-12-31T19:22:11.358Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530018526>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:22:11.358Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3727_32, _:df_3727_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3727_35;
+    <http://xmlns.com/foaf/0.1/givenName> "Jensen";
+    <http://xmlns.com/foaf/0.1/familyName> "Claus";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Claus, Jensen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3727_35 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1966"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3727_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01818"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3727_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530018526"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530018526/2021-12-31T19:22:11.358Z>.
+<https://stad.gent/id/agent/530001451/2021-12-31T17:12:39.320Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001451>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:12:39.320Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4312_2, _:df_4312_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4312_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4312_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Abel";
+    <http://xmlns.com/foaf/0.1/familyName> "Claerhout";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Claerhout, Abel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4312_9;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4312_9 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4312_6 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1988"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4312_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1900"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4312_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00844"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4312_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001451"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001451/2021-12-31T17:12:39.320Z>.
+<https://stad.gent/id/agent/530000406/2021-12-31T16:06:17.595Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000406>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:06:17.595Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4768_12, _:df_4768_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4768_16;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "ClassiCon GmbH";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4768_16 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004333>.
+<http://vocab.getty.edu/tgn/7004333> a <http://purl.org/dc/terms/Location>.
+_:df_4768_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00086"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4768_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000406"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000406/2021-12-31T16:06:17.595Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/cla.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/cla.ttl>.

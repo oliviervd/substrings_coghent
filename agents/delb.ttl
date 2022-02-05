@@ -1,0 +1,46 @@
+<https://stad.gent/id/agent/670001079/2022-01-01T05:00:47.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001079>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:00:47.249Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1606_22, _:df_1606_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Delbecq";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delbecq, weduwe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1606_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1062"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1606_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001079"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001079/2022-01-01T05:00:47.249Z>.
+<https://stad.gent/id/agent/670001080/2022-01-01T05:00:52.250Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001080>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:00:52.250Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1606_27, _:df_1606_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Delbecq";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delbecq, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1606_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1063"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1606_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001080"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001080/2022-01-01T05:00:52.250Z>.
+<https://stad.gent/id/agent/530022127/2021-12-31T20:50:21.336Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022127>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:50:21.336Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3268_25, _:df_3268_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frederik";
+    <http://xmlns.com/foaf/0.1/familyName> "Delbart";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delbart, Frederik";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3268_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02579"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3268_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022127"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022127/2021-12-31T20:50:21.336Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/delb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/delb.ttl>.

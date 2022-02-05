@@ -1,0 +1,74 @@
+<https://stad.gent/id/agent/530001276/2021-12-31T17:02:30.376Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001276>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:02:30.376Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4387_29, _:df_4387_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "F.";
+    <http://xmlns.com/foaf/0.1/familyName> "Delatte";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delatte, F.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4387_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00723"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4387_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001276"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001276/2021-12-31T17:02:30.376Z>.
+<https://stad.gent/id/agent/530001188/2021-12-31T16:57:58.394Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001188>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:57:58.394Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4417_2, _:df_4417_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4417_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4417_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Sonia";
+    <http://xmlns.com/foaf/0.1/familyName> "Delaunay";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delaunay, Sonia";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500115510>, <https://www.wikidata.org/entity/Q232972>, <https://rkd.nl/explore/artists/21633>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4417_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4417_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Russisch"@nl.
+_:df_4417_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1979-12-05"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>.
+_:df_4417_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1885-11-14"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1054146>.
+<http://vocab.getty.edu/tgn/1054146> a <http://purl.org/dc/terms/Location>.
+_:df_4417_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00669"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4417_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001188"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001188/2021-12-31T16:57:58.394Z>.
+<https://stad.gent/id/agent/530001017/2021-12-31T16:47:39.391Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001017>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:47:39.391Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4492_14, _:df_4492_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4492_18;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4492_20;
+    <http://xmlns.com/foaf/0.1/givenName> "Auguste";
+    <http://xmlns.com/foaf/0.1/familyName> "Delaherche";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Delaherche, Auguste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500052675>, <https://www.wikidata.org/entity/Q9162083>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4492_24;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4492_24 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_4492_20 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1940-06-27"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>.
+_:df_4492_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1857-12-27"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7010570>.
+<http://vocab.getty.edu/tgn/7010570> a <http://purl.org/dc/terms/Location>.
+_:df_4492_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00546"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4492_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001017"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001017/2021-12-31T16:47:39.391Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/dela.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/dela.ttl>.

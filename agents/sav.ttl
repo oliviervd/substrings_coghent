@@ -1,0 +1,74 @@
+<https://stad.gent/id/agent/570023004/2022-01-01T02:09:35.773Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570023004>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:09:35.773Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2692_5;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Savonneries Couvreur";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570023532>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570023532> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Zeepziederijen Couvreur"@nl.
+_:df_2692_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023004"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570023004/2022-01-01T02:09:35.773Z>.
+<https://stad.gent/id/agent/570021350/2022-01-01T02:03:23.223Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021350>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:03:23.223Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2737_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Savonnerie Lavandia";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2737_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021350"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021350/2022-01-01T02:03:23.223Z>.
+<https://stad.gent/id/agent/570021147/2022-01-01T02:01:37.608Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021147>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:01:37.608Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2749_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Savonneries Lever Frères";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570018842>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570018842> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Zeepziederij gebroeders Lever"@nl.
+_:df_2749_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021147"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021147/2022-01-01T02:01:37.608Z>.
+<https://stad.gent/id/agent/570021144/2022-01-01T02:01:22.601Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021144>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:01:22.601Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2752_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Savonnerie Laurent Frères & Cie";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2752_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021144"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021144/2022-01-01T02:01:22.601Z>.
+<https://stad.gent/id/agent/530023329/2021-12-31T21:19:49.123Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023329>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:19:49.123Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3106_2, _:df_3106_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3106_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3106_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Albert";
+    <http://xmlns.com/foaf/0.1/familyName> "Saverys";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Saverys, Albert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500040898>, <https://www.wikidata.org/entity/Q2295945>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3106_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3106_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3106_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1964-04-29"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026388>.
+<http://vocab.getty.edu/tgn/1026388> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3106_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1886-05-12"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026388>.
+_:df_3106_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02845"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3106_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023329"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023329/2021-12-31T21:19:49.123Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/sav.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/sav.ttl>.

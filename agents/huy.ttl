@@ -1,0 +1,73 @@
+<https://stad.gent/id/agent/570030111/2022-01-01T02:58:55.489Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030111>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:58:55.489Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2386_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Huyshauwer A. en Scheerder L.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2386_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030111"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030111/2022-01-01T02:58:55.489Z>.
+<https://stad.gent/id/agent/530015703/2021-12-31T18:32:51.844Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530015703>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:32:51.844Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3892_2, _:df_3892_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frank";
+    <http://xmlns.com/foaf/0.1/familyName> "Huygens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Huygens, Frank";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3892_7;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3892_7 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3892_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01542"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3892_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530015703"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530015703/2021-12-31T18:32:51.844Z>.
+<https://stad.gent/id/agent/530013314/2021-12-31T18:00:58.373Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013314>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:00:58.373Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4078_28, _:df_4078_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4078_31;
+    <http://xmlns.com/foaf/0.1/givenName> "Els";
+    <http://xmlns.com/foaf/0.1/familyName> "Huygelen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Huygelen, Els";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4078_34;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4078_34 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4078_31 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1960-09-08"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4078_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01237"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4078_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013314"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013314/2021-12-31T18:00:58.373Z>.
+<https://stad.gent/id/agent/530000358/2021-12-31T16:02:35.980Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000358>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:02:35.980Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4783_37, _:df_4783_39;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4783_40;
+    <http://xmlns.com/foaf/0.1/givenName> "David";
+    <http://xmlns.com/foaf/0.1/familyName> "Huycke";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Huycke, David";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q55235745>, <https://rkd.nl/explore/artists/94588>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4783_44;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4783_44 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4783_40 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1967"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4783_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00063"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4783_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000358"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000358/2021-12-31T16:02:35.980Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/huy.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/huy.ttl>.

@@ -1,0 +1,29 @@
+<https://stad.gent/id/agent/530023155/2021-12-31T21:07:09.254Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023155>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:07:09.254Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3190_27, _:df_3190_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Heco";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3190_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02709"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3190_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023155"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023155/2021-12-31T21:07:09.254Z>.
+<https://stad.gent/id/agent/530022025/2021-12-31T20:46:30.148Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022025>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:46:30.148Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3292_2, _:df_3292_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Fritz";
+    <http://xmlns.com/foaf/0.1/familyName> "Heckert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Heckert, Fritz";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3292_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02535"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3292_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022025"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022025/2021-12-31T20:46:30.148Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/hec.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/hec.ttl>.

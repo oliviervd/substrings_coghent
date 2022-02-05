@@ -1,0 +1,94 @@
+<https://stad.gent/id/agent/570029399/2022-01-01T02:52:43.271Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029399>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:52:43.271Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2425_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Usine a Gaz de Jupile SA";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2425_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029399"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029399/2022-01-01T02:52:43.271Z>.
+<https://stad.gent/id/agent/570028978/2022-01-01T02:46:15.460Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028978>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:46:15.460Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2464_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2464_13;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2464_14;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Usines Cotonnières de Belgique nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2464_14 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1966"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2464_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1928"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2464_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028978"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028978/2022-01-01T02:46:15.460Z>.
+<https://stad.gent/id/agent/570028956/2022-01-01T02:45:35.172Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028956>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:45:35.172Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2467_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2467_9;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2467_10;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Usines Cotonnières Gand-Zele-Tubize nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2467_10 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1928"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2467_9 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1898"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2467_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028956"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028956/2022-01-01T02:45:35.172Z>.
+<https://stad.gent/id/agent/530013470/2021-12-31T18:10:02.091Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013470>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:10:02.091Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4021_26, _:df_4021_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4021_30;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Usine Peters-Lacroix";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4021_30 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1850"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>.
+_:df_4021_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01331"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4021_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013470"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013470/2021-12-31T18:10:02.091Z>.
+<https://stad.gent/id/agent/530001091/2021-12-31T16:52:41.417Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001091>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:52:41.417Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4456_17, _:df_4456_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4456_21;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Usines Cotonieres de Belgique";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4456_21 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1898"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026791>.
+<http://vocab.getty.edu/tgn/1026791> a <http://purl.org/dc/terms/Location>.
+_:df_4456_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00606"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4456_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001091"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001091/2021-12-31T16:52:41.417Z>.
+<https://stad.gent/id/agent/530000726/2021-12-31T16:29:07.021Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000726>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:29:07.021Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4624_14, _:df_4624_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4624_18;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Usines Peters-Lacroix";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4624_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>.
+_:df_4624_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00325"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4624_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000726"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000726/2021-12-31T16:29:07.021Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/us.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/us.ttl>.

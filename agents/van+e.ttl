@@ -1,0 +1,110 @@
+<https://stad.gent/id/agent/670002618/2022-01-01T07:08:54.019Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002618>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:08:54.019Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_688_2, _:df_688_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Michiel";
+    <http://xmlns.com/foaf/0.1/familyName> "van Eyteryck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Eyteryck, Michiel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_688_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2601"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_688_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002618"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002618/2022-01-01T07:08:54.019Z>.
+<https://stad.gent/id/agent/670002616/2022-01-01T07:08:44.015Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:08:44.015Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_691_17, _:df_691_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Louys";
+    <http://xmlns.com/foaf/0.1/familyName> "van Eechaute";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Eechaute, Louys";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_691_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2599"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_691_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002616"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002616/2022-01-01T07:08:44.015Z>.
+<https://stad.gent/id/agent/670002617/2022-01-01T07:08:49.017Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002617>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:08:49.017Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_691_22, _:df_691_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Geraard Govaart";
+    <http://xmlns.com/foaf/0.1/givenName> "Geerardus";
+    <http://xmlns.com/foaf/0.1/familyName> "van Eersel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Eersel, Geerardus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_691_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2600"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_691_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002617"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002617/2022-01-01T07:08:49.017Z>.
+<https://stad.gent/id/agent/530017595/2021-12-31T19:17:39.722Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530017595>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:17:39.722Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3748_12, _:df_3748_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3748_16;
+    <http://xmlns.com/foaf/0.1/givenName> "Niels";
+    <http://xmlns.com/foaf/0.1/familyName> "van Eijk";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Eijk, Niels";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/256781>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3748_20;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3748_20 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_3748_16 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1970"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1048124>.
+<http://vocab.getty.edu/tgn/1048124> a <http://purl.org/dc/terms/Location>.
+_:df_3748_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01782"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3748_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530017595"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530017595/2021-12-31T19:17:39.722Z>.
+<https://stad.gent/id/agent/530016520/2021-12-31T18:36:43.580Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016520>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:36:43.580Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3880_34, _:df_3880_36;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3880_38;
+    <http://xmlns.com/foaf/0.1/givenName> "Erick";
+    <http://xmlns.com/foaf/0.1/familyName> "van Egeraat";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Egeraat, Erick";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/97952>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3880_42;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3880_42 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_3880_38 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1965"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006952>.
+<http://vocab.getty.edu/tgn/7006952> a <http://purl.org/dc/terms/Location>.
+_:df_3880_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01565"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3880_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016520"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016520/2021-12-31T18:36:43.580Z>.
+<https://stad.gent/id/agent/530001141/2021-12-31T16:55:22.394Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001141>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:55:22.394Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4438_38, _:df_4438_40;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "A.";
+    <http://xmlns.com/foaf/0.1/familyName> "van Eenaeme";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Eenaeme, A.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4438_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00638"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4438_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001141"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001141/2021-12-31T16:55:22.394Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/van+e.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/van+e.ttl>.

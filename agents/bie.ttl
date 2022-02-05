@@ -1,0 +1,50 @@
+<https://stad.gent/id/agent/530001541/2021-12-31T17:18:36.694Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001541>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:18:36.694Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4270_12, _:df_4270_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4270_16;
+    <http://xmlns.com/foaf/0.1/givenName> "Gabriel";
+    <http://xmlns.com/foaf/0.1/familyName> "Bien-Aimé";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bien-Aimé, Gabriel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q12890889>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4270_20;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4270_20 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Haïtiaans"@nl.
+_:df_4270_16 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1951"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/8712655>.
+<http://vocab.getty.edu/tgn/8712655> a <http://purl.org/dc/terms/Location>.
+_:df_4270_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00914"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4270_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001541"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001541/2021-12-31T17:18:36.694Z>.
+<https://stad.gent/id/agent/530000506/2021-12-31T16:13:25.339Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000506>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:13:25.339Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4738_55, _:df_4738_57;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4738_58;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4738_59;
+    <http://xmlns.com/foaf/0.1/givenName> "Horace";
+    <http://xmlns.com/foaf/0.1/familyName> "Bieuville";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bieuville, Horace";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4738_62;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4738_62 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_4738_59 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1925"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4738_58 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1879"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4738_57 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00138"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4738_55 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000506"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000506/2021-12-31T16:13:25.339Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/bie.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/bie.ttl>.

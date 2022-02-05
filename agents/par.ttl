@@ -1,0 +1,102 @@
+<https://stad.gent/id/agent/570018616/2022-01-01T01:50:02.792Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570018616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:50:02.792Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2830_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Parkingson & Cowan Ltd";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2830_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018616"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570018616/2022-01-01T01:50:02.792Z>.
+<https://stad.gent/id/agent/530023147/2021-12-31T21:06:44.247Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023147>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:06:44.247Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3190_2, _:df_3190_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3190_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pars Pro Toto";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3190_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>.
+_:df_3190_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02705"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3190_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023147"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023147/2021-12-31T21:06:44.247Z>.
+<https://stad.gent/id/agent/530023016/2021-12-31T20:59:04.803Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023016>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:59:04.803Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3232_28, _:df_3232_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3232_32;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Parti Ouvrier Belge";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1811565>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3232_32 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1885"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>.
+_:df_3232_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02638"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3232_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023016"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023016/2021-12-31T20:59:04.803Z>.
+<https://stad.gent/id/agent/530001449/2021-12-31T17:12:29.317Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001449>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:12:29.317Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4315_27, _:df_4315_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Dennis";
+    <http://xmlns.com/foaf/0.1/familyName> "Parks";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Parks, Dennis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4315_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00842"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4315_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001449"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001449/2021-12-31T17:12:29.317Z>.
+<https://stad.gent/id/agent/530001010/2021-12-31T16:47:08.799Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001010>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:47:08.799Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4495_14, _:df_4495_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Parot";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4495_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00540"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4495_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001010"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001010/2021-12-31T16:47:08.799Z>.
+<https://stad.gent/id/agent/530000601/2021-12-31T16:20:03.531Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000601>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:20:03.531Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4690_28, _:df_4690_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4690_32;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4690_34;
+    <http://xmlns.com/foaf/0.1/givenName> "Ico";
+    <http://xmlns.com/foaf/0.1/familyName> "Parisi";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Parisi, Ico";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500237252>, <https://www.wikidata.org/entity/Q1237220>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4690_38;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4690_38 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_4690_34 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1996-12-19"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005851>.
+<http://vocab.getty.edu/tgn/7005851> a <http://purl.org/dc/terms/Location>.
+_:df_4690_32 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1916-09-23"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003928>.
+<http://vocab.getty.edu/tgn/7003928> a <http://purl.org/dc/terms/Location>.
+_:df_4690_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00217"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4690_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000601"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000601/2021-12-31T16:20:03.531Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/par.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/par.ttl>.

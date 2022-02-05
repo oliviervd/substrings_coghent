@@ -1,0 +1,252 @@
+<https://stad.gent/id/agent/670001853/2022-01-01T06:05:10.794Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001853>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:05:10.794Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1144_2, _:df_1144_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "heer van Eeckhoven weduwe Moerman";
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Moerman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moerman, weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1144_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1836"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1144_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001853"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001853/2022-01-01T06:05:10.794Z>.
+<https://stad.gent/id/agent/670001854/2022-01-01T06:05:15.795Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001854>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:05:15.795Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1144_8, _:df_1144_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Moerman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moerman, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1144_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1837"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1144_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001854"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001854/2022-01-01T06:05:15.795Z>.
+<https://stad.gent/id/agent/670001848/2022-01-01T06:04:45.784Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001848>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:04:45.784Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1147_2, _:df_1147_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Moerloose";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moerloose";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1147_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1831"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1147_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001848"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001848/2022-01-01T06:04:45.784Z>.
+<https://stad.gent/id/agent/670001849/2022-01-01T06:04:50.786Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001849>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:04:50.786Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1147_6, _:df_1147_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Moerman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moerman";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1147_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1832"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1147_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001849"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001849/2022-01-01T06:04:50.786Z>.
+<https://stad.gent/id/agent/670001850/2022-01-01T06:04:55.787Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001850>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:04:55.787Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1147_10, _:df_1147_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joseph";
+    <http://xmlns.com/foaf/0.1/familyName> "Moerman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moerman, Joseph";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1147_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1833"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1147_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001850"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001850/2022-01-01T06:04:55.787Z>.
+<https://stad.gent/id/agent/670001851/2022-01-01T06:05:00.789Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001851>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:05:00.789Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1147_18, _:df_1147_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Robert";
+    <http://xmlns.com/foaf/0.1/familyName> "Moerman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moerman, Robert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1147_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1834"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1147_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001851"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001851/2022-01-01T06:05:00.789Z>.
+<https://stad.gent/id/agent/670001852/2022-01-01T06:05:05.791Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001852>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:05:05.791Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1147_26, _:df_1147_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Moerman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moerman, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1147_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1835"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1147_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001852"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001852/2022-01-01T06:05:05.791Z>.
+<https://stad.gent/id/agent/670001843/2022-01-01T06:04:20.530Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001843>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:04:20.530Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1150_2, _:df_1150_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gillis";
+    <http://xmlns.com/foaf/0.1/familyName> "Moeraert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moeraert, Gillis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1150_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1826"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1150_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001843"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001843/2022-01-01T06:04:20.530Z>.
+<https://stad.gent/id/agent/670001844/2022-01-01T06:04:25.531Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001844>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:04:25.531Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1150_7, _:df_1150_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Moeraert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moeraert, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1150_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1827"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1150_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001844"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001844/2022-01-01T06:04:25.531Z>.
+<https://stad.gent/id/agent/670001845/2022-01-01T06:04:30.533Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:04:30.533Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1150_12, _:df_1150_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Moeraert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moeraert, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1150_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1828"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1150_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001845/2022-01-01T06:04:30.533Z>.
+<https://stad.gent/id/agent/670001846/2022-01-01T06:04:35.534Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001846>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:04:35.534Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1150_17, _:df_1150_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "Moeraert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moeraert, Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1150_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1829"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1150_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001846"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001846/2022-01-01T06:04:35.534Z>.
+<https://stad.gent/id/agent/670001847/2022-01-01T06:04:40.782Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001847>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:04:40.782Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1150_22, _:df_1150_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans Joseph";
+    <http://xmlns.com/foaf/0.1/familyName> "Moeraert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moeraert, Frans Joseph";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1150_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1830"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1150_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001847"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001847/2022-01-01T06:04:40.782Z>.
+<https://stad.gent/id/agent/670001841/2022-01-01T06:04:10.528Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001841>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:04:10.528Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1153_23, _:df_1153_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Adriaen Francies";
+    <http://xmlns.com/foaf/0.1/familyName> "Moens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moens, Adriaen Francies";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1153_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1824"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1153_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001841"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001841/2022-01-01T06:04:10.528Z>.
+<https://stad.gent/id/agent/670001842/2022-01-01T06:04:15.529Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001842>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:04:15.529Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1153_31, _:df_1153_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Ludovicus";
+    <http://xmlns.com/foaf/0.1/familyName> "Moeraert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moeraert, Ludovicus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1153_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1825"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1153_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001842"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001842/2022-01-01T06:04:15.529Z>.
+<https://stad.gent/id/agent/570022339/2022-01-01T02:05:29.130Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570022339>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:05:29.130Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2722_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moerman, A.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2722_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022339"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570022339/2022-01-01T02:05:29.130Z>.
+<https://stad.gent/id/agent/530021402/2021-12-31T20:21:35.196Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021402>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:21:35.196Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3451_19, _:df_3451_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/familyName> "Moens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moens";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3451_23;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3451_23 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3451_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02272"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3451_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021402"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021402/2021-12-31T20:21:35.196Z>.
+<https://stad.gent/id/agent/530001144/2021-12-31T16:55:37.400Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001144>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:55:37.400Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4435_19, _:df_4435_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Eugène";
+    <http://xmlns.com/foaf/0.1/familyName> "Moerman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moerman, Eugène";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4435_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00641"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4435_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001144"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001144/2021-12-31T16:55:37.400Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/moe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/moe.ttl>.

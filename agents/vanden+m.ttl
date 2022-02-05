@@ -1,0 +1,18 @@
+<https://stad.gent/id/agent/670002571/2022-01-01T07:04:57.411Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002571>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:04:57.411Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_718_21, _:df_718_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "heer van Berlare Jan Baptiste Ignace vanden Meersche";
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste Ignace";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Meersche";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Meersche, Jan Baptiste Ignace";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_718_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2554"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_718_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002571"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002571/2022-01-01T07:04:57.411Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/vanden+m.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/vanden+m.ttl>.

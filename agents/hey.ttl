@@ -1,0 +1,92 @@
+<https://stad.gent/id/agent/670001509/2022-01-01T05:36:40.184Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001509>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:36:40.184Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1348_2, _:df_1348_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francies";
+    <http://xmlns.com/foaf/0.1/familyName> "Heye";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Heye, Francies";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1348_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1492"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1348_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001509"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001509/2022-01-01T05:36:40.184Z>.
+<https://stad.gent/id/agent/670001510/2022-01-01T05:36:45.186Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001510>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:36:45.186Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1348_7, _:df_1348_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joanne";
+    <http://xmlns.com/foaf/0.1/familyName> "Heye";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Heye, Joanne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1348_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1493"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1348_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001510"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001510/2022-01-01T05:36:45.186Z>.
+<https://stad.gent/id/agent/670001511/2022-01-01T05:36:50.189Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001511>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:36:50.189Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1348_12, _:df_1348_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Heye";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Heye, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1348_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1494"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1348_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001511"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001511/2022-01-01T05:36:50.189Z>.
+<https://stad.gent/id/agent/670001512/2022-01-01T05:36:55.190Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001512>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:36:55.190Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1348_17, _:df_1348_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Heye";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Heye, weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1348_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1495"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1348_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001512"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001512/2022-01-01T05:36:55.190Z>.
+<https://stad.gent/id/agent/670001513/2022-01-01T05:37:00.428Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001513>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:37:00.428Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1348_22, _:df_1348_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "David";
+    <http://xmlns.com/foaf/0.1/familyName> "Heylbrouck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Heylbrouck, David";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1348_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1496"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1348_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001513"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001513/2022-01-01T05:37:00.428Z>.
+<https://stad.gent/id/agent/670001508/2022-01-01T05:36:35.183Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001508>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:36:35.183Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1351_25, _:df_1351_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Heyde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Heyde, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1351_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1491"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1351_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001508"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001508/2022-01-01T05:36:35.183Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/hey.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/hey.ttl>.

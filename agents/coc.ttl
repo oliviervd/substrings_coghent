@@ -1,0 +1,188 @@
+<https://stad.gent/id/agent/670000421/2022-01-01T04:05:34.079Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000421>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:05:34.079Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1999_2, _:df_1999_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Cocquyt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cocquyt";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1999_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0404"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1999_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000421"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000421/2022-01-01T04:05:34.079Z>.
+<https://stad.gent/id/agent/670000422/2022-01-01T04:05:39.080Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000422>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:05:39.080Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1999_6, _:df_1999_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans Dominicus";
+    <http://xmlns.com/foaf/0.1/familyName> "Cocquyt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cocquyt, Frans Dominicus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1999_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0405"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1999_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000422"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000422/2022-01-01T04:05:39.080Z>.
+<https://stad.gent/id/agent/670000417/2022-01-01T04:05:13.714Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000417>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:05:13.714Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2002_10, _:df_2002_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Abraham";
+    <http://xmlns.com/foaf/0.1/familyName> "Cockuyt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cockuyt, Abraham";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2002_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0400"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2002_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000417"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000417/2022-01-01T04:05:13.714Z>.
+<https://stad.gent/id/agent/670000418/2022-01-01T04:05:18.715Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000418>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:05:18.715Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2002_20, _:df_2002_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joan";
+    <http://xmlns.com/foaf/0.1/familyName> "Cocquyt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cocquyt, Joan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2002_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0401"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2002_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000418"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000418/2022-01-01T04:05:18.715Z>.
+<https://stad.gent/id/agent/670000419/2022-01-01T04:05:23.717Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000419>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:05:23.717Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2002_25, _:df_2002_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anna";
+    <http://xmlns.com/foaf/0.1/familyName> "Cocquyt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cocquyt, Anna";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2002_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0402"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2002_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000419"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000419/2022-01-01T04:05:23.717Z>.
+<https://stad.gent/id/agent/670000420/2022-01-01T04:05:29.077Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000420>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:05:29.077Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2002_30, _:df_2002_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francois";
+    <http://xmlns.com/foaf/0.1/familyName> "Cocquyt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cocquyt, Francois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2002_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0403"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2002_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000420"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000420/2022-01-01T04:05:29.077Z>.
+<https://stad.gent/id/agent/570030781/2022-01-01T03:05:23.293Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030781>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:05:23.293Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2344_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2344_14;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2344_15;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cockerill John SA";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3428923>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2344_15 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1955"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2344_14 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1842"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026723>.
+<http://vocab.getty.edu/tgn/1026723> a <http://purl.org/dc/terms/Location>.
+_:df_2344_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030781"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030781/2022-01-01T03:05:23.293Z>.
+<https://stad.gent/id/agent/570029807/2022-01-01T02:58:05.197Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029807>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:58:05.197Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2392_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cocquyt-De Ceulener Usines Werkhuizen";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2392_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029807"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029807/2022-01-01T02:58:05.197Z>.
+<https://stad.gent/id/agent/530020689/2021-12-31T20:00:21.635Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020689>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:00:21.635Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3559_36, _:df_3559_38;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3559_39;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cocktail";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3559_39 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1981"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3559_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02095"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3559_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020689"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020689/2021-12-31T20:00:21.635Z>.
+<https://stad.gent/id/agent/530020552/2021-12-31T19:51:38.221Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020552>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:51:38.221Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3610_7, _:df_3610_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3610_11;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3610_12;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Cockx";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cockx, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500131469>, <https://www.wikidata.org/entity/Q2775713>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3610_16;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3610_16 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3610_12 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1976"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3610_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1891-11-21"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007856>.
+<http://vocab.getty.edu/tgn/7007856> a <http://purl.org/dc/terms/Location>.
+_:df_3610_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02008"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3610_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020552"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020552/2021-12-31T19:51:38.221Z>.
+<https://stad.gent/id/agent/530001153/2021-12-31T16:56:12.737Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001153>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:56:12.737Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4432_33, _:df_4432_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "N.";
+    <http://xmlns.com/foaf/0.1/familyName> "Cochin";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cochin, N.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4432_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00648"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4432_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001153"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001153/2021-12-31T16:56:12.737Z>.
+<https://stad.gent/id/agent/470010303/2021-12-31T15:34:10.439Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470010303>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:34:10.439Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4855_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Coca-Cola";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2813>;
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/470010241>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/470010241> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Coca Cola"@nl.
+_:df_4855_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010303"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470010303/2021-12-31T15:34:10.439Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/coc.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/coc.ttl>.

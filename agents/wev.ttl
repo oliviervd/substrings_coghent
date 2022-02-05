@@ -1,0 +1,61 @@
+<https://stad.gent/id/agent/530023480/2021-12-31T21:29:48.198Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023480>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:29:48.198Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3055_26, _:df_3055_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3055_30;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Weverij Sagaert N.V.";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/205197>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3055_30 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026472>.
+<http://vocab.getty.edu/tgn/1026472> a <http://purl.org/dc/terms/Location>.
+_:df_3055_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02933"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3055_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023480"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023480/2021-12-31T21:29:48.198Z>.
+<https://stad.gent/id/agent/530023400/2021-12-31T21:24:21.109Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023400>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:24:21.109Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3082_14, _:df_3082_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Weverij van de Kerkhove";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3082_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02886"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3082_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023400"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023400/2021-12-31T21:24:21.109Z>.
+<https://stad.gent/id/agent/530020985/2021-12-31T20:12:31.542Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020985>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:12:31.542Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3496_33, _:df_3496_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Weverij De Ploeg";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2180936>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3496_38;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3496_38 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_3496_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02200"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3496_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020985"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020985/2021-12-31T20:12:31.542Z>.
+<https://stad.gent/id/agent/530000623/2021-12-31T16:21:44.220Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000623>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:21:44.220Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4678_35, _:df_4678_37;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "C.F.";
+    <http://xmlns.com/foaf/0.1/familyName> "Wever";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wever, C.F.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4678_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00237"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4678_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000623"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000623/2021-12-31T16:21:44.220Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/wev.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/wev.ttl>.

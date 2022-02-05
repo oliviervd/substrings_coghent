@@ -1,0 +1,79 @@
+<https://stad.gent/id/agent/670001726/2022-01-01T05:54:31.914Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001726>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:54:31.914Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1222_17, _:df_1222_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "Maelcamp";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maelcamp, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1222_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1709"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1222_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001726"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001726/2022-01-01T05:54:31.914Z>.
+<https://stad.gent/id/agent/670001727/2022-01-01T05:54:37.220Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001727>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:54:37.220Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1222_22, _:df_1222_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus Stephanus";
+    <http://xmlns.com/foaf/0.1/familyName> "Maelcamp";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maelcamp, Jacobus Stephanus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1222_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1710"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1222_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001727"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001727/2022-01-01T05:54:37.220Z>.
+<https://stad.gent/id/agent/670001720/2022-01-01T05:54:01.902Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001720>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:54:01.902Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1225_15, _:df_1225_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "graaf graaf Maelcamp";
+    <http://xmlns.com/foaf/0.1/givenName> "graaf";
+    <http://xmlns.com/foaf/0.1/familyName> "Maelcamp";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maelcamp, graaf";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1225_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1703"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1225_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001720"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001720/2022-01-01T05:54:01.902Z>.
+<https://stad.gent/id/agent/670001721/2022-01-01T05:54:06.905Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001721>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:54:06.905Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1225_21, _:df_1225_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "jonker Stephanus Maelcamp";
+    <http://xmlns.com/foaf/0.1/givenName> "Stephanus";
+    <http://xmlns.com/foaf/0.1/familyName> "Maelcamp";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maelcamp, Stephanus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1225_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1704"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1225_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001721"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001721/2022-01-01T05:54:06.905Z>.
+<https://stad.gent/id/agent/670001722/2022-01-01T05:54:11.907Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001722>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:54:11.907Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1225_30, _:df_1225_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Carolus";
+    <http://xmlns.com/foaf/0.1/familyName> "Maelcamp";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Maelcamp, Carolus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1225_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1705"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1225_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001722"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001722/2022-01-01T05:54:11.907Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/mael.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/mael.ttl>.

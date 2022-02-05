@@ -1,0 +1,107 @@
+<https://stad.gent/id/agent/670001260/2022-01-01T05:15:52.925Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001260>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:15:52.925Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1498_16, _:df_1498_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Eeckman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Eeckman, Pieter weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1498_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1243"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1498_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001260"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001260/2022-01-01T05:15:52.925Z>.
+<https://stad.gent/id/agent/670001261/2022-01-01T05:15:57.927Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001261>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:15:57.927Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1498_24, _:df_1498_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Eeckman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Eeckman, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1498_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1244"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1498_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001261"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001261/2022-01-01T05:15:57.927Z>.
+<https://stad.gent/id/agent/670001262/2022-01-01T05:16:03.198Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001262>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:16:03.198Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1498_29, _:df_1498_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Lievin";
+    <http://xmlns.com/foaf/0.1/familyName> "Eeckman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Eeckman, Lievin";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1498_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1245"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1498_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001262"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001262/2022-01-01T05:16:03.198Z>.
+<https://stad.gent/id/agent/530023287/2021-12-31T21:16:27.748Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023287>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:16:27.748Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3130_2, _:df_3130_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "P.";
+    <http://xmlns.com/foaf/0.1/familyName> "Eeckhout";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Eeckhout, P.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3130_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02805"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3130_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023287"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023287/2021-12-31T21:16:27.748Z>.
+<https://stad.gent/id/agent/530017683/2021-12-31T19:18:30.077Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530017683>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:18:30.077Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3745_28, _:df_3745_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3745_32;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3745_34;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Eerste Steenwijker Kunst Aardewerk Fabriek";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2018183>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3745_34 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1934"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1047866>.
+<http://vocab.getty.edu/tgn/1047866> a <http://purl.org/dc/terms/Location>.
+_:df_3745_32 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1919"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1048136>.
+<http://vocab.getty.edu/tgn/1048136> a <http://purl.org/dc/terms/Location>.
+_:df_3745_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01789"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3745_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530017683"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530017683/2021-12-31T19:18:30.077Z>.
+<https://stad.gent/id/agent/530017592/2021-12-31T19:17:34.720Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530017592>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:17:34.720Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3748_2, _:df_3748_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3748_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Piet Hein";
+    <http://xmlns.com/foaf/0.1/familyName> "Eek";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Eek, Piet Hein";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500277748>, <https://www.wikidata.org/entity/Q2368598>, <https://rkd.nl/explore/artists/88606>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3748_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3748_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_3748_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1967-04-29"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007053>.
+<http://vocab.getty.edu/tgn/7007053> a <http://purl.org/dc/terms/Location>.
+_:df_3748_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01781"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3748_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530017592"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530017592/2021-12-31T19:17:34.720Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/ee.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/ee.ttl>.

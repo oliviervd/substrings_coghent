@@ -1,0 +1,274 @@
+<https://stad.gent/id/agent/670002335/2022-01-01T06:45:25.207Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002335>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:45:25.207Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_856_2, _:df_856_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Surmont";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Surmont, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_856_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2318"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_856_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002335"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002335/2022-01-01T06:45:25.207Z>.
+<https://stad.gent/id/agent/670002332/2022-01-01T06:45:10.202Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002332>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:45:10.202Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_859_18, _:df_859_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "Sunaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Sunaert, Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_859_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2315"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_859_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002332"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002332/2022-01-01T06:45:10.202Z>.
+<https://stad.gent/id/agent/670002333/2022-01-01T06:45:15.203Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002333>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:45:15.203Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_859_23, _:df_859_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Suply";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Suply, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_859_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2316"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_859_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002333"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002333/2022-01-01T06:45:15.203Z>.
+<https://stad.gent/id/agent/670002334/2022-01-01T06:45:20.205Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002334>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:45:20.205Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_859_31, _:df_859_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "J.";
+    <http://xmlns.com/foaf/0.1/familyName> "Surmont";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Surmont, J.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_859_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2317"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_859_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002334"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002334/2022-01-01T06:45:20.205Z>.
+<https://stad.gent/id/agent/570029684/2022-01-01T02:57:25.180Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029684>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:57:25.180Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2395_5;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Sunlite";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2395_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029684"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029684/2022-01-01T02:57:25.180Z>.
+<https://stad.gent/id/agent/570028646/2022-01-01T02:41:08.433Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028646>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:41:08.433Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2500_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Sunil";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2500_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028646"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028646/2022-01-01T02:41:08.433Z>.
+<https://stad.gent/id/agent/570028145/2022-01-01T02:20:30.219Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028145>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:20:30.219Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2620_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Supreme";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2620_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028145"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028145/2022-01-01T02:20:30.219Z>.
+<https://stad.gent/id/agent/570024557/2022-01-01T02:15:48.162Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570024557>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:15:48.162Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2650_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Superb";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2650_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024557"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570024557/2022-01-01T02:15:48.162Z>.
+<https://stad.gent/id/agent/570023693/2022-01-01T02:12:36.910Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570023693>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:12:36.910Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2671_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Surdiac";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2671_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023693"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570023693/2022-01-01T02:12:36.910Z>.
+<https://stad.gent/id/agent/570019785/2022-01-01T01:56:00.348Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570019785>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:56:00.348Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2788_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Sugg William & Co Ltd";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2788_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019785"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570019785/2022-01-01T01:56:00.348Z>.
+<https://stad.gent/id/agent/570019503/2022-01-01T01:53:44.728Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570019503>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:53:44.728Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2803_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Sunlight";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2803_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019503"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570019503/2022-01-01T01:53:44.728Z>.
+<https://stad.gent/id/agent/530024147/2021-12-31T22:02:40.368Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024147>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T22:02:40.368Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2941_26, _:df_2941_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Suy";
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2941_30;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2941_30 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2941_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03179"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2941_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024147"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024147/2021-12-31T22:02:40.368Z>.
+<https://stad.gent/id/agent/530023395/2021-12-31T21:23:55.795Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023395>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:23:55.795Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3085_14, _:df_3085_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3085_17;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3085_18;
+    <http://xmlns.com/foaf/0.1/givenName> "Liisa";
+    <http://xmlns.com/foaf/0.1/familyName> "Suvanto";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Suvanto, Liisa";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3085_21;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3085_21 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Fins"@nl.
+_:df_3085_18 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1983"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3085_17 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1910"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3085_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02881"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3085_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023395"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023395/2021-12-31T21:23:55.795Z>.
+<https://stad.gent/id/agent/530022668/2021-12-31T20:54:58.279Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022668>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:54:58.279Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3247_22, _:df_3247_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Grace";
+    <http://xmlns.com/foaf/0.1/familyName> "Sullivan";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Sullivan, Grace";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3247_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02612"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3247_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022668"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022668/2021-12-31T20:54:58.279Z>.
+<https://stad.gent/id/agent/530021918/2021-12-31T20:40:07.481Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021918>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:40:07.481Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3337_26, _:df_3337_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Sus";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3337_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02464"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3337_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021918"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021918/2021-12-31T20:40:07.481Z>.
+<https://stad.gent/id/agent/530020756/2021-12-31T20:04:38.358Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020756>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:04:38.358Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3535_33, _:df_3535_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jean Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Sugg";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Sugg, Jean Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3535_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02135"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3535_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020756"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020756/2021-12-31T20:04:38.358Z>.
+<https://stad.gent/id/agent/530020028/2021-12-31T19:39:53.389Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020028>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:39:53.389Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3670_8, _:df_3670_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Suck UK";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3670_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01908"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3670_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020028"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020028/2021-12-31T19:39:53.389Z>.
+<https://stad.gent/id/agent/530019761/2021-12-31T19:31:15.094Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019761>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:31:15.094Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3703_9, _:df_3703_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Marc";
+    <http://xmlns.com/foaf/0.1/familyName> "Supply";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Supply, Marc";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3703_14;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3703_14 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3703_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01854"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3703_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019761"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019761/2021-12-31T19:31:15.094Z>.
+<https://stad.gent/id/agent/530016690/2021-12-31T18:45:26.793Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016690>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:45:26.793Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3832_24, _:df_3832_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Superior";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3832_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01645"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3832_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016690"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016690/2021-12-31T18:45:26.793Z>.
+<https://stad.gent/id/agent/530000944/2021-12-31T16:42:27.092Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000944>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:42:27.092Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4528_2, _:df_4528_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "L.";
+    <http://xmlns.com/foaf/0.1/familyName> "Surrigue";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Surrigue, L.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4528_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00484"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4528_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000944"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000944/2021-12-31T16:42:27.092Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/su.ttl> <https://w3id.org/tree#relation> _:df_1_1476.
+_:df_1_1476 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/sug.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "sug".
+<https://oliviervd.github.io/substrings_coghent/agents/su.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/su.ttl>.

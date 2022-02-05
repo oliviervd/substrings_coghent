@@ -1,0 +1,46 @@
+<https://stad.gent/id/agent/670002487/2022-01-01T06:57:54.838Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002487>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:57:54.838Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_769_25, _:df_769_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "van Callenberghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Callenberghe, Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_769_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2470"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_769_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002487"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002487/2022-01-01T06:57:54.838Z>.
+<https://stad.gent/id/agent/530023253/2021-12-31T21:13:46.710Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023253>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:13:46.710Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3151_17, _:df_3151_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3151_21;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3151_23;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Dominique";
+    <http://xmlns.com/foaf/0.1/familyName> "Van Caulaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van Caulaert, Jan Dominique";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/100534>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3151_27;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3151_27 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3151_23 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1979"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>.
+_:df_3151_21 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1987"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7605373>.
+<http://vocab.getty.edu/tgn/7605373> a <http://purl.org/dc/terms/Location>.
+_:df_3151_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02773"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3151_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023253"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023253/2021-12-31T21:13:46.710Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/van+ca.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/van+ca.ttl>.

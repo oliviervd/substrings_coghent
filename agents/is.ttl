@@ -1,0 +1,76 @@
+<https://stad.gent/id/agent/530016852/2021-12-31T18:54:10.418Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016852>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:54:10.418Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3784_2, _:df_3784_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3784_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3784_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Maija";
+    <http://xmlns.com/foaf/0.1/familyName> "Isola";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Isola, Maija";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q455111>, <http://vocab.getty.edu/ulan/500489781>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3784_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3784_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Fins"@nl.
+_:df_3784_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2001-03-03"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1031539>.
+<http://vocab.getty.edu/tgn/1031539> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3784_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1927-03-15"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1031539>.
+_:df_3784_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01722"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3784_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016852"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016852/2021-12-31T18:54:10.418Z>.
+<https://stad.gent/id/agent/530016853/2021-12-31T18:54:15.419Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016853>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:54:15.419Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3784_14, _:df_3784_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3784_18;
+    <http://xmlns.com/foaf/0.1/givenName> "Kristina";
+    <http://xmlns.com/foaf/0.1/familyName> "Isola";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Isola, Kristina";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500481199>, <https://www.wikidata.org/entity/Q11873074>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3784_22;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3784_22 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Fins"@nl.
+_:df_3784_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1946-01-12"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009880>.
+<http://vocab.getty.edu/tgn/7009880> a <http://purl.org/dc/terms/Location>.
+_:df_3784_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01723"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3784_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016853"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016853/2021-12-31T18:54:15.419Z>.
+<https://stad.gent/id/agent/530016780/2021-12-31T18:49:28.364Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016780>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:49:28.364Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3814_31, _:df_3814_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3814_34;
+    <http://xmlns.com/foaf/0.1/givenName> "Fujiwo";
+    <http://xmlns.com/foaf/0.1/familyName> "Ishimoto";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ishimoto, Fujiwo";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500481198>, <https://www.wikidata.org/entity/Q4409552>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3814_38;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3814_38 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Japans"@nl.
+_:df_3814_34 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1941"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3814_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01676"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3814_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016780"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016780/2021-12-31T18:49:28.364Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/is.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/is.ttl>.

@@ -1,0 +1,121 @@
+<https://stad.gent/id/agent/570018543/2022-01-01T01:48:57.538Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570018543>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:48:57.538Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2836_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Meyer-Van Loo F.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2836_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018543"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570018543/2022-01-01T01:48:57.538Z>.
+<https://stad.gent/id/agent/530023529/2021-12-31T21:32:49.472Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023529>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:32:49.472Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3037_11, _:df_3037_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3037_15;
+    <http://xmlns.com/foaf/0.1/givenName> "Willy";
+    <http://xmlns.com/foaf/0.1/familyName> "Meysmans";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Meysmans, Willy";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q15813590>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3037_19;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3037_19 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3037_15 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1930-01-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008736>.
+<http://vocab.getty.edu/tgn/7008736> a <http://purl.org/dc/terms/Location>.
+_:df_3037_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02960"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3037_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023529"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023529/2021-12-31T21:32:49.472Z>.
+<https://stad.gent/id/agent/530021678/2021-12-31T20:32:39.378Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021678>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:32:39.378Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3379_37, _:df_3379_39;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Henk";
+    <http://xmlns.com/foaf/0.1/familyName> "Meyer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Meyer, Henk";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3379_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02394"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3379_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021678"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021678/2021-12-31T20:32:39.378Z>.
+<https://stad.gent/id/agent/530020862/2021-12-31T20:09:25.139Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020862>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:09:25.139Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3514_30, _:df_3514_32;
+    <http://www.w3.org/2004/02/skos/core#note> "Meyr’s Neffe war eine künstlerisch bedeutende Glasfabrik in Adolf bei Winterberg, Böhmen. Sie gilt als eine der ältesten Kunstglasfabriken Europas.\r\nJosef Meyr (* 1739 in Brünnl, Böhmen, † 1829) errichtete die Glasfabrik Adolf, benannt nach dem Johann Adolf II. Fürst zu Schwarzenberg (1799–1888) bei Winterberg im Jahre 1816 und betrieb dort einen Hohlglasofen mit sieben Hafen. Zuvor hatte er bereits die Glasfabriken Silberberg und Bonaventura bei Buchers (dem heutigen Pohorí na Šumave) erbaut. Nach seinem Tod übernahm sein Sohn Johann Meyr die Fabrik, dessen Neffe Wilhelm Kralik fungierte als Geschäftsführer. 1830 kam ein zweiter Ofen dazu und auch in Eleonorenhain (zwei Hohlglasöfen) und Kaltenbach in Böhmen (zwei Tafelöfen) wurde der Betrieb aufgenommen.\r\nNach dem Tod Johann Meyrs am 17. Januar 1841 gingen die Geschäfte über auf Wilhelm Kralik und Josef Taschek, einen weiteren Neffen des Verstorbenen. Ab diesem Zeitpunkt firmierte man unter Meyr’s Neffen und kaufte 1854 die Glasfabrik Ernstbrunn in Franzensthal (zwei Hohlglasöfen) hinzu. Am 10. März 1862 verstarb auch Josef Taschek und Kralik übernahm sämtliche Geschäfte, nun erstmals unter dem heute gebräuchlichen Namen Meyr’s Neffe.\r\nAm 9. Mai 1877 starb Kralik, mittlerweile Ritter von Meyrswalden, nach vorheriger Auszeichnung des Ordens der eisernen Krone III. Klasse aus der Hand des Kaisers Franz Joseph. Seine Erben Johann, Karl, Heinrich (später bekannt unter Wilhelm Kralik Sohn), und Hugo Kralik Ritter von Meyrswalden übernahmen sämtliche Fabriken, jedoch kam es im Jahre 1881 zu einer Aufteilung und die Fabriken in Adolf, Kaltenbach und Franzensthal gingen, weiterhin unter der Bezeichnung Meyr’s Neffe, an Karl und Hugo Kralik Ritter von Meyrswalden.\r\nIn den 1870er Jahren wurden bereits 730 Arbeiter beschäftigt und die Erzeugnisse (viele auch Auftragsarbeiten für andere Handelshäuser wie etwa J. & L. Lobmeyr) errangen regelmäßig Auszeichnungen auf den Weltausstellungen dieser Zeit. Danach begann jedoch ein allmählicher Niedergang, wiewohl sich Karl Kralik Ritter von Meyrswalden durch fortschrittliches Unternehmertum auszeichnete. So schuf er 1880 für seine Arbeiter eine Privatschule und war Mitbegründer der 1895 in Winterberg eröffneten deutschen gewerblichen und kaufmännischen Fortbildungsschule.\r\nEr hinterließ seinen Söhnen Albert und Rudolf immerhin noch 300 Arbeiter (ohne Graveure und Maler), aber Uneinigkeit, der Erste Weltkrieg und die folgende Wirtschaftskrise beschleunigten den Niedergang der Glashütte in Adolf. Im Jahre 1922 fusionierte man mit Ludwig Moser und 1934 fielen die Reste an die Ceská Unionbanka.\r\n(bron: Wikipedia)";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3514_34;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3514_36;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Meyr's Neffe";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1926388>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3514_36 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1922"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1027637>.
+<http://vocab.getty.edu/tgn/1027637> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3514_34 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1862"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1027637>.
+_:df_3514_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02170"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3514_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020862"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020862/2021-12-31T20:09:25.139Z>.
+<https://stad.gent/id/agent/530001866/2021-12-31T17:38:34.581Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001866>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:38:34.581Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4129_33, _:df_4129_35;
+    <http://www.w3.org/2004/02/skos/core#note> "overleden vóór 2006";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Meyfroid";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Meyfroid, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4129_38;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4129_38 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4129_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01152"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4129_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001866"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001866/2021-12-31T17:38:34.581Z>.
+<https://stad.gent/id/agent/530000596/2021-12-31T16:19:38.522Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000596>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:19:38.522Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4693_15, _:df_4693_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4693_19;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4693_21;
+    <http://xmlns.com/foaf/0.1/givenName> "Floris";
+    <http://xmlns.com/foaf/0.1/familyName> "Meydam";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Meydam, Floris";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500083825>, <https://rkd.nl/explore/artists/55698>, <https://www.wikidata.org/entity/Q2312612>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4693_30;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4693_30 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_4693_21 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2011-09-25"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006806>.
+<http://vocab.getty.edu/tgn/7006806> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4693_19 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1919-12-29"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006806>.
+_:df_4693_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00212"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4693_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000596"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000596/2021-12-31T16:19:38.522Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/mey.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/mey.ttl>.

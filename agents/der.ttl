@@ -1,0 +1,74 @@
+<https://stad.gent/id/agent/670001109/2022-01-01T05:03:18.164Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001109>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:03:18.164Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1588_15, _:df_1588_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Martinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Derkinderen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Derkinderen, Martinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1588_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1092"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1588_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001109"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001109/2022-01-01T05:03:18.164Z>.
+<https://stad.gent/id/agent/670001110/2022-01-01T05:03:23.167Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001110>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:03:23.167Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1588_20, _:df_1588_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Dervaux";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dervaux, weduwe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1588_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1093"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1588_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001110"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001110/2022-01-01T05:03:23.167Z>.
+<https://stad.gent/id/agent/530023134/2021-12-31T21:05:48.653Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023134>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:05:48.653Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3199_34, _:df_3199_36;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3199_38;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3199_40;
+    <http://xmlns.com/foaf/0.1/givenName> "Virginie Elodie";
+    <http://xmlns.com/foaf/0.1/familyName> "Dermont-Breton";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dermont-Breton, Virginie Elodie";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500022747>, <https://www.wikidata.org/entity/Q3560732>, <https://rkd.nl/explore/artists/21908>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3199_44;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3199_44 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_3199_40 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1935-01-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>.
+_:df_3199_38 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1859-07-26"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7651748>.
+<http://vocab.getty.edu/tgn/7651748> a <http://purl.org/dc/terms/Location>.
+_:df_3199_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02694"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3199_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023134"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023134/2021-12-31T21:05:48.653Z>.
+<https://stad.gent/id/agent/530000855/2021-12-31T16:36:44.854Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000855>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:36:44.854Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4570_15, _:df_4570_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "F.";
+    <http://xmlns.com/foaf/0.1/familyName> "Deriot";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Deriot, F.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4570_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00416"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4570_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000855"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000855/2021-12-31T16:36:44.854Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/der.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/der.ttl>.

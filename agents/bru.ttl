@@ -1,0 +1,129 @@
+<https://stad.gent/id/agent/570014049/2022-01-01T01:44:45.938Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570014049>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:44:45.938Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2863_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2863_4;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bruggeman Stokerij";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q13445770>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2863_4 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1884"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>.
+_:df_2863_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014049"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570014049/2022-01-01T01:44:45.938Z>.
+<https://stad.gent/id/agent/530019975/2021-12-31T19:36:02.110Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019975>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:36:02.110Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3691_14, _:df_3691_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3691_18;
+    <http://xmlns.com/foaf/0.1/givenName> "Kris";
+    <http://xmlns.com/foaf/0.1/familyName> "Brum";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Brum, Kris";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q967718>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3691_22;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3691_22 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3691_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1957"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007856>.
+<http://vocab.getty.edu/tgn/7007856> a <http://purl.org/dc/terms/Location>.
+_:df_3691_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01874"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3691_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019975"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019975/2021-12-31T19:36:02.110Z>.
+<https://stad.gent/id/agent/530016818/2021-12-31T18:51:59.393Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016818>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:51:59.393Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3799_13, _:df_3799_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Carla";
+    <http://xmlns.com/foaf/0.1/familyName> "Bruni";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bruni, Carla";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3799_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01699"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3799_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016818"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016818/2021-12-31T18:51:59.393Z>.
+<https://stad.gent/id/agent/530001474/2021-12-31T17:14:19.966Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001474>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:14:19.966Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4300_2, _:df_4300_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4300_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Antje";
+    <http://xmlns.com/foaf/0.1/familyName> "Brüggenmann-Breckwoldt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Brüggenmann-Breckwoldt, Antje";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q29421987>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4300_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4300_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_4300_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1941"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1036378>.
+<http://vocab.getty.edu/tgn/1036378> a <http://purl.org/dc/terms/Location>.
+_:df_4300_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00863"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4300_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001474"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001474/2021-12-31T17:14:19.966Z>.
+<https://stad.gent/id/agent/530000943/2021-12-31T16:42:22.090Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000943>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:42:22.090Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4531_19, _:df_4531_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Brun, Charles le & Vandermeulen, Pr.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4531_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00483"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4531_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000943"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000943/2021-12-31T16:42:22.090Z>.
+<https://stad.gent/id/agent/530000268/2021-12-31T15:56:23.847Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000268>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:56:23.847Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4795_31, _:df_4795_33;
+    <http://www.w3.org/2004/02/skos/core#note> "Directeur van S.H.I.A.S. van 1970 tot 1974.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4795_34;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4795_35;
+    <http://xmlns.com/foaf/0.1/givenName> "René";
+    <http://xmlns.com/foaf/0.1/familyName> "Bruynseraede";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bruynseraede, René";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4795_38;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4795_38 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4795_35 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1991"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4795_34 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1909"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4795_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00043"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4795_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000268"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000268/2021-12-31T15:56:23.847Z>.
+<https://stad.gent/id/agent/470018978/2021-12-31T15:37:46.976Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470018978>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:37:46.976Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4828_5;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Brussels Museum van de Molen en de Voeding";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3329505>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4828_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470018978"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470018978/2021-12-31T15:37:46.976Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/bru.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/bru.ttl>.

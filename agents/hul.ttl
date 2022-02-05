@@ -1,0 +1,30 @@
+<https://stad.gent/id/agent/570023706/2022-01-01T02:12:51.917Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570023706>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:12:51.917Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2671_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hulorit";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2671_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023706"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570023706/2022-01-01T02:12:51.917Z>.
+<https://stad.gent/id/agent/530020603/2021-12-31T19:54:44.448Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020603>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:54:44.448Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3592_28, _:df_3592_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3592_31;
+    <http://xmlns.com/foaf/0.1/givenName> "Harald";
+    <http://xmlns.com/foaf/0.1/familyName> "Hullmann";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hullmann, Harald";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3592_31 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1946"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3592_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02040"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3592_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020603"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020603/2021-12-31T19:54:44.448Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/hul.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/hul.ttl>.

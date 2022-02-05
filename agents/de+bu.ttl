@@ -1,0 +1,68 @@
+<https://stad.gent/id/agent/530023281/2021-12-31T21:15:57.736Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023281>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:15:57.736Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3136_30, _:df_3136_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3136_34;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3136_36;
+    <http://xmlns.com/foaf/0.1/givenName> "Victor";
+    <http://xmlns.com/foaf/0.1/familyName> "de Budt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Budt, Victor";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/20457>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3136_40;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3136_40 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3136_36 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1965"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3136_34 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1886"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_3136_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02799"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3136_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023281"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023281/2021-12-31T21:15:57.736Z>.
+<https://stad.gent/id/agent/530001142/2021-12-31T16:55:27.396Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001142>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:55:27.396Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4435_2, _:df_4435_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "R.";
+    <http://xmlns.com/foaf/0.1/familyName> "De Buck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Buck, R.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4435_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00639"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4435_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001142"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001142/2021-12-31T16:55:27.396Z>.
+<https://stad.gent/id/agent/530000292/2021-12-31T15:58:09.461Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000292>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:58:09.461Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4789_28, _:df_4789_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4789_32;
+    <http://xmlns.com/foaf/0.1/givenName> "Siegfried";
+    <http://xmlns.com/foaf/0.1/familyName> "De Buck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Buck, Siegfried";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/20452>, <https://www.wikidata.org/entity/Q2164514>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4789_36;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4789_36 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4789_32 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1949-08-24"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7244113>.
+<http://vocab.getty.edu/tgn/7244113> a <http://purl.org/dc/terms/Location>.
+_:df_4789_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00053"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4789_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000292"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000292/2021-12-31T15:58:09.461Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/de+bu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/de+bu.ttl>.

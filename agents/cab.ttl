@@ -1,0 +1,34 @@
+<https://stad.gent/id/agent/670000295/2022-01-01T03:55:03.391Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000295>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:55:03.391Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2074_2, _:df_2074_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Bernard";
+    <http://xmlns.com/foaf/0.1/givenName> "Bernaerd Dominicque";
+    <http://xmlns.com/foaf/0.1/familyName> "Cabeliau";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cabeliau, Bernaerd Dominicque";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2074_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0278"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2074_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000295"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000295/2022-01-01T03:55:03.391Z>.
+<https://stad.gent/id/agent/670000294/2022-01-01T03:54:58.389Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000294>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:54:58.389Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2077_31, _:df_2077_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "heer van Savas Bernard Cabeliau", "meester Cabeliau, heer van Savas";
+    <http://xmlns.com/foaf/0.1/givenName> "Bernard";
+    <http://xmlns.com/foaf/0.1/familyName> "Cabeliau";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cabeliau, Bernard";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2077_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0277"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2077_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000294"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000294/2022-01-01T03:54:58.389Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/cab.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/cab.ttl>.

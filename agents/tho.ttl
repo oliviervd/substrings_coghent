@@ -1,0 +1,83 @@
+<https://stad.gent/id/agent/530021636/2021-12-31T20:30:13.435Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:30:13.435Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3394_9, _:df_3394_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thomson";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3394_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02366"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3394_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021636/2021-12-31T20:30:13.435Z>.
+<https://stad.gent/id/agent/530018270/2021-12-31T19:21:51.351Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530018270>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:21:51.351Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3727_2, _:df_3727_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3727_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3727_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Michael";
+    <http://xmlns.com/foaf/0.1/familyName> "Thonet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thonet, Michael";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q60229>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3727_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3727_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_3727_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1871-03-03"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003321>.
+<http://vocab.getty.edu/tgn/7003321> a <http://purl.org/dc/terms/Location>.
+_:df_3727_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1796-07-02"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7212706>.
+<http://vocab.getty.edu/tgn/7212706> a <http://purl.org/dc/terms/Location>.
+_:df_3727_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01815"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3727_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530018270"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530018270/2021-12-31T19:21:51.351Z>.
+<https://stad.gent/id/agent/530001711/2021-12-31T17:28:40.749Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001711>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:28:40.749Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4198_14, _:df_4198_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4198_17;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thonet Mundus AG";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4198_17 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1921"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4198_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01034"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4198_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001711"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001711/2021-12-31T17:28:40.749Z>.
+<https://stad.gent/id/agent/530000697/2021-12-31T16:27:16.357Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000697>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:27:16.357Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4639_40, _:df_4639_42;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Aug.";
+    <http://xmlns.com/foaf/0.1/familyName> "Thomsen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thomsen, Aug.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4639_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00303"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4639_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000697"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000697/2021-12-31T16:27:16.357Z>.
+<https://stad.gent/id/agent/470019464/2021-12-31T15:38:37.306Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470019464>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:38:37.306Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4822_5;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Thonet, Michael";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q60229>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4822_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470019464"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470019464/2021-12-31T15:38:37.306Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/tho.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/tho.ttl>.

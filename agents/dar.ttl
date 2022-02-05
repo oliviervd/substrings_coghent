@@ -1,0 +1,34 @@
+<https://stad.gent/id/agent/570032551/2022-01-01T03:30:05.801Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570032551>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:30:05.801Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2251_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Darwin Ltd";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2251_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570032551"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570032551/2022-01-01T03:30:05.801Z>.
+<https://stad.gent/id/agent/570032526/2022-01-01T03:28:05.125Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570032526>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:28:05.125Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2254_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Darget, Claude";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2254_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570032526"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570032526/2022-01-01T03:28:05.125Z>.
+<https://stad.gent/id/agent/530016621/2021-12-31T18:41:40.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016621>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:41:40.500Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3850_2, _:df_3850_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dark";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3850_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01612"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3850_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016621"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016621/2021-12-31T18:41:40.500Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/dar.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/dar.ttl>.

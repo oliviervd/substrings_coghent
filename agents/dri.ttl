@@ -1,0 +1,37 @@
+<https://stad.gent/id/agent/530001504/2021-12-31T17:16:10.649Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001504>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:16:10.649Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4288_24, _:df_4288_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4288_27;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Driade";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500270772>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4288_30;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4288_30 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_4288_27 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1968"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4288_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00885"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4288_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001504"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001504/2021-12-31T17:16:10.649Z>.
+<https://stad.gent/id/agent/530000468/2021-12-31T16:10:49.265Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000468>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:10:49.265Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4747_7, _:df_4747_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4747_11;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Drisag Office Furniture";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4747_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007892>.
+<http://vocab.getty.edu/tgn/7007892> a <http://purl.org/dc/terms/Location>.
+_:df_4747_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00120"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4747_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000468"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000468/2021-12-31T16:10:49.265Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/dri.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/dri.ttl>.

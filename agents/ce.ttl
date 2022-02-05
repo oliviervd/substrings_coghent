@@ -1,0 +1,320 @@
+<https://stad.gent/id/agent/670000366/2022-01-01T04:00:57.160Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000366>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:00:57.160Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2032_2, _:df_2032_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Ceunens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ceunens";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2032_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0349"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2032_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000366"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000366/2022-01-01T04:00:57.160Z>.
+<https://stad.gent/id/agent/670000362/2022-01-01T04:00:37.151Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000362>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:00:37.151Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2035_7, _:df_2035_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Andries";
+    <http://xmlns.com/foaf/0.1/familyName> "Celis";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Celis, Andries";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2035_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0345"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2035_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000362"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000362/2022-01-01T04:00:37.151Z>.
+<https://stad.gent/id/agent/670000363/2022-01-01T04:00:42.153Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000363>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:00:42.153Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2035_12, _:df_2035_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joanne";
+    <http://xmlns.com/foaf/0.1/familyName> "Cenechal";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cenechal, Joanne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2035_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0346"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2035_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000363"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000363/2022-01-01T04:00:42.153Z>.
+<https://stad.gent/id/agent/670000364/2022-01-01T04:00:47.156Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000364>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:00:47.156Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2035_17, _:df_2035_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Marie";
+    <http://xmlns.com/foaf/0.1/familyName> "Cent";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cent, Marie";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2035_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0347"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2035_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000364"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000364/2022-01-01T04:00:47.156Z>.
+<https://stad.gent/id/agent/670000365/2022-01-01T04:00:52.158Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000365>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:00:52.158Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2035_22, _:df_2035_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Cent";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cent, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2035_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0348"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2035_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000365"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000365/2022-01-01T04:00:52.158Z>.
+<https://stad.gent/id/agent/570028229/2022-01-01T02:26:02.897Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028229>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:26:02.897Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2587_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cecy";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2587_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028229"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028229/2022-01-01T02:26:02.897Z>.
+<https://stad.gent/id/agent/530024092/2021-12-31T21:58:49.074Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024092>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:58:49.074Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2956_2, _:df_2956_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ceccotti";
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2956_6;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2956_6 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_2956_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03141"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2956_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024092"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024092/2021-12-31T21:58:49.074Z>.
+<https://stad.gent/id/agent/530021565/2021-12-31T20:24:31.187Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021565>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:24:31.187Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3436_35, _:df_3436_37;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3436_39;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3436_41;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Céramiques de Courtrai";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3436_41 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1926"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007934>.
+<http://vocab.getty.edu/tgn/7007934> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3436_39 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1898"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007934>.
+_:df_3436_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02299"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3436_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021565"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021565/2021-12-31T20:24:31.187Z>.
+<https://stad.gent/id/agent/530021369/2021-12-31T20:20:44.890Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021369>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:20:44.890Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3457_16, _:df_3457_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Centro Ricerche";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3457_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02263"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3457_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021369"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021369/2021-12-31T20:20:44.890Z>.
+<https://stad.gent/id/agent/530021349/2021-12-31T20:19:34.559Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021349>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:19:34.559Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3463_52, _:df_3463_54;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cees Braakman & Adriaan Dekker";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3463_54 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02254"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3463_52 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021349"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021349/2021-12-31T20:19:34.559Z>.
+<https://stad.gent/id/agent/530020637/2021-12-31T19:57:20.362Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020637>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:57:20.362Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3577_19, _:df_3577_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3577_23;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Céramiques Saint Antoine";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3577_23 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1927"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026312>.
+<http://vocab.getty.edu/tgn/1026312> a <http://purl.org/dc/terms/Location>.
+_:df_3577_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02063"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3577_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020637"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020637/2021-12-31T19:57:20.362Z>.
+<https://stad.gent/id/agent/530020608/2021-12-31T19:55:09.457Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020608>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:55:09.457Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3589_28, _:df_3589_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3589_32;
+    <http://xmlns.com/foaf/0.1/givenName> "Gianni";
+    <http://xmlns.com/foaf/0.1/familyName> "Cella";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cella, Gianni";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3589_35;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3589_35 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_3589_32 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1953"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006026>.
+<http://vocab.getty.edu/tgn/7006026> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3589_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02045"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3589_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020608"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020608/2021-12-31T19:55:09.457Z>.
+<https://stad.gent/id/agent/530020529/2021-12-31T19:50:42.863Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020529>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:50:42.863Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3616_25, _:df_3616_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cerabel - Porcelaine de Baudour";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3616_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02000"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3616_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020529"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020529/2021-12-31T19:50:42.863Z>.
+<https://stad.gent/id/agent/530020132/2021-12-31T19:47:51.840Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020132>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:47:51.840Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3625_16, _:df_3625_18;
+    <http://www.w3.org/2004/02/skos/core#note> "opgericht als CEDIL in 1947";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3625_19;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "CEDIT - Ceramiche d'Italia";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3625_19 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1947"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3625_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01983"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3625_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020132"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020132/2021-12-31T19:47:51.840Z>.
+<https://stad.gent/id/agent/530019978/2021-12-31T19:36:07.112Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019978>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:36:07.112Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3691_24, _:df_3691_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3691_28;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cenedese";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3691_28 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1946"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003021>.
+<http://vocab.getty.edu/tgn/7003021> a <http://purl.org/dc/terms/Location>.
+_:df_3691_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01875"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3691_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019978"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019978/2021-12-31T19:36:07.112Z>.
+<https://stad.gent/id/agent/530016866/2021-12-31T18:55:00.752Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016866>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:55:00.752Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3778_2, _:df_3778_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3778_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Céramique de Dour";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3778_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1946"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026400>.
+<http://vocab.getty.edu/tgn/1026400> a <http://purl.org/dc/terms/Location>.
+_:df_3778_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01732"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3778_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016866"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016866/2021-12-31T18:55:00.752Z>.
+<https://stad.gent/id/agent/530001679/2021-12-31T17:27:00.070Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001679>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:27:00.070Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4210_8, _:df_4210_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4210_11;
+    <http://xmlns.com/foaf/0.1/givenName> "Marek";
+    <http://xmlns.com/foaf/0.1/familyName> "Cecula";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cecula, Marek";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500336676>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4210_15;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4210_15 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Israelisch"@nl.
+_:df_4210_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1944"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4210_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01014"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4210_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001679"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001679/2021-12-31T17:27:00.070Z>.
+<https://stad.gent/id/agent/530001661/2021-12-31T17:26:14.707Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001661>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:26:14.707Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4216_31, _:df_4216_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cérabel, S.A.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4216_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01005"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4216_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001661"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001661/2021-12-31T17:26:14.707Z>.
+<https://stad.gent/id/agent/530001446/2021-12-31T17:12:19.050Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001446>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:12:19.050Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4315_6, _:df_4315_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4315_9;
+    <http://xmlns.com/foaf/0.1/givenName> "Carla";
+    <http://xmlns.com/foaf/0.1/familyName> "Ceccariglia";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ceccariglia, Carla";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500249723>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4315_13;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4315_13 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_4315_9 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1955"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4315_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00840"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4315_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001446"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001446/2021-12-31T17:12:19.050Z>.
+<https://stad.gent/id/agent/530001441/2021-12-31T17:11:59.044Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001441>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:11:59.044Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4318_17, _:df_4318_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cerabel";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4318_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00836"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4318_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001441"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001441/2021-12-31T17:11:59.044Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/ce.ttl> <https://w3id.org/tree#relation> _:df_1_1462.
+_:df_1_1462 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/cer.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "cer".
+<https://oliviervd.github.io/substrings_coghent/agents/ce.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/ce.ttl>.

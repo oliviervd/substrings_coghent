@@ -1,0 +1,52 @@
+<https://stad.gent/id/agent/530023122/2021-12-31T21:05:07.766Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023122>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:05:07.766Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3202_29, _:df_3202_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3202_33;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3202_34;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wega";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q420389>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3202_34 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1975"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3202_33 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1923"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004425>.
+<http://vocab.getty.edu/tgn/7004425> a <http://purl.org/dc/terms/Location>.
+_:df_3202_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02688"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3202_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023122"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023122/2021-12-31T21:05:07.766Z>.
+<https://stad.gent/id/agent/530001907/2021-12-31T17:40:55.243Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001907>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:40:55.243Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4111_13, _:df_4111_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4111_17;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4111_19;
+    <http://xmlns.com/foaf/0.1/givenName> "Hans Jorgensen";
+    <http://xmlns.com/foaf/0.1/familyName> "Wegner";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wegner, Hans Jorgensen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q700073>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4111_26;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4111_26 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Deens"@nl.
+_:df_4111_19 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2007-01-26"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003474>.
+<http://vocab.getty.edu/tgn/7003474> a <http://purl.org/dc/terms/Location>.
+_:df_4111_17 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1914-04-02"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003426>.
+<http://vocab.getty.edu/tgn/7003426> a <http://purl.org/dc/terms/Location>.
+_:df_4111_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01180"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4111_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001907"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001907/2021-12-31T17:40:55.243Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/weg.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/weg.ttl>.

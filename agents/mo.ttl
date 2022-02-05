@@ -1,0 +1,381 @@
+<https://stad.gent/id/agent/670003360/2022-01-01T08:01:27.854Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003360>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:01:27.854Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_313_19, _:df_313_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_313_23;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_313_25;
+    <http://xmlns.com/foaf/0.1/givenName> "Constant";
+    <http://xmlns.com/foaf/0.1/familyName> "Montald";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Montald, Constant";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2994899>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_313_25 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1944-03-05"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <https://www.wikidata.org/entity/q9005>.
+<https://www.wikidata.org/entity/q9005> a <http://purl.org/dc/terms/Location>.
+_:df_313_23 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1862-12-04"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <https://www.wikidata.org/entity/q1296>.
+<https://www.wikidata.org/entity/q1296> a <http://purl.org/dc/terms/Location>.
+_:df_313_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0009"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_313_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003360"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003360/2022-01-01T08:01:27.854Z>.
+<https://stad.gent/id/agent/670001888/2022-01-01T06:08:07.022Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001888>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:08:07.022Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1123_2, _:df_1123_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Mortier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mortier, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1123_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1871"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1123_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001888"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001888/2022-01-01T06:08:07.022Z>.
+<https://stad.gent/id/agent/670001889/2022-01-01T06:08:12.023Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001889>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:08:12.023Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1123_10, _:df_1123_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jaecques";
+    <http://xmlns.com/foaf/0.1/familyName> "Mote";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mote, Jaecques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1123_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1872"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1123_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001889"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001889/2022-01-01T06:08:12.023Z>.
+<https://stad.gent/id/agent/670001890/2022-01-01T06:08:17.025Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001890>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:08:17.025Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1123_18, _:df_1123_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joanne";
+    <http://xmlns.com/foaf/0.1/familyName> "Motte";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Motte, Joanne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1123_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1873"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1123_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001890"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001890/2022-01-01T06:08:17.025Z>.
+<https://stad.gent/id/agent/670001891/2022-01-01T06:08:22.028Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001891>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:08:22.028Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1123_23, _:df_1123_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joan Louis";
+    <http://xmlns.com/foaf/0.1/familyName> "Moulet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moulet, Joan Louis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1123_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1874"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1123_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001891"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001891/2022-01-01T06:08:22.028Z>.
+<https://stad.gent/id/agent/670001883/2022-01-01T06:07:41.711Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001883>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:07:41.711Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1126_2, _:df_1126_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Pieter Henri Josephus", "jonker Pieter Henricus Josephus Moriau", "sieur Moriau, jonker";
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter Henricus Josephus";
+    <http://xmlns.com/foaf/0.1/familyName> "Moriau";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moriau, Pieter Henricus Josephus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1126_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1866"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1126_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001883"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001883/2022-01-01T06:07:41.711Z>.
+<https://stad.gent/id/agent/670001884/2022-01-01T06:07:46.713Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001884>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:07:46.713Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1126_11, _:df_1126_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Moris";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moris, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1126_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1867"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1126_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001884"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001884/2022-01-01T06:07:46.713Z>.
+<https://stad.gent/id/agent/670001885/2022-01-01T06:07:51.714Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001885>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:07:51.714Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1126_16, _:df_1126_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Mortier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mortier, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1126_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1868"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1126_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001885"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001885/2022-01-01T06:07:51.714Z>.
+<https://stad.gent/id/agent/670001886/2022-01-01T06:07:56.715Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001886>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:07:56.715Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1126_21, _:df_1126_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Mortier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mortier";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1126_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1869"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1126_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001886"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001886/2022-01-01T06:07:56.715Z>.
+<https://stad.gent/id/agent/670001887/2022-01-01T06:08:02.020Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001887>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:08:02.020Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1126_28, _:df_1126_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Mortier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mortier, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1126_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1870"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1126_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001887"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001887/2022-01-01T06:08:02.020Z>.
+<https://stad.gent/id/agent/670001878/2022-01-01T06:07:16.701Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001878>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:07:16.701Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1129_2, _:df_1129_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Morel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Morel, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1129_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1861"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1129_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001878"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001878/2022-01-01T06:07:16.701Z>.
+<https://stad.gent/id/agent/670001879/2022-01-01T06:07:21.704Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001879>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:07:21.704Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1129_7, _:df_1129_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Egidius weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Morel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Morel, Egidius weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1129_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1862"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1129_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001879"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001879/2022-01-01T06:07:21.704Z>.
+<https://stad.gent/id/agent/670001880/2022-01-01T06:07:26.705Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001880>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:07:26.705Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1129_12, _:df_1129_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Morel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Morel, weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1129_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1863"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1129_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001880"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001880/2022-01-01T06:07:26.705Z>.
+<https://stad.gent/id/agent/670001881/2022-01-01T06:07:31.707Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001881>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:07:31.707Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1129_17, _:df_1129_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "Morel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Morel, Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1129_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1864"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1129_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001881"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001881/2022-01-01T06:07:31.707Z>.
+<https://stad.gent/id/agent/670001882/2022-01-01T06:07:36.709Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001882>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:07:36.709Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1129_25, _:df_1129_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joan Bernard";
+    <http://xmlns.com/foaf/0.1/familyName> "Morel de Boucle";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Morel de Boucle, Joan Bernard";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1129_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1865"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1129_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001882"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001882/2022-01-01T06:07:36.709Z>.
+<https://stad.gent/id/agent/670001873/2022-01-01T06:06:51.358Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001873>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:06:51.358Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1132_2, _:df_1132_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Morel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Morel, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1132_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1856"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1132_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001873"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001873/2022-01-01T06:06:51.358Z>.
+<https://stad.gent/id/agent/670001874/2022-01-01T06:06:56.360Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001874>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:06:56.360Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1132_7, _:df_1132_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "jonker Alphonsius Morel", "sieur Morel, jonker";
+    <http://xmlns.com/foaf/0.1/givenName> "Alphonsius";
+    <http://xmlns.com/foaf/0.1/familyName> "Morel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Morel, Alphonsius";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1132_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1857"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1132_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001874"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001874/2022-01-01T06:06:56.360Z>.
+<https://stad.gent/id/agent/670001875/2022-01-01T06:07:01.361Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001875>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:07:01.361Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1132_16, _:df_1132_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "jonker Maximiliaen Morel";
+    <http://xmlns.com/foaf/0.1/givenName> "Maximiliaen";
+    <http://xmlns.com/foaf/0.1/familyName> "Morel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Morel, Maximiliaen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1132_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1858"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1132_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001875"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001875/2022-01-01T06:07:01.361Z>.
+<https://stad.gent/id/agent/670001876/2022-01-01T06:07:06.363Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001876>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:07:06.363Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1132_22, _:df_1132_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "jonker Joan Morel";
+    <http://xmlns.com/foaf/0.1/givenName> "Joan";
+    <http://xmlns.com/foaf/0.1/familyName> "Morel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Morel, Joan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1132_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1859"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1132_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001876"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001876/2022-01-01T06:07:06.363Z>.
+<https://stad.gent/id/agent/670001877/2022-01-01T06:07:11.700Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001877>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:07:11.700Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1132_31, _:df_1132_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Egidius";
+    <http://xmlns.com/foaf/0.1/familyName> "Morel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Morel, Egidius";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1132_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1860"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1132_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001877"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001877/2022-01-01T06:07:11.700Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/mo.ttl> <https://w3id.org/tree#relation> _:df_1_558.
+_:df_1_558 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/mor.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "mor".
+<https://oliviervd.github.io/substrings_coghent/agents/mo.ttl> <https://w3id.org/tree#relation> _:df_1_559.
+_:df_1_559 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/mon.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "mon".
+<https://oliviervd.github.io/substrings_coghent/agents/mo.ttl> <https://w3id.org/tree#relation> _:df_1_560.
+_:df_1_560 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/moo.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "moo".
+<https://oliviervd.github.io/substrings_coghent/agents/mo.ttl> <https://w3id.org/tree#relation> _:df_1_561.
+_:df_1_561 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/moe.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "moe".
+<https://oliviervd.github.io/substrings_coghent/agents/mo.ttl> <https://w3id.org/tree#relation> _:df_1_562.
+_:df_1_562 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/mol.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "mol".
+<https://oliviervd.github.io/substrings_coghent/agents/mo.ttl> <https://w3id.org/tree#relation> _:df_1_563.
+_:df_1_563 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/mom.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "mom".
+<https://oliviervd.github.io/substrings_coghent/agents/mo.ttl> <https://w3id.org/tree#relation> _:df_1_564.
+_:df_1_564 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/mot.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "mot".
+<https://oliviervd.github.io/substrings_coghent/agents/mo.ttl> <https://w3id.org/tree#relation> _:df_1_565.
+_:df_1_565 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/mou.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "mou".
+<https://oliviervd.github.io/substrings_coghent/agents/mo.ttl> <https://w3id.org/tree#relation> _:df_1_566.
+_:df_1_566 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/mos.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "mos".
+<https://oliviervd.github.io/substrings_coghent/agents/mo.ttl> <https://w3id.org/tree#relation> _:df_1_567.
+_:df_1_567 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/mov.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "mov".
+<https://oliviervd.github.io/substrings_coghent/agents/mo.ttl> <https://w3id.org/tree#relation> _:df_1_568.
+_:df_1_568 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/mob.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "mob".
+<https://oliviervd.github.io/substrings_coghent/agents/mo.ttl> <https://w3id.org/tree#relation> _:df_1_569.
+_:df_1_569 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/mod.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "mod".
+<https://oliviervd.github.io/substrings_coghent/agents/mo.ttl> <https://w3id.org/tree#relation> _:df_1_570.
+_:df_1_570 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/moc.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "moc".
+<https://oliviervd.github.io/substrings_coghent/agents/mo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/mo.ttl>.

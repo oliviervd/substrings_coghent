@@ -1,0 +1,29 @@
+<https://stad.gent/id/agent/670002700/2022-01-01T07:15:46.376Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002700>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:15:46.376Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_640_13, _:df_640_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "van Leerberghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Leerberghe, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_640_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2683"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_640_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002700"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002700/2022-01-01T07:15:46.376Z>.
+<https://stad.gent/id/agent/530021718/2021-12-31T20:35:20.605Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021718>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:35:20.605Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3358_10, _:df_3358_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van Leerdam";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3358_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02426"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3358_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021718"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021718/2021-12-31T20:35:20.605Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/van+le.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/van+le.ttl>.

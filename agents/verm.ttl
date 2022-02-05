@@ -1,0 +1,147 @@
+<https://stad.gent/id/agent/570029620/2022-01-01T02:56:04.504Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029620>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:56:04.504Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2404_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vermeutex bvba";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2404_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029620"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029620/2022-01-01T02:56:04.504Z>.
+<https://stad.gent/id/agent/570022947/2022-01-01T02:09:25.459Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570022947>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:09:25.459Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2695_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jaak";
+    <http://xmlns.com/foaf/0.1/familyName> "Vermeulen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vermeulen, Jaak";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2695_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022947"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570022947/2022-01-01T02:09:25.459Z>.
+<https://stad.gent/id/agent/570014055/2022-01-01T01:44:50.939Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570014055>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:44:50.939Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2863_7;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vermeulen";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2863_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014055"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570014055/2022-01-01T01:44:50.939Z>.
+<https://stad.gent/id/agent/530024121/2021-12-31T22:00:49.746Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024121>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T22:00:49.746Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2947_18, _:df_2947_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2947_22;
+    <http://xmlns.com/foaf/0.1/givenName> "Robin";
+    <http://xmlns.com/foaf/0.1/familyName> "Vermeersch";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vermeersch, Robin";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2947_25;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2947_25 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2947_22 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1977"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007934>.
+<http://vocab.getty.edu/tgn/7007934> a <http://purl.org/dc/terms/Location>.
+_:df_2947_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03157"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2947_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024121"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024121/2021-12-31T22:00:49.746Z>.
+<https://stad.gent/id/agent/530023825/2021-12-31T21:43:03.304Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023825>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:43:03.304Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2995_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Paul";
+    <http://xmlns.com/foaf/0.1/familyName> "Vermeersch";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vermeersch, Paul";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/530020213>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/530020213> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Ibou, Paul"@nl.
+_:df_2995_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023825"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023825/2021-12-31T21:43:03.304Z>.
+<https://stad.gent/id/agent/530023360/2021-12-31T21:21:55.108Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023360>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:21:55.108Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3094_14, _:df_3094_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Sabine";
+    <http://xmlns.com/foaf/0.1/familyName> "Vermeersch";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vermeersch, Sabine";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3094_19;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3094_19 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3094_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02866"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3094_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023360"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023360/2021-12-31T21:21:55.108Z>.
+<https://stad.gent/id/agent/530021970/2021-12-31T20:42:28.536Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021970>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:42:28.536Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3319_11, _:df_3319_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Arlette";
+    <http://xmlns.com/foaf/0.1/familyName> "Vermerien";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vermerien, Arlette";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/248429>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3319_17;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3319_17 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3319_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02491"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3319_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021970"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021970/2021-12-31T20:42:28.536Z>.
+<https://stad.gent/id/agent/530021975/2021-12-31T20:42:43.541Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021975>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:42:43.541Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3319_38, _:df_3319_40;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/familyName> "Vermeulen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vermeulen";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3319_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02494"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3319_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021975"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021975/2021-12-31T20:42:43.541Z>.
+<https://stad.gent/id/agent/530014249/2021-12-31T18:29:05.497Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530014249>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:29:05.497Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3907_2, _:df_3907_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3907_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Peter";
+    <http://xmlns.com/foaf/0.1/familyName> "Vermandere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vermandere, Peter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/341140>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3907_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3907_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3907_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1961"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007965>.
+<http://vocab.getty.edu/tgn/7007965> a <http://purl.org/dc/terms/Location>.
+_:df_3907_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01517"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3907_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530014249"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530014249/2021-12-31T18:29:05.497Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/verm.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/verm.ttl>.

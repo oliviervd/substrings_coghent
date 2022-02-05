@@ -1,0 +1,78 @@
+<https://stad.gent/id/agent/530022185/2021-12-31T20:51:42.026Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022185>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:51:42.026Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3259_6, _:df_3259_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3259_10;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3259_12;
+    <http://xmlns.com/foaf/0.1/givenName> "Maurice";
+    <http://xmlns.com/foaf/0.1/familyName> "Wyckaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wyckaert, Maurice";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2317563>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3259_16;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3259_16 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3259_12 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1996-07-17"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3259_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1923-11-15"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+_:df_3259_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02591"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3259_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022185"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022185/2021-12-31T20:51:42.026Z>.
+<https://stad.gent/id/agent/530013354/2021-12-31T18:03:14.353Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013354>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:03:14.353Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4060_9, _:df_4060_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4060_13;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4060_15;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wytsman, Rodolphe Paul";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2318074>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4060_18;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4060_18 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4060_15 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1927-11-02"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7241946>.
+<http://vocab.getty.edu/tgn/7241946> a <http://purl.org/dc/terms/Location>.
+_:df_4060_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1860-03-11"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007872>.
+<http://vocab.getty.edu/tgn/7007872> a <http://purl.org/dc/terms/Location>.
+_:df_4060_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01264"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4060_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013354"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013354/2021-12-31T18:03:14.353Z>.
+<https://stad.gent/id/agent/530000463/2021-12-31T16:10:24.255Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000463>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:10:24.255Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4750_15, _:df_4750_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4750_18;
+    <http://xmlns.com/foaf/0.1/givenName> "Dirk";
+    <http://xmlns.com/foaf/0.1/familyName> "Wynants";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wynants, Dirk";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2789655>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4750_22;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4750_22 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4750_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1964-05-09"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4750_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00116"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4750_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000463"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000463/2021-12-31T16:10:24.255Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/wy.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/wy.ttl>.

@@ -1,0 +1,99 @@
+<https://stad.gent/id/agent/670000135/2022-01-01T03:41:37.331Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000135>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:41:37.331Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2170_2, _:df_2170_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Michiel Joseph";
+    <http://xmlns.com/foaf/0.1/familyName> "Benau";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Benau, Michiel Joseph";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2170_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0118"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2170_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000135"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000135/2022-01-01T03:41:37.331Z>.
+<https://stad.gent/id/agent/670000136/2022-01-01T03:41:42.333Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000136>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:41:42.333Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2170_10, _:df_2170_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Alexander";
+    <http://xmlns.com/foaf/0.1/familyName> "Benoit";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Benoit, Jan Alexander";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2170_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0119"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2170_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000136"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000136/2022-01-01T03:41:42.333Z>.
+<https://stad.gent/id/agent/670000137/2022-01-01T03:41:47.334Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000137>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:41:47.334Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2170_24, _:df_2170_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Alexander erfgenamen";
+    <http://xmlns.com/foaf/0.1/familyName> "Benoit";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Benoit, Jan Alexander erfgenamen";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2170_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0120"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2170_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000137"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000137/2022-01-01T03:41:47.334Z>.
+<https://stad.gent/id/agent/670000138/2022-01-01T03:41:52.337Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000138>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:41:52.337Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2170_38, _:df_2170_40;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Benoit";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Benoit";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2170_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0121"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2170_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000138"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000138/2022-01-01T03:41:52.337Z>.
+<https://stad.gent/id/agent/670000139/2022-01-01T03:41:57.581Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000139>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:41:57.581Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2170_42, _:df_2170_44;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Adriaen Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Benthuijs";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Benthuijs, Adriaen Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2170_44 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0122"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2170_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000139"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000139/2022-01-01T03:41:57.581Z>.
+<https://stad.gent/id/agent/670000134/2022-01-01T03:41:32.329Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000134>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:41:32.329Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2173_24, _:df_2173_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joseph weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Benau";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Benau, Joseph weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2173_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0117"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2173_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000134"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000134/2022-01-01T03:41:32.329Z>.
+<https://stad.gent/id/agent/570030221/2022-01-01T02:59:15.832Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030221>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:59:15.832Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2383_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bénard Aug.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2383_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030221"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030221/2022-01-01T02:59:15.832Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/ben.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/ben.ttl>.

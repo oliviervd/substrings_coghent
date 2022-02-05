@@ -1,0 +1,28 @@
+<https://stad.gent/id/agent/530000643/2021-12-31T16:23:19.842Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000643>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:23:19.842Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4666_15, _:df_4666_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "G.";
+    <http://xmlns.com/foaf/0.1/familyName> "Huisman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Huisman, G.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4666_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00256"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4666_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000643"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000643/2021-12-31T16:23:19.842Z>.
+<https://stad.gent/id/agent/530000630/2021-12-31T16:22:14.554Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000630>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:22:14.554Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4675_31, _:df_4675_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Huisman, Gebr.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4675_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00243"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4675_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000630"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000630/2021-12-31T16:22:14.554Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/hui.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/hui.ttl>.

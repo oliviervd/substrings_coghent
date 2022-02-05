@@ -1,0 +1,140 @@
+<https://stad.gent/id/agent/570027885/2022-01-01T02:19:49.871Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570027885>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:19:49.871Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2623_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2623_7;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Greenpeace";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q81307>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2623_7 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1971"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2623_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570027885"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570027885/2022-01-01T02:19:49.871Z>.
+<https://stad.gent/id/agent/570020162/2022-01-01T01:58:11.305Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020162>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:58:11.305Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2773_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Greif-Werke";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2773_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020162"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020162/2022-01-01T01:58:11.305Z>.
+<https://stad.gent/id/agent/530017851/2021-12-31T19:19:20.393Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530017851>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:19:20.393Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3739_21, _:df_3739_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3739_25;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3739_27;
+    <http://xmlns.com/foaf/0.1/givenName> "Vittorio";
+    <http://xmlns.com/foaf/0.1/familyName> "Gregotti";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gregotti, Vittorio";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500033063>, <https://www.wikidata.org/entity/Q679049>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3739_38;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3739_38 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_3739_27 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2020-03-15"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>.
+_:df_3739_25 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1927-08-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005652>.
+<http://vocab.getty.edu/tgn/7005652> a <http://purl.org/dc/terms/Location>.
+_:df_3739_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01797"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3739_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530017851"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530017851/2021-12-31T19:19:20.393Z>.
+<https://stad.gent/id/agent/530017875/2021-12-31T19:19:35.397Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530017875>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:19:35.397Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3739_40, _:df_3739_42;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3739_43;
+    <http://xmlns.com/foaf/0.1/givenName> "Jürgen";
+    <http://xmlns.com/foaf/0.1/familyName> "Greubel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Greubel, Jürgen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500460679>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3739_47;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3739_47 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_3739_43 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1938"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3739_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01798"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3739_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530017875"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530017875/2021-12-31T19:19:35.397Z>.
+<https://stad.gent/id/agent/530001058/2021-12-31T16:50:20.464Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001058>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:50:20.464Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4474_40, _:df_4474_42;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "C.";
+    <http://xmlns.com/foaf/0.1/familyName> "Greber";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Greber, C.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4474_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00578"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4474_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001058"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001058/2021-12-31T16:50:20.464Z>.
+<https://stad.gent/id/agent/530001024/2021-12-31T16:47:59.399Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001024>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:47:59.399Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4489_14, _:df_4489_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gres Wallon de Guerin";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4489_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00550"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4489_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001024"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001024/2021-12-31T16:47:59.399Z>.
+<https://stad.gent/id/agent/530000627/2021-12-31T16:22:04.227Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000627>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:22:04.227Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4675_11, _:df_4675_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gerrit";
+    <http://xmlns.com/foaf/0.1/familyName> "Greup";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Greup, Gerrit";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/371724>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4675_17;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4675_17 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_4675_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00241"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4675_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000627"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000627/2021-12-31T16:22:04.227Z>.
+<https://stad.gent/id/agent/530000568/2021-12-31T16:17:37.589Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000568>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:17:37.589Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4708_33, _:df_4708_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4708_37;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gregotti, Meneghetti, Stoppino";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500212063>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4708_37 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1974"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4708_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00188"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4708_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000568"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000568/2021-12-31T16:17:37.589Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/gre.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/gre.ttl>.

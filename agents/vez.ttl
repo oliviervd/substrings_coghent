@@ -1,0 +1,14 @@
+<https://stad.gent/id/agent/530013326/2021-12-31T18:01:28.686Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013326>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:01:28.686Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4072_2, _:df_4072_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vezet Belgium";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4072_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01243"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4072_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013326"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013326/2021-12-31T18:01:28.686Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/vez.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/vez.ttl>.

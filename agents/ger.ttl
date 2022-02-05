@@ -1,0 +1,106 @@
+<https://stad.gent/id/agent/570019761/2022-01-01T01:55:00.037Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570019761>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:55:00.037Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2794_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Géruzet";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2794_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019761"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570019761/2022-01-01T01:55:00.037Z>.
+<https://stad.gent/id/agent/530023072/2021-12-31T21:02:00.977Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023072>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:02:00.977Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3217_27, _:df_3217_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3217_30;
+    <http://xmlns.com/foaf/0.1/givenName> "Damien";
+    <http://xmlns.com/foaf/0.1/familyName> "Gernay";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gernay, Damien";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3217_30 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1985"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3217_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02664"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3217_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023072"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023072/2021-12-31T21:02:00.977Z>.
+<https://stad.gent/id/agent/530021725/2021-12-31T20:35:55.927Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021725>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:35:55.927Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3355_24, _:df_3355_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Paola";
+    <http://xmlns.com/foaf/0.1/familyName> "Gerosa";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gerosa, Paola";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3355_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02433"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3355_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021725"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021725/2021-12-31T20:35:55.927Z>.
+<https://stad.gent/id/agent/530016946/2021-12-31T18:59:47.426Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016946>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:59:47.426Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3754_12, _:df_3754_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Rik";
+    <http://xmlns.com/foaf/0.1/familyName> "Gerard";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gerard, Rik";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3754_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01774"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3754_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016946"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016946/2021-12-31T18:59:47.426Z>.
+<https://stad.gent/id/agent/530016540/2021-12-31T18:36:53.581Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016540>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:36:53.581Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3877_2, _:df_3877_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gercy";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3877_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01567"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3877_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016540"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016540/2021-12-31T18:36:53.581Z>.
+<https://stad.gent/id/agent/530000634/2021-12-31T16:22:34.561Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000634>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:22:34.561Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4672_18, _:df_4672_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gero";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4672_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00247"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4672_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000634"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000634/2021-12-31T16:22:34.561Z>.
+<https://stad.gent/id/agent/530000610/2021-12-31T16:20:48.889Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000610>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:20:48.889Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4684_18, _:df_4684_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4684_22;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4684_24;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gerritsen en Van Kempen";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q29422170>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4684_24 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1960"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006927>.
+<http://vocab.getty.edu/tgn/7006927> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4684_22 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1903"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006927>.
+_:df_4684_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00226"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4684_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000610"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000610/2021-12-31T16:20:48.889Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/ger.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/ger.ttl>.

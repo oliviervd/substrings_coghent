@@ -1,0 +1,48 @@
+<https://stad.gent/id/agent/670002701/2022-01-01T07:15:51.378Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002701>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:15:51.378Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_640_23, _:df_640_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "graaf graaf van Liberchy";
+    <http://xmlns.com/foaf/0.1/givenName> "graaf";
+    <http://xmlns.com/foaf/0.1/familyName> "van Liberchy";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Liberchy, graaf";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_640_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2684"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_640_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002701"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002701/2022-01-01T07:15:51.378Z>.
+<https://stad.gent/id/agent/670002702/2022-01-01T07:15:56.678Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002702>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:15:56.678Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_640_29, _:df_640_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francies Audenaert";
+    <http://xmlns.com/foaf/0.1/familyName> "van Lierde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Lierde, Francies Audenaert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_640_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2685"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_640_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002702"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002702/2022-01-01T07:15:56.678Z>.
+<https://stad.gent/id/agent/530019840/2021-12-31T19:32:45.755Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019840>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:32:45.755Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3700_33, _:df_3700_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Van Lierde";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van Lierde, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3700_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01862"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3700_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019840"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019840/2021-12-31T19:32:45.755Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/van+li.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/van+li.ttl>.

@@ -1,0 +1,36 @@
+<https://stad.gent/id/agent/530023195/2021-12-31T21:09:40.119Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023195>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:09:40.119Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3178_7, _:df_3178_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3178_11;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3178_13;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Upsala Ekeby";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1615108>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3178_13 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1980"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009867>.
+<http://vocab.getty.edu/tgn/7009867> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3178_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1886"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009867>.
+_:df_3178_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02726"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3178_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023195"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023195/2021-12-31T21:09:40.119Z>.
+<https://stad.gent/id/agent/530000403/2021-12-31T16:06:02.265Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000403>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:06:02.265Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4771_31, _:df_4771_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Up & Up";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4771_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00083"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4771_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000403"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000403/2021-12-31T16:06:02.265Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/up.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/up.ttl>.

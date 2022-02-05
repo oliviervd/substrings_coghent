@@ -1,0 +1,28 @@
+<https://stad.gent/id/agent/670001655/2022-01-01T05:48:39.663Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001655>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:48:39.663Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1264_18, _:df_1264_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "le Gillon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "le Gillon, weduwe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1264_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1638"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1264_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001655"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001655/2022-01-01T05:48:39.663Z>.
+<https://stad.gent/id/agent/530001158/2021-12-31T16:56:33.023Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001158>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:56:33.023Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4429_27, _:df_4429_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Le Glaive";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4429_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00652"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4429_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001158"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001158/2021-12-31T16:56:33.023Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/le+g.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/le+g.ttl>.

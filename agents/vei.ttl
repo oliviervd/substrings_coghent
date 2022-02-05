@@ -1,0 +1,47 @@
+<https://stad.gent/id/agent/670003003/2022-01-01T07:40:50.333Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003003>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:40:50.333Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_460_10, _:df_460_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Veilder";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Veilder, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_460_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2986"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_460_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003003"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003003/2022-01-01T07:40:50.333Z>.
+<https://stad.gent/id/agent/670003004/2022-01-01T07:40:55.334Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003004>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:40:55.334Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_460_15, _:df_460_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "Veirman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Veirman, Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_460_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2987"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_460_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003004"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003004/2022-01-01T07:40:55.334Z>.
+<https://stad.gent/id/agent/670003005/2022-01-01T07:41:00.337Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003005>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:41:00.337Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_460_20, _:df_460_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Veirman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Veirman, Joannes Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_460_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2988"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_460_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003005"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003005/2022-01-01T07:41:00.337Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/vei.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/vei.ttl>.

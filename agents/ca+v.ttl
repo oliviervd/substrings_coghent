@@ -1,0 +1,17 @@
+<https://stad.gent/id/agent/570021361/2022-01-01T02:04:08.535Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021361>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:04:08.535Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2731_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2731_8;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ça-va-seul";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2294921>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2731_8 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026396>.
+<http://vocab.getty.edu/tgn/1026396> a <http://purl.org/dc/terms/Location>.
+_:df_2731_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021361"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021361/2022-01-01T02:04:08.535Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/ca+v.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/ca+v.ttl>.

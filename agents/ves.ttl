@@ -1,0 +1,52 @@
+<https://stad.gent/id/agent/570018612/2022-01-01T01:49:47.785Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570018612>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:49:47.785Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2830_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vesuvius (ATG)";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2830_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018612"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570018612/2022-01-01T01:49:47.785Z>.
+<https://stad.gent/id/agent/530016895/2021-12-31T18:57:06.414Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016895>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:57:06.414Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3766_19, _:df_3766_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vestlandske Stol-og  Mobelfabrikk";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3766_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01753"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3766_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016895"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016895/2021-12-31T18:57:06.414Z>.
+<https://stad.gent/id/agent/530001640/2021-12-31T17:25:04.363Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001640>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:25:04.363Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4225_30, _:df_4225_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4225_34;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "VEST Leuchten";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4225_34 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003321>.
+<http://vocab.getty.edu/tgn/7003321> a <http://purl.org/dc/terms/Location>.
+_:df_4225_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00991"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4225_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001640"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001640/2021-12-31T17:25:04.363Z>.
+<https://stad.gent/id/agent/530000728/2021-12-31T16:29:17.023Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000728>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:29:17.023Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4624_33, _:df_4624_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vestlandske Mobelfabrikk";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4624_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00327"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4624_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000728"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000728/2021-12-31T16:29:17.023Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/ves.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/ves.ttl>.

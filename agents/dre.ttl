@@ -1,0 +1,94 @@
+<https://stad.gent/id/agent/530015789/2021-12-31T18:33:32.173Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530015789>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:33:32.173Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3889_2, _:df_3889_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3889_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3889_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Henry";
+    <http://xmlns.com/foaf/0.1/familyName> "Dreyfuss";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dreyfuss, Henry";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500059346>, <https://www.wikidata.org/entity/Q940346>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3889_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3889_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amerikaans"@nl.
+_:df_3889_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1972-10-05"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007157>.
+<http://vocab.getty.edu/tgn/7007157> a <http://purl.org/dc/terms/Location>.
+_:df_3889_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1904-04-02"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7015822>.
+<http://vocab.getty.edu/tgn/7015822> a <http://purl.org/dc/terms/Location>.
+_:df_3889_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01547"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3889_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530015789"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530015789/2021-12-31T18:33:32.173Z>.
+<https://stad.gent/id/agent/530000775/2021-12-31T16:31:57.992Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000775>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:31:57.992Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4603_2, _:df_4603_4;
+    <http://www.w3.org/2004/02/skos/core#note> "http://www.christopherdresser.co.uk/";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4603_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4603_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Christopher";
+    <http://xmlns.com/foaf/0.1/familyName> "Dresser";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dresser, Christopher";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500042183>, <https://www.wikidata.org/entity/Q1086650>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4603_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4603_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Brits"@nl.
+_:df_4603_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1904-11-24"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012333>.
+<http://vocab.getty.edu/tgn/7012333> a <http://purl.org/dc/terms/Location>.
+_:df_4603_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1834-07-04"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7017283>.
+<http://vocab.getty.edu/tgn/7017283> a <http://purl.org/dc/terms/Location>.
+_:df_4603_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00359"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4603_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000775"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000775/2021-12-31T16:31:57.992Z>.
+<https://stad.gent/id/agent/470019196/2021-12-31T15:38:06.985Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470019196>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:38:06.985Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4825_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dreyfuss, Henry";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q940346>, <http://vocab.getty.edu/page/ulan/500059346>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4825_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470019196"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470019196/2021-12-31T15:38:06.985Z>.
+<https://stad.gent/id/agent/470010335/2021-12-31T15:34:20.717Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470010335>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:34:20.717Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4852_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dreft";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q115676>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4852_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470010335"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470010335/2021-12-31T15:34:20.717Z>.
+<https://stad.gent/id/agent/470004396/2021-12-31T15:30:37.743Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470004396>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:30:37.743Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4879_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Drents Museum";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1258370>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4879_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004396"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470004396/2021-12-31T15:30:37.743Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/dre.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/dre.ttl>.

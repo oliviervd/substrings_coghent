@@ -1,0 +1,24 @@
+<https://stad.gent/id/agent/570028553/2022-01-01T02:39:02.750Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028553>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:39:02.750Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2515_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Leuci";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2515_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028553"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028553/2022-01-01T02:39:02.750Z>.
+<https://stad.gent/id/agent/530024245/2021-12-31T22:09:08.035Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024245>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T22:09:08.035Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2911_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Leuthe, Nicola";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/530021346>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/530021346> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nicola L."@nl.
+_:df_2911_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024245"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024245/2021-12-31T22:09:08.035Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/leu.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/leu.ttl>.

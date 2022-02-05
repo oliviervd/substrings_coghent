@@ -1,0 +1,18 @@
+<https://stad.gent/id/agent/530020669/2021-12-31T19:59:15.984Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020669>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:59:15.984Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3565_17, _:df_3565_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "François";
+    <http://xmlns.com/foaf/0.1/familyName> "Voisin";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Voisin, François";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/110604>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3565_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02084"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3565_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020669"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020669/2021-12-31T19:59:15.984Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/voi.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/voi.ttl>.

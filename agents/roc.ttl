@@ -1,0 +1,22 @@
+<https://stad.gent/id/agent/570028216/2022-01-01T02:25:07.560Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028216>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:25:07.560Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2593_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Roche";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2593_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028216"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028216/2022-01-01T02:25:07.560Z>.
+<https://stad.gent/id/agent/570026601/2022-01-01T02:18:54.560Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570026601>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:18:54.560Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2629_7;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Rockstroh & Schneider Nachfahren AG";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2629_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570026601"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570026601/2022-01-01T02:18:54.560Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/roc.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/roc.ttl>.

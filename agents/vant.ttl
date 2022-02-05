@@ -1,0 +1,46 @@
+<https://stad.gent/id/agent/530023334/2021-12-31T21:20:14.425Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023334>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:20:14.425Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3103_2, _:df_3103_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3103_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3103_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Georges";
+    <http://xmlns.com/foaf/0.1/familyName> "Vantongerloo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vantongerloo, Georges";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/79425>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3103_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3103_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3103_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1965-10-05"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>.
+_:df_3103_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1886-11-24"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007856>.
+<http://vocab.getty.edu/tgn/7007856> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3103_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02850"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3103_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023334"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023334/2021-12-31T21:20:14.425Z>.
+<https://stad.gent/id/agent/530019984/2021-12-31T19:36:37.122Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019984>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:36:37.122Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3688_24, _:df_3688_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Raf";
+    <http://xmlns.com/foaf/0.1/familyName> "Vanthoor";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vanthoor, Raf";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3688_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01881"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3688_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019984"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019984/2021-12-31T19:36:37.122Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/vant.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/vant.ttl>.

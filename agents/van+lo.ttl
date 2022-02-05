@@ -1,0 +1,98 @@
+<https://stad.gent/id/agent/530020754/2021-12-31T20:04:28.356Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020754>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:04:28.356Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3535_18, _:df_3535_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Michel";
+    <http://xmlns.com/foaf/0.1/familyName> "Van Loo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van Loo, Michel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3535_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02133"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3535_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020754"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020754/2021-12-31T20:04:28.356Z>.
+<https://stad.gent/id/agent/530013749/2021-12-31T18:27:34.917Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013749>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:27:34.917Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3916_23, _:df_3916_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Antoine";
+    <http://xmlns.com/foaf/0.1/familyName> "Van Loocke";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van Loocke, Antoine";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q52224902>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3916_29;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3916_29 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3916_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01506"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3916_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013749"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013749/2021-12-31T18:27:34.917Z>.
+<https://stad.gent/id/agent/530000969/2021-12-31T16:44:12.657Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000969>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:44:12.657Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4516_13, _:df_4516_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4516_17;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4516_18;
+    <http://xmlns.com/foaf/0.1/givenName> "Florimond";
+    <http://xmlns.com/foaf/0.1/familyName> "Van Loo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van Loo, Florimond";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/101426>, <https://www.wikidata.org/entity/Q21395986>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4516_22;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4516_22 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4516_18 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1901"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4516_17 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1823"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>.
+_:df_4516_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00505"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4516_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000969"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000969/2021-12-31T16:44:12.657Z>.
+<https://stad.gent/id/agent/530000526/2021-12-31T16:14:46.000Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000526>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:14:46.000Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4726_2, _:df_4726_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4726_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Johan";
+    <http://xmlns.com/foaf/0.1/familyName> "van Loon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Loon, Johan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500050480>, <https://www.wikidata.org/entity/Q20737956>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4726_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4726_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_4726_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1934-10-29"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006792>.
+<http://vocab.getty.edu/tgn/7006792> a <http://purl.org/dc/terms/Location>.
+_:df_4726_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00154"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4726_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000526"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000526/2021-12-31T16:14:46.000Z>.
+<https://stad.gent/id/agent/470006792/2021-12-31T15:32:19.840Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470006792>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:32:19.840Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4867_5;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van Loo, Florimond";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q21395986>, <https://rkd.nl/explore/artists/101426>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4867_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470006792"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470006792/2021-12-31T15:32:19.840Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/van+lo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/van+lo.ttl>.

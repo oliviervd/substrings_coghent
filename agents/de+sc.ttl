@@ -1,0 +1,211 @@
+<https://stad.gent/id/agent/670000926/2022-01-01T04:48:01.515Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000926>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:48:01.515Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1696_2, _:df_1696_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "August weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "de Schuyter";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Schuyter, August weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1696_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0909"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1696_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000926"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000926/2022-01-01T04:48:01.515Z>.
+<https://stad.gent/id/agent/670000921/2022-01-01T04:47:36.505Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000921>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:47:36.505Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1699_2, _:df_1699_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "de Schrijver";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Schrijver, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1699_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0904"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1699_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000921"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000921/2022-01-01T04:47:36.505Z>.
+<https://stad.gent/id/agent/670000922/2022-01-01T04:47:41.507Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000922>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:47:41.507Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1699_7, _:df_1699_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Leonardus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Schrijver";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Schrijver, Leonardus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1699_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0905"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1699_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000922"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000922/2022-01-01T04:47:41.507Z>.
+<https://stad.gent/id/agent/670000923/2022-01-01T04:47:46.509Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000923>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:47:46.509Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1699_12, _:df_1699_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Augustinus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Schuijtere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Schuijtere, Augustinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1699_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0906"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1699_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000923"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000923/2022-01-01T04:47:46.509Z>.
+<https://stad.gent/id/agent/670000924/2022-01-01T04:47:51.511Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000924>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:47:51.511Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1699_17, _:df_1699_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "de Schuijtere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Schuijtere";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1699_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0907"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1699_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000924"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000924/2022-01-01T04:47:51.511Z>.
+<https://stad.gent/id/agent/670000925/2022-01-01T04:47:56.513Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000925>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:47:56.513Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1699_24, _:df_1699_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Andries";
+    <http://xmlns.com/foaf/0.1/familyName> "de Schurder";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Schurder, Andries";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1699_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0908"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1699_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000925"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000925/2022-01-01T04:47:56.513Z>.
+<https://stad.gent/id/agent/670000916/2022-01-01T04:47:11.167Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:47:11.167Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1702_2, _:df_1702_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes Ludovicus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Schepper";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Schepper, Joannes Ludovicus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1702_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0899"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1702_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000916/2022-01-01T04:47:11.167Z>.
+<https://stad.gent/id/agent/670000917/2022-01-01T04:47:16.170Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000917>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:47:16.170Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1702_7, _:df_1702_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anthone";
+    <http://xmlns.com/foaf/0.1/familyName> "de Scheppere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Scheppere, Anthone";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1702_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0900"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1702_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000917"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000917/2022-01-01T04:47:16.170Z>.
+<https://stad.gent/id/agent/670000918/2022-01-01T04:47:21.171Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000918>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:47:21.171Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1702_12, _:df_1702_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francis";
+    <http://xmlns.com/foaf/0.1/familyName> "de Schierder";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Schierder, Francis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1702_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0901"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1702_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000918"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000918/2022-01-01T04:47:21.171Z>.
+<https://stad.gent/id/agent/670000919/2022-01-01T04:47:26.172Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000919>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:47:26.172Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1702_20, _:df_1702_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Paulus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Schoenmaecker";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Schoenmaecker, Paulus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1702_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0902"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1702_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000919"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000919/2022-01-01T04:47:26.172Z>.
+<https://stad.gent/id/agent/670000920/2022-01-01T04:47:31.503Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000920>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:47:31.503Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1702_28, _:df_1702_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Schrijver";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Schrijver, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1702_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0903"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1702_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000920"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000920/2022-01-01T04:47:31.503Z>.
+<https://stad.gent/id/agent/670000913/2022-01-01T04:46:56.161Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000913>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:46:56.161Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1705_15, _:df_1705_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "de Schaepmeester";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Schaepmeester, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1705_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0896"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1705_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000913"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000913/2022-01-01T04:46:56.161Z>.
+<https://stad.gent/id/agent/670000914/2022-01-01T04:47:01.163Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000914>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:47:01.163Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1705_20, _:df_1705_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "de Scheemaecker";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Scheemaecker, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1705_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0897"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1705_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000914"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000914/2022-01-01T04:47:01.163Z>.
+<https://stad.gent/id/agent/670000915/2022-01-01T04:47:06.165Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000915>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:47:06.165Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1705_25, _:df_1705_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "de Scheemaecker";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Scheemaecker, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1705_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0898"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1705_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000915"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000915/2022-01-01T04:47:06.165Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/de+sc.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/de+sc.ttl>.

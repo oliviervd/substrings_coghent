@@ -1,0 +1,223 @@
+<https://stad.gent/id/agent/670003463/2022-01-01T08:10:06.005Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003463>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:10:06.005Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_253_19, _:df_253_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "hotel Clemmen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "hotel Clemmen";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/26001>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_253_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0114"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_253_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003463"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003463/2022-01-01T08:10:06.005Z>.
+<https://stad.gent/id/agent/670003389/2022-01-01T08:03:53.859Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003389>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:03:53.859Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_295_2, _:df_295_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "hotel Reylof";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "hotel Reylof";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/20456>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_295_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0040"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_295_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003389"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003389/2022-01-01T08:03:53.859Z>.
+<https://stad.gent/id/agent/670003390/2022-01-01T08:03:58.862Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003390>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:03:58.862Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_295_7, _:df_295_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "hotel Van Goethem";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "hotel Van Goethem";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/24976>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_295_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0041"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_295_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003390"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003390/2022-01-01T08:03:58.862Z>.
+<https://stad.gent/id/agent/670003391/2022-01-01T08:04:03.863Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003391>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:04:03.863Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_295_12, _:df_295_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "hotel Wellington";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "hotel Wellington";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/24614>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_295_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0042"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_295_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003391"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003391/2022-01-01T08:04:03.863Z>.
+<https://stad.gent/id/agent/670003384/2022-01-01T08:03:28.581Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003384>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:03:28.581Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_298_2, _:df_298_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "hotel de Hemptinne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "hotel de Hemptinne";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/25500>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_298_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0035"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_298_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003384"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003384/2022-01-01T08:03:28.581Z>.
+<https://stad.gent/id/agent/670003385/2022-01-01T08:03:33.582Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003385>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:03:33.582Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_298_7, _:df_298_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "hotel de Loose";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "hotel de Loose";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/19391>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_298_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0036"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_298_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003385"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003385/2022-01-01T08:03:33.582Z>.
+<https://stad.gent/id/agent/670003386/2022-01-01T08:03:38.585Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003386>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:03:38.585Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_298_12, _:df_298_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "hotel Dons de Lovendeghem";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "hotel Dons de Lovendeghem";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_298_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0037"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_298_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003386"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003386/2022-01-01T08:03:38.585Z>.
+<https://stad.gent/id/agent/670003387/2022-01-01T08:03:43.856Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003387>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:03:43.856Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_298_16, _:df_298_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "hotel Dutry";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "hotel Dutry";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/19152>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_298_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0038"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_298_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003387"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003387/2022-01-01T08:03:43.856Z>.
+<https://stad.gent/id/agent/670003388/2022-01-01T08:03:48.857Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003388>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:03:48.857Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_298_21, _:df_298_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "hotel Piers de Raveschoot";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "hotel Piers de Raveschoot";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_298_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0039"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_298_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003388"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003388/2022-01-01T08:03:48.857Z>.
+<https://stad.gent/id/agent/670003382/2022-01-01T08:03:18.576Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003382>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:03:18.576Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_301_18, _:df_301_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "hotel de Coninck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "hotel de Coninck";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/24996>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_301_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0033"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_301_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003382"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003382/2022-01-01T08:03:18.576Z>.
+<https://stad.gent/id/agent/670003383/2022-01-01T08:03:23.578Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003383>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:03:23.578Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_301_23, _:df_301_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "hotel de Ghellinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "hotel de Ghellinck";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/25143>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_301_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0034"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_301_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003383"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003383/2022-01-01T08:03:23.578Z>.
+<https://stad.gent/id/agent/670003281/2022-01-01T08:00:07.234Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003281>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:00:07.234Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_322_10, _:df_322_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Saceghem";
+    <http://xmlns.com/foaf/0.1/familyName> "hotel van Sasseghem";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "hotel van Sasseghem";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/24619>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_322_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3202"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_322_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003281"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003281/2022-01-01T08:00:07.234Z>.
+<https://stad.gent/id/agent/670003282/2022-01-01T08:00:12.236Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003282>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:00:12.236Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_322_16, _:df_322_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_322_19;
+    <http://xmlns.com/foaf/0.1/familyName> "hotel Falligan";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "hotel Falligan";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/25220>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_322_19 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1755-01-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_322_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3203"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_322_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003282"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003282/2022-01-01T08:00:12.236Z>.
+<https://stad.gent/id/agent/670003283/2022-01-01T08:00:17.238Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003283>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:00:17.238Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_322_22, _:df_322_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "hotel de Nockere";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/25639>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_322_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3204"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_322_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003283"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003283/2022-01-01T08:00:17.238Z>.
+<https://stad.gent/id/agent/670003284/2022-01-01T08:00:22.540Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003284>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:00:22.540Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_322_27, _:df_322_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "hotel d'Hane-Steenhuyse";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/25985>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_322_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3205"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_322_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003284"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003284/2022-01-01T08:00:22.540Z>.
+<https://stad.gent/id/agent/470006096/2021-12-31T15:31:49.829Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470006096>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:31:49.829Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4870_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "hotel d'Hane-Steenhuyse";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2120186>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4870_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470006096"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470006096/2021-12-31T15:31:49.829Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/hot.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/hot.ttl>.

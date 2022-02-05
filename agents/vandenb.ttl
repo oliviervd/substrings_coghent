@@ -1,0 +1,27 @@
+<https://stad.gent/id/agent/530024234/2021-12-31T22:08:12.726Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024234>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T22:08:12.726Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2917_39, _:df_2917_41;
+    <http://www.w3.org/2004/02/skos/core#note> "\"begaafd decorateur-ontwerper-kunstenaar en tevens hoofd van de afdeling meubeldesign van de Kunstwerkstede Gebroeders De Coene Kortrijk (1952-1974)\" (https://erfgoedinzicht.be/collecties/detail/54c049c4-cecb-5ac0-8713-e9f3c0cd67a4/media/ed926d26-9a50-542b-0cc0-10487a46293d e.a. items op erfgoedinzicht)";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2917_42;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2917_43;
+    <http://xmlns.com/foaf/0.1/givenName> "Paul";
+    <http://xmlns.com/foaf/0.1/familyName> "Vandenbulcke";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vandenbulcke, Paul";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2917_46;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2917_46 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2917_43 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1974"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2917_42 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1916"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2917_41 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03202"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2917_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024234"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024234/2021-12-31T22:08:12.726Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/vandenb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/vandenb.ttl>.

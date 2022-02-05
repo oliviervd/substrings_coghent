@@ -1,0 +1,92 @@
+<https://stad.gent/id/agent/670000200/2022-01-01T03:47:05.264Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000200>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:47:05.264Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2131_2, _:df_2131_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Michiel";
+    <http://xmlns.com/foaf/0.1/familyName> "Bogaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bogaert, Michiel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2131_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0183"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2131_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000200"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000200/2022-01-01T03:47:05.264Z>.
+<https://stad.gent/id/agent/670000201/2022-01-01T03:47:10.267Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000201>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:47:10.267Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2131_7, _:df_2131_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Rogier (jr.)";
+    <http://xmlns.com/foaf/0.1/familyName> "Bogaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bogaert, Rogier (jr.)";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2131_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0184"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2131_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000201"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000201/2022-01-01T03:47:10.267Z>.
+<https://stad.gent/id/agent/670000202/2022-01-01T03:47:15.268Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000202>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:47:15.268Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2131_12, _:df_2131_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes Emanuel";
+    <http://xmlns.com/foaf/0.1/familyName> "Bogaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bogaert, Joannes Emanuel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2131_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0185"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2131_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000202"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000202/2022-01-01T03:47:15.268Z>.
+<https://stad.gent/id/agent/670000197/2022-01-01T03:46:49.860Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000197>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:46:49.860Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2134_12, _:df_2134_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Rogier (sr.)";
+    <http://xmlns.com/foaf/0.1/familyName> "Bogaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bogaert, Rogier (sr.)";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2134_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0180"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2134_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000197"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000197/2022-01-01T03:46:49.860Z>.
+<https://stad.gent/id/agent/670000198/2022-01-01T03:46:54.863Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000198>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:46:54.863Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2134_17, _:df_2134_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "Bogaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bogaert, Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2134_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0181"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2134_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000198"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000198/2022-01-01T03:46:54.863Z>.
+<https://stad.gent/id/agent/670000199/2022-01-01T03:47:00.263Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000199>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:47:00.263Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2134_25, _:df_2134_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "N.";
+    <http://xmlns.com/foaf/0.1/familyName> "Bogaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bogaert, N.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2134_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0182"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2134_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000199"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000199/2022-01-01T03:47:00.263Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/bog.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/bog.ttl>.

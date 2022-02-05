@@ -1,0 +1,31 @@
+<https://stad.gent/id/agent/670002915/2022-01-01T07:33:27.750Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002915>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:33:27.750Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_514_25, _:df_514_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gismarus";
+    <http://xmlns.com/foaf/0.1/familyName> "vander Donckt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vander Donckt, Gismarus";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_514_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2898"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_514_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002915"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002915/2022-01-01T07:33:27.750Z>.
+<https://stad.gent/id/agent/670002916/2022-01-01T07:33:33.017Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:33:33.017Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_514_30, _:df_514_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "vander Donct";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vander Donct, Frans weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_514_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2899"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_514_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002916/2022-01-01T07:33:33.017Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/vander+d.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/vander+d.ttl>.

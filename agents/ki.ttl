@@ -1,0 +1,387 @@
+<https://stad.gent/id/agent/670001612/2022-01-01T05:45:03.271Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001612>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:45:03.271Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1288_2, _:df_1288_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Philippe";
+    <http://xmlns.com/foaf/0.1/familyName> "Kints";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kints, Philippe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1288_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1595"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1288_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001612"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001612/2022-01-01T05:45:03.271Z>.
+<https://stad.gent/id/agent/670001609/2022-01-01T05:44:48.267Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001609>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:44:48.267Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1291_12, _:df_1291_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francois";
+    <http://xmlns.com/foaf/0.1/familyName> "Kieckepoost";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kieckepoost, Francois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1291_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1592"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1291_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001609"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001609/2022-01-01T05:44:48.267Z>.
+<https://stad.gent/id/agent/670001610/2022-01-01T05:44:53.268Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001610>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:44:53.268Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1291_20, _:df_1291_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Ludovicus";
+    <http://xmlns.com/foaf/0.1/familyName> "Kimpe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kimpe, Ludovicus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1291_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1593"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1291_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001610"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001610/2022-01-01T05:44:53.268Z>.
+<https://stad.gent/id/agent/670001611/2022-01-01T05:44:58.269Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001611>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:44:58.269Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1291_28, _:df_1291_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francois";
+    <http://xmlns.com/foaf/0.1/familyName> "Kimpe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kimpe, Francois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1291_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1594"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1291_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001611"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001611/2022-01-01T05:44:58.269Z>.
+<https://stad.gent/id/agent/570028219/2022-01-01T02:25:22.565Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028219>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:25:22.565Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2590_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kissing & Möllmann (KyM)";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2590_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028219"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028219/2022-01-01T02:25:22.565Z>.
+<https://stad.gent/id/agent/570023522/2022-01-01T02:11:26.434Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570023522>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:11:26.434Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2680_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kisteman, Josiane";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2680_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023522"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570023522/2022-01-01T02:11:26.434Z>.
+<https://stad.gent/id/agent/530022986/2021-12-31T20:58:14.512Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022986>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:58:14.512Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3235_2, _:df_3235_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3235_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "KIK - Koninklijk Instituut voor het Kunstpatrimonium";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2235462>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3235_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1962"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>.
+_:df_3235_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02630"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3235_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022986"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022986/2021-12-31T20:58:14.512Z>.
+<https://stad.gent/id/agent/530021737/2021-12-31T20:36:36.256Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021737>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:36:36.256Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3349_11, _:df_3349_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3349_15;
+    <http://xmlns.com/foaf/0.1/givenName> "Manita";
+    <http://xmlns.com/foaf/0.1/familyName> "Kieft";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kieft, Manita";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/44271>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3349_19;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3349_19 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_3349_15 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1961-09-19"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7260934>.
+<http://vocab.getty.edu/tgn/7260934> a <http://purl.org/dc/terms/Location>.
+_:df_3349_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02441"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3349_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021737"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021737/2021-12-31T20:36:36.256Z>.
+<https://stad.gent/id/agent/530021649/2021-12-31T20:30:28.746Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021649>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:30:28.746Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3394_23, _:df_3394_25;
+    <http://www.w3.org/2004/02/skos/core#note> "She has made textile designs for E. Helenius Oy, Tampella and Porin Puuvilla. And she has also produced some felt wool designs.). Info mail Susanna Thiel, Design Museum, Helsinki, 28/10/2013";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3394_27;
+    <http://xmlns.com/foaf/0.1/givenName> "Maila";
+    <http://xmlns.com/foaf/0.1/familyName> "Kievari";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kievari, Maila";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3394_27 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1949"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <https://www.wikidata.org/entity/q996656>.
+<https://www.wikidata.org/entity/q996656> a <http://purl.org/dc/terms/Location>.
+_:df_3394_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02368"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3394_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021649"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021649/2021-12-31T20:30:28.746Z>.
+<https://stad.gent/id/agent/530021613/2021-12-31T20:28:17.776Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021613>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:28:17.776Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3409_25, _:df_3409_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kirchner";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3409_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02343"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3409_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021613"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021613/2021-12-31T20:28:17.776Z>.
+<https://stad.gent/id/agent/530020534/2021-12-31T19:50:57.872Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020534>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:50:57.872Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3613_2, _:df_3613_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3613_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kikkerland";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3613_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1992"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007567>.
+<http://vocab.getty.edu/tgn/7007567> a <http://purl.org/dc/terms/Location>.
+_:df_3613_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02002"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3613_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020534"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020534/2021-12-31T19:50:57.872Z>.
+<https://stad.gent/id/agent/530016598/2021-12-31T18:40:24.863Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016598>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:40:24.863Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3856_14, _:df_3856_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3856_18;
+    <http://xmlns.com/foaf/0.1/givenName> "Toshiyuki";
+    <http://xmlns.com/foaf/0.1/familyName> "Kita";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kita, Toshiyuki";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1469853>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3856_22;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3856_22 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Japans"@nl.
+_:df_3856_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1942"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1081126>.
+<http://vocab.getty.edu/tgn/1081126> a <http://purl.org/dc/terms/Location>.
+_:df_3856_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01603"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3856_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016598"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016598/2021-12-31T18:40:24.863Z>.
+<https://stad.gent/id/agent/530013640/2021-12-31T18:21:22.677Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013640>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:21:22.677Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3952_19, _:df_3952_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3952_23;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kinnarps";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1013594>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3952_23 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1942"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <https://www.wikidata.org/entity/q1013594>.
+<https://www.wikidata.org/entity/q1013594> a <http://purl.org/dc/terms/Location>.
+_:df_3952_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01444"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3952_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013640"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013640/2021-12-31T18:21:22.677Z>.
+<https://stad.gent/id/agent/530013555/2021-12-31T18:15:45.079Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013555>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:15:45.079Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3985_30, _:df_3985_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3985_34;
+    <http://xmlns.com/foaf/0.1/givenName> "Perry";
+    <http://xmlns.com/foaf/0.1/familyName> "King";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "King, Perry";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500003604>, <https://www.wikidata.org/entity/Q29161258>, <https://rkd.nl/explore/artists/298083>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3985_38;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3985_38 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Brits"@nl.
+_:df_3985_34 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1938"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7011781>.
+<http://vocab.getty.edu/tgn/7011781> a <http://purl.org/dc/terms/Location>.
+_:df_3985_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01391"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3985_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013555"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013555/2021-12-31T18:15:45.079Z>.
+<https://stad.gent/id/agent/530013398/2021-12-31T18:05:30.350Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013398>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:05:30.350Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4045_14, _:df_4045_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4045_18;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4045_20;
+    <http://xmlns.com/foaf/0.1/givenName> "Christian";
+    <http://xmlns.com/foaf/0.1/familyName> "Kieckens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kieckens, Christian";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500091267>, <https://www.wikidata.org/entity/Q55235701>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4045_27;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4045_27 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4045_20 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2020-05-11"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>.
+_:df_4045_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1951-01-24"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006843>.
+<http://vocab.getty.edu/tgn/7006843> a <http://purl.org/dc/terms/Location>.
+_:df_4045_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01288"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4045_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013398"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013398/2021-12-31T18:05:30.350Z>.
+<https://stad.gent/id/agent/530013377/2021-12-31T18:04:24.665Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013377>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:04:24.665Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4054_34, _:df_4054_36;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4054_38;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kipling Belgium";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q6414641>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4054_38 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1987"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/4001700>.
+<http://vocab.getty.edu/tgn/4001700> a <http://purl.org/dc/terms/Location>.
+_:df_4054_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01276"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4054_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013377"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013377/2021-12-31T18:04:24.665Z>.
+<https://stad.gent/id/agent/530001545/2021-12-31T17:18:56.702Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001545>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:18:56.702Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4267_2, _:df_4267_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4267_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4267_7;
+    <http://xmlns.com/foaf/0.1/givenName> "Bodys Isek";
+    <http://xmlns.com/foaf/0.1/familyName> "Kingelez";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kingelez, Bodys Isek";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500116198>, <https://www.wikidata.org/entity/Q2908459>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4267_11;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4267_11 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Congolees"@nl.
+_:df_4267_7 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2015-03-14"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7000628>.
+<http://vocab.getty.edu/tgn/7000628> a <http://purl.org/dc/terms/Location>.
+_:df_4267_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1948-08-27"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4267_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00918"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4267_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001545"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001545/2021-12-31T17:18:56.702Z>.
+<https://stad.gent/id/agent/530001551/2021-12-31T17:19:12.036Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001551>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:19:12.036Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4267_32, _:df_4267_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4267_36;
+    <http://xmlns.com/foaf/0.1/givenName> "Inka";
+    <http://xmlns.com/foaf/0.1/familyName> "Kivalo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kivalo, Inka";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q23916603>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4267_40;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4267_40 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Fins"@nl.
+_:df_4267_36 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1956-03-23"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009880>.
+<http://vocab.getty.edu/tgn/7009880> a <http://purl.org/dc/terms/Location>.
+_:df_4267_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00921"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4267_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001551"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001551/2021-12-31T17:19:12.036Z>.
+<https://stad.gent/id/agent/530001463/2021-12-31T17:13:29.643Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001463>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:13:29.643Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4306_2, _:df_4306_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "James";
+    <http://xmlns.com/foaf/0.1/familyName> "Kirkwood";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kirkwood, James";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4306_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00854"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4306_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001463"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001463/2021-12-31T17:13:29.643Z>.
+<https://stad.gent/id/agent/530000933/2021-12-31T16:41:41.764Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000933>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:41:41.764Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4534_7, _:df_4534_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4534_10;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4534_11;
+    <http://xmlns.com/foaf/0.1/givenName> "Frits";
+    <http://xmlns.com/foaf/0.1/familyName> "Kieckens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kieckens, Frits";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4534_14;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4534_14 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4534_11 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1986"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4534_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1912"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4534_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00475"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4534_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000933"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000933/2021-12-31T16:41:41.764Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/ki.ttl> <https://w3id.org/tree#relation> _:df_1_1485.
+_:df_1_1485 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/kij.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "kij".
+<https://oliviervd.github.io/substrings_coghent/agents/ki.ttl> <https://w3id.org/tree#relation> _:df_1_1486.
+_:df_1_1486 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/kie.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "kie".
+<https://oliviervd.github.io/substrings_coghent/agents/ki.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/ki.ttl>.

@@ -1,0 +1,46 @@
+<https://stad.gent/id/agent/530016922/2021-12-31T18:58:42.071Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016922>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:58:42.071Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3757_14, _:df_3757_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Torpedo";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3757_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01768"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3757_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016922"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016922/2021-12-31T18:58:42.071Z>.
+<https://stad.gent/id/agent/530001921/2021-12-31T17:41:50.891Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001921>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:41:50.891Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4105_23, _:df_4105_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4105_27;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Torck";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/530001921>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4105_27 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026388>.
+<http://vocab.getty.edu/tgn/1026388> a <http://purl.org/dc/terms/Location>.
+_:df_4105_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01191"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4105_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001921"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001921/2021-12-31T17:41:50.891Z>.
+<https://stad.gent/id/agent/530001162/2021-12-31T16:56:43.029Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001162>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:56:43.029Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4426_2, _:df_4426_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4426_5;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Torben Ørskov & Co.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4426_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1953"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4426_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00654"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4426_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001162"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001162/2021-12-31T16:56:43.029Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/tor.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/tor.ttl>.

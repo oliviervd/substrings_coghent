@@ -1,0 +1,305 @@
+<https://stad.gent/id/agent/670001208/2022-01-01T05:11:31.320Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001208>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:11:31.320Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1528_2, _:df_1528_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gillis";
+    <http://xmlns.com/foaf/0.1/familyName> "Drieghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Drieghe, Gillis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1528_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1191"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1528_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001208"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001208/2022-01-01T05:11:31.320Z>.
+<https://stad.gent/id/agent/670001209/2022-01-01T05:11:36.321Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001209>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:11:36.321Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1528_7, _:df_1528_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Josephus";
+    <http://xmlns.com/foaf/0.1/familyName> "Droesbeke";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Droesbeke, Josephus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1528_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1192"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1528_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001209"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001209/2022-01-01T05:11:36.321Z>.
+<https://stad.gent/id/agent/670001210/2022-01-01T05:11:41.322Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001210>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:11:41.322Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1528_12, _:df_1528_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Laureyns";
+    <http://xmlns.com/foaf/0.1/familyName> "Droesbeke";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Droesbeke, Laureyns";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1528_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1193"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1528_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001210"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001210/2022-01-01T05:11:41.322Z>.
+<https://stad.gent/id/agent/670001203/2022-01-01T05:11:06.310Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001203>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:11:06.310Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1531_2, _:df_1531_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Dregghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dregghe, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1531_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1186"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1531_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001203"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001203/2022-01-01T05:11:06.310Z>.
+<https://stad.gent/id/agent/670001204/2022-01-01T05:11:11.312Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001204>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:11:11.312Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1531_10, _:df_1531_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Dregghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dregghe, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1531_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1187"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1531_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001204"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001204/2022-01-01T05:11:11.312Z>.
+<https://stad.gent/id/agent/670001205/2022-01-01T05:11:16.313Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001205>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:11:16.313Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1531_18, _:df_1531_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Dregghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dregghe, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1531_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1188"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1531_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001205"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001205/2022-01-01T05:11:16.313Z>.
+<https://stad.gent/id/agent/670001206/2022-01-01T05:11:21.315Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001206>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:11:21.315Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1531_26, _:df_1531_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gheeraert";
+    <http://xmlns.com/foaf/0.1/familyName> "Drie";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Drie, Gheeraert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1531_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1189"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1531_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001206"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001206/2022-01-01T05:11:21.315Z>.
+<https://stad.gent/id/agent/670001207/2022-01-01T05:11:26.317Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001207>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:11:26.317Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1531_31, _:df_1531_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "Drieghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Drieghe, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1531_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1190"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1531_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001207"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001207/2022-01-01T05:11:26.317Z>.
+<https://stad.gent/id/agent/670001202/2022-01-01T05:11:01.307Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001202>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:11:01.307Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1534_22, _:df_1534_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Martinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Drame";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Drame, Martinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1534_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1185"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1534_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001202"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001202/2022-01-01T05:11:01.307Z>.
+<https://stad.gent/id/agent/570032427/2022-01-01T03:25:54.093Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570032427>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:25:54.093Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2266_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Driegens";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2266_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570032427"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570032427/2022-01-01T03:25:54.093Z>.
+<https://stad.gent/id/agent/570030385/2022-01-01T03:00:31.280Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030385>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:00:31.280Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2374_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dr. Killing";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2374_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030385"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030385/2022-01-01T03:00:31.280Z>.
+<https://stad.gent/id/agent/570029625/2022-01-01T02:56:14.507Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029625>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:56:14.507Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2404_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2404_12;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Draper Corporation";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q5305850>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2404_12 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012149>.
+<http://vocab.getty.edu/tgn/7012149> a <http://purl.org/dc/terms/Location>.
+_:df_2404_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029625"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029625/2022-01-01T02:56:14.507Z>.
+<https://stad.gent/id/agent/570028653/2022-01-01T02:41:43.696Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028653>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:41:43.696Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2494_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dreft";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q115676>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2494_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028653"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028653/2022-01-01T02:41:43.696Z>.
+<https://stad.gent/id/agent/570028525/2022-01-01T02:37:22.104Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028525>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:37:22.104Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2524_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dru";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2524_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028525"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028525/2022-01-01T02:37:22.104Z>.
+<https://stad.gent/id/agent/570028256/2022-01-01T02:27:53.472Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028256>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:27:53.472Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2575_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Draeger";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2575_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028256"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028256/2022-01-01T02:27:53.472Z>.
+<https://stad.gent/id/agent/570025247/2022-01-01T02:16:43.518Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570025247>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:16:43.518Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2644_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2644_7;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dr. Oetker";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q688668>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2644_7 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1891"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2644_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025247"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570025247/2022-01-01T02:16:43.518Z>.
+<https://stad.gent/id/agent/530023513/2021-12-31T21:31:44.112Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023513>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:31:44.112Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3043_6, _:df_3043_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Maartje";
+    <http://xmlns.com/foaf/0.1/familyName> "Dros";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dros, Maartje";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3043_11;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3043_11 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_3043_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02950"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3043_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023513"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023513/2021-12-31T21:31:44.112Z>.
+<https://stad.gent/id/agent/530023385/2021-12-31T21:23:15.473Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023385>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:23:15.473Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3088_2, _:df_3088_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Luc";
+    <http://xmlns.com/foaf/0.1/familyName> "Druez";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Druez, Luc";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3088_7;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3088_7 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3088_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02875"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3088_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023385"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023385/2021-12-31T21:23:15.473Z>.
+<https://stad.gent/id/agent/530019022/2021-12-31T19:22:56.672Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019022>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:22:56.672Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3724_34, _:df_3724_36;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3724_38;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Droog Design";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500250164>, <https://www.wikidata.org/entity/Q1260224>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3724_38 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1993"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006952>.
+<http://vocab.getty.edu/tgn/7006952> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3724_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01824"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3724_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019022"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019022/2021-12-31T19:22:56.672Z>.
+<https://stad.gent/id/agent/530016571/2021-12-31T18:38:39.193Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016571>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:38:39.193Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3868_18, _:df_3868_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3868_22;
+    <http://xmlns.com/foaf/0.1/givenName> "Guido";
+    <http://xmlns.com/foaf/0.1/familyName> "Drocco";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Drocco, Guido";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500094529>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3868_26;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3868_26 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_3868_22 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1942"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <https://www.wikidata.org/entity/q30029770>.
+<https://www.wikidata.org/entity/q30029770> a <http://purl.org/dc/terms/Location>.
+_:df_3868_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01584"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3868_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016571"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016571/2021-12-31T18:38:39.193Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/dr.ttl> <https://w3id.org/tree#relation> _:df_1_1407.
+_:df_1_1407 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/dre.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "dre".
+<https://oliviervd.github.io/substrings_coghent/agents/dr.ttl> <https://w3id.org/tree#relation> _:df_1_1408.
+_:df_1_1408 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/dri.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "dri".
+<https://oliviervd.github.io/substrings_coghent/agents/dr.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/dr.ttl>.

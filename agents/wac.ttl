@@ -1,0 +1,32 @@
+<https://stad.gent/id/agent/670003123/2022-01-01T07:50:53.759Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003123>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:50:53.759Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_388_9, _:df_388_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Wache";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wache";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_388_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3106"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_388_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003123"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003123/2022-01-01T07:50:53.759Z>.
+<https://stad.gent/id/agent/670003124/2022-01-01T07:50:58.761Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003124>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:50:58.761Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_388_13, _:df_388_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "graaf graaf Wackene";
+    <http://xmlns.com/foaf/0.1/givenName> "graaf";
+    <http://xmlns.com/foaf/0.1/familyName> "Wackene";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wackene, graaf";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_388_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3107"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_388_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003124"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003124/2022-01-01T07:50:58.761Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/wac.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/wac.ttl>.

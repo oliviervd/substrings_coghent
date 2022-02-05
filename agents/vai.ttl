@@ -1,0 +1,26 @@
+<https://stad.gent/id/agent/570018589/2022-01-01T01:49:22.550Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570018589>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:49:22.550Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2833_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vaillant";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2833_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570018589"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570018589/2022-01-01T01:49:22.550Z>.
+<https://stad.gent/id/agent/530001284/2021-12-31T17:03:10.389Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001284>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:03:10.389Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4381_19, _:df_4381_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "H.";
+    <http://xmlns.com/foaf/0.1/familyName> "Vaillant";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vaillant, H.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4381_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00731"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4381_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001284"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001284/2021-12-31T17:03:10.389Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/vai.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/vai.ttl>.

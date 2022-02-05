@@ -1,0 +1,309 @@
+<https://stad.gent/id/agent/670003565/2022-01-01T08:18:39.140Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003565>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:18:39.140Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_190_8, _:df_190_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Spaanse Gouverneurswoning";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Spaanse Gouverneurswoning";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://inventaris.onroerenderfgoed.be/erfgoedobjecten/24519>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_190_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0217"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_190_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003565"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003565/2022-01-01T08:18:39.140Z>.
+<https://stad.gent/id/agent/670003428/2022-01-01T08:07:10.113Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003428>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:07:10.113Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_274_22, _:df_274_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Spanjaardenkasteel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Spanjaardenkasteel";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2606807>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_274_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0079"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_274_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003428"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003428/2022-01-01T08:07:10.113Z>.
+<https://stad.gent/id/agent/670002284/2022-01-01T06:41:13.755Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002284>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:41:13.755Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_886_2, _:df_886_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "Spillebaut";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Spillebaut, Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_886_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2267"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_886_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002284"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002284/2022-01-01T06:41:13.755Z>.
+<https://stad.gent/id/agent/670002285/2022-01-01T06:41:18.756Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002285>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:41:18.756Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_886_10, _:df_886_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Franchies";
+    <http://xmlns.com/foaf/0.1/familyName> "Spillebaut";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Spillebaut, Franchies";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_886_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2268"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_886_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002285"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002285/2022-01-01T06:41:18.756Z>.
+<https://stad.gent/id/agent/670002286/2022-01-01T06:41:23.758Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002286>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:41:23.758Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_886_18, _:df_886_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joanne J.";
+    <http://xmlns.com/foaf/0.1/familyName> "Spillebaut";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Spillebaut, Joanne J.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_886_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2269"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_886_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002286"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002286/2022-01-01T06:41:23.758Z>.
+<https://stad.gent/id/agent/670002287/2022-01-01T06:41:28.760Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002287>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:41:28.760Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_886_23, _:df_886_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Spinhuis van Spinessen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Spinhuis van Spinessen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_886_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2270"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_886_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002287"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002287/2022-01-01T06:41:28.760Z>.
+<https://stad.gent/id/agent/670002279/2022-01-01T06:40:48.743Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002279>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:40:48.743Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_889_2, _:df_889_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Speelman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Speelman, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_889_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2262"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_889_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002279"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002279/2022-01-01T06:40:48.743Z>.
+<https://stad.gent/id/agent/670002280/2022-01-01T06:40:53.745Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002280>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:40:53.745Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_889_10, _:df_889_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bernard";
+    <http://xmlns.com/foaf/0.1/familyName> "Speelman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Speelman, Bernard";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_889_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2263"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_889_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002280"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002280/2022-01-01T06:40:53.745Z>.
+<https://stad.gent/id/agent/670002281/2022-01-01T06:40:58.748Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002281>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:40:58.748Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_889_18, _:df_889_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francois";
+    <http://xmlns.com/foaf/0.1/familyName> "Speelman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Speelman, Francois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_889_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2264"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_889_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002281"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002281/2022-01-01T06:40:58.748Z>.
+<https://stad.gent/id/agent/670002282/2022-01-01T06:41:03.751Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002282>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:41:03.751Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_889_23, _:df_889_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guillelmus";
+    <http://xmlns.com/foaf/0.1/familyName> "Speliers";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Speliers, Guillelmus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_889_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2265"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_889_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002282"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002282/2022-01-01T06:41:03.751Z>.
+<https://stad.gent/id/agent/670002283/2022-01-01T06:41:08.752Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002283>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:41:08.752Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_889_28, _:df_889_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guilliaeme weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Spillebaut";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Spillebaut, Guilliaeme weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_889_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2266"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_889_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002283"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002283/2022-01-01T06:41:08.752Z>.
+<https://stad.gent/id/agent/570028521/2022-01-01T02:37:01.845Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028521>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:37:01.845Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2527_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Spic & Span";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2527_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028521"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028521/2022-01-01T02:37:01.845Z>.
+<https://stad.gent/id/agent/570028235/2022-01-01T02:26:28.195Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028235>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:26:28.195Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2584_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Spaas";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2584_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028235"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028235/2022-01-01T02:26:28.195Z>.
+<https://stad.gent/id/agent/570028171/2022-01-01T02:22:00.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028171>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:22:00.500Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2608_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Spear's Games";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2608_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028171"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028171/2022-01-01T02:22:00.500Z>.
+<https://stad.gent/id/agent/570024526/2022-01-01T02:15:38.157Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570024526>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:15:38.157Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2653_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Sparta";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2653_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570024526"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570024526/2022-01-01T02:15:38.157Z>.
+<https://stad.gent/id/agent/570023427/2022-01-01T02:11:11.165Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570023427>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:11:11.165Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2680_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Spintex Umbau Spinnerei-Machinenbau Stiehl, Fromm & Co";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2680_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570023427"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570023427/2022-01-01T02:11:11.165Z>.
+<https://stad.gent/id/agent/570019774/2022-01-01T01:55:30.335Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570019774>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:55:30.335Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2791_7;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Splendor";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2791_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570019774"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570019774/2022-01-01T01:55:30.335Z>.
+<https://stad.gent/id/agent/530024118/2021-12-31T22:00:39.743Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024118>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T22:00:39.743Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2947_9, _:df_2947_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2947_12;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2947_13;
+    <http://xmlns.com/foaf/0.1/givenName> "Annemie";
+    <http://xmlns.com/foaf/0.1/familyName> "Spaans";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Spaans, Annemie";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2947_16;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2947_16 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2947_13 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2011"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2947_12 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1955"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2947_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03156"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2947_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024118"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024118/2021-12-31T22:00:39.743Z>.
+<https://stad.gent/id/agent/530023322/2021-12-31T21:19:14.114Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023322>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:19:14.114Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3112_24, _:df_3112_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "J.";
+    <http://xmlns.com/foaf/0.1/familyName> "Speybrouck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Speybrouck, J.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3112_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02838"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3112_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023322"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023322/2021-12-31T21:19:14.114Z>.
+<https://stad.gent/id/agent/530021661/2021-12-31T20:31:19.046Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021661>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:31:19.046Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3388_26, _:df_3388_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3388_29;
+    <http://xmlns.com/foaf/0.1/givenName> "Lars";
+    <http://xmlns.com/foaf/0.1/familyName> "Spuybroeck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Spuybroeck, Lars";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500250787>, <https://www.wikidata.org/entity/Q2655644>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3388_33;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3388_33 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_3388_29 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1959-09-16"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3388_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02378"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3388_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021661"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021661/2021-12-31T20:31:19.046Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/sp.ttl> <https://w3id.org/tree#relation> _:df_1_1348.
+_:df_1_1348 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/spr.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "spr".
+<https://oliviervd.github.io/substrings_coghent/agents/sp.ttl> <https://w3id.org/tree#relation> _:df_1_1349.
+_:df_1_1349 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/spo.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "spo".
+<https://oliviervd.github.io/substrings_coghent/agents/sp.ttl> <https://w3id.org/tree#relation> _:df_1_1350.
+_:df_1_1350 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/spi.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "spi".
+<https://oliviervd.github.io/substrings_coghent/agents/sp.ttl> <https://w3id.org/tree#relation> _:df_1_1351.
+_:df_1_1351 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/spa.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "spa".
+<https://oliviervd.github.io/substrings_coghent/agents/sp.ttl> <https://w3id.org/tree#relation> _:df_1_1352.
+_:df_1_1352 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/spu.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "spu".
+<https://oliviervd.github.io/substrings_coghent/agents/sp.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/sp.ttl>.

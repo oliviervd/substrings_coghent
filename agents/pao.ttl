@@ -1,0 +1,60 @@
+<https://stad.gent/id/agent/530016889/2021-12-31T18:56:41.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016889>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:56:41.405Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3769_14, _:df_3769_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3769_18;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3769_20;
+    <http://xmlns.com/foaf/0.1/givenName> "Cesare";
+    <http://xmlns.com/foaf/0.1/familyName> "Paoloni";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Paoloni, Cesare";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500469632>, <https://www.wikidata.org/entity/Q55219571>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3769_24;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3769_24 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_3769_20 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1983"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005688>.
+<http://vocab.getty.edu/tgn/7005688> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3769_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1937"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008546>.
+<http://vocab.getty.edu/tgn/7008546> a <http://purl.org/dc/terms/Location>.
+_:df_3769_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01748"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3769_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016889"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016889/2021-12-31T18:56:41.405Z>.
+<https://stad.gent/id/agent/530000531/2021-12-31T16:15:11.010Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000531>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:15:11.010Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4723_2, _:df_4723_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4723_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4723_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Eduardo";
+    <http://xmlns.com/foaf/0.1/familyName> "Paolozzi";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Paolozzi, Eduardo";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500027981>, <https://www.wikidata.org/entity/Q165397>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4723_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4723_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Brits"@nl.
+_:df_4723_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2005-04-22"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7011781>.
+<http://vocab.getty.edu/tgn/7011781> a <http://purl.org/dc/terms/Location>.
+_:df_4723_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1924-03-07"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009547>.
+<http://vocab.getty.edu/tgn/7009547> a <http://purl.org/dc/terms/Location>.
+_:df_4723_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00159"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4723_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000531"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000531/2021-12-31T16:15:11.010Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/pao.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/pao.ttl>.

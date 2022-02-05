@@ -1,0 +1,165 @@
+<https://stad.gent/id/agent/570031659/2022-01-01T03:11:31.067Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570031659>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:11:31.067Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2305_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Harris-Intertype Corporation";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2305_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570031659"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570031659/2022-01-01T03:11:31.067Z>.
+<https://stad.gent/id/agent/530023399/2021-12-31T21:24:16.107Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023399>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:24:16.107Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3082_2, _:df_3082_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3082_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3082_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Wim";
+    <http://xmlns.com/foaf/0.1/familyName> "Harzing";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Harzing, Wim";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1892602>, <https://rkd.nl/explore/artists/36358>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3082_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3082_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_3082_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1978-07-22"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006927>.
+<http://vocab.getty.edu/tgn/7006927> a <http://purl.org/dc/terms/Location>.
+_:df_3082_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1898-10-04"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7267858>.
+<http://vocab.getty.edu/tgn/7267858> a <http://purl.org/dc/terms/Location>.
+_:df_3082_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02885"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3082_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023399"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023399/2021-12-31T21:24:16.107Z>.
+<https://stad.gent/id/agent/530021475/2021-12-31T20:23:20.833Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021475>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:23:20.833Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3439_2, _:df_3439_4;
+    <http://www.w3.org/2004/02/skos/core#note> "https://www.wiewaswie.nl/personen-zoeken/zoeken/document/a2apersonid/62110609/srcid/18060729/oid/33";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3439_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3439_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Wilhelmus Petrus";
+    <http://xmlns.com/foaf/0.1/familyName> "Hartgring";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hartgring, Wilhelmus Petrus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500330696>, <https://www.wikidata.org/entity/Q29559642>, <https://rkd.nl/en/explore/artists/36228>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3439_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3439_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_3439_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1940-08-29"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006876>.
+<http://vocab.getty.edu/tgn/7006876> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3439_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1874-04-18"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006810>.
+<http://vocab.getty.edu/tgn/7006810> a <http://purl.org/dc/terms/Location>.
+_:df_3439_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02290"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3439_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021475"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021475/2021-12-31T20:23:20.833Z>.
+<https://stad.gent/id/agent/530015584/2021-12-31T18:32:41.840Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530015584>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:32:41.840Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3895_53, _:df_3895_55;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3895_57;
+    <http://xmlns.com/foaf/0.1/givenName> "Dominik";
+    <http://xmlns.com/foaf/0.1/familyName> "Harborth";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Harborth, Dominik";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.archilovers.com/dominik-harborth>, <http://viaf.org/viaf/59966649>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3895_64;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3895_64 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_3895_57 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1968"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1003143>.
+<http://vocab.getty.edu/tgn/1003143> a <http://purl.org/dc/terms/Location>.
+_:df_3895_55 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01541"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3895_53 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530015584"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530015584/2021-12-31T18:32:41.840Z>.
+<https://stad.gent/id/agent/530013520/2021-12-31T18:13:09.095Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013520>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:13:09.095Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4000_16, _:df_4000_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Harry";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Harry";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4000_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01364"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4000_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013520"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013520/2021-12-31T18:13:09.095Z>.
+<https://stad.gent/id/agent/530013358/2021-12-31T18:03:29.359Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013358>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:03:29.359Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4060_42, _:df_4060_44;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Dirk";
+    <http://xmlns.com/foaf/0.1/familyName> "Harkink";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Harkink, Dirk";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4060_44 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01267"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4060_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013358"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013358/2021-12-31T18:03:29.359Z>.
+<https://stad.gent/id/agent/530001920/2021-12-31T17:41:45.577Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001920>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:41:45.577Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4105_12, _:df_4105_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4105_15;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4105_17;
+    <http://xmlns.com/foaf/0.1/givenName> "Eszter";
+    <http://xmlns.com/foaf/0.1/familyName> "Haraszty";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Haraszty, Eszter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500112744>, <https://www.wikidata.org/entity/Q19666554>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4105_21;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4105_21 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Hongaars"@nl.
+_:df_4105_17 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1994"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7023900>.
+<http://vocab.getty.edu/tgn/7023900> a <http://purl.org/dc/terms/Location>.
+_:df_4105_15 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1920"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4105_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01190"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4105_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001920"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001920/2021-12-31T17:41:45.577Z>.
+<https://stad.gent/id/agent/530000276/2021-12-31T15:56:53.859Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000276>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:56:53.859Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4792_8, _:df_4792_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Lisa";
+    <http://xmlns.com/foaf/0.1/familyName> "Hart";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hart, Lisa";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4792_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00045"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4792_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000276"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000276/2021-12-31T15:56:53.859Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/har.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/har.ttl>.

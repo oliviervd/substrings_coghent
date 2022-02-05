@@ -1,0 +1,43 @@
+<https://stad.gent/id/agent/670001536/2022-01-01T05:38:56.052Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001536>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:38:56.052Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1333_14, _:df_1333_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Ignace Constantin";
+    <http://xmlns.com/foaf/0.1/familyName> "Hopsommer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hopsommer, Ignace Constantin";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1333_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1519"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1333_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001536"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001536/2022-01-01T05:38:56.052Z>.
+<https://stad.gent/id/agent/670001537/2022-01-01T05:39:01.053Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001537>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:39:01.053Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1333_19, _:df_1333_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Hopsommer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hopsommer, weduwe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1333_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1520"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1333_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001537"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001537/2022-01-01T05:39:01.053Z>.
+<https://stad.gent/id/agent/530023146/2021-12-31T21:06:39.245Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023146>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:06:39.245Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3193_22, _:df_3193_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Hoppop-Dorel";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3193_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02704"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3193_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023146"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023146/2021-12-31T21:06:39.245Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/hop.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/hop.ttl>.

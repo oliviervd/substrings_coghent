@@ -1,0 +1,112 @@
+<https://stad.gent/id/agent/530021107/2021-12-31T20:14:22.271Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021107>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:14:22.271Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3487_6, _:df_3487_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3487_10;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3487_12;
+    <http://xmlns.com/foaf/0.1/givenName> "Edouard";
+    <http://xmlns.com/foaf/0.1/familyName> "Colonna";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Colonna, Edouard";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500100840>, <https://www.wikidata.org/entity/Q3579781>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3487_16;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3487_16 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_3487_12 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1948-10-14"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008773>.
+<http://vocab.getty.edu/tgn/7008773> a <http://purl.org/dc/terms/Location>.
+_:df_3487_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1862-05-27"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <https://www.wikidata.org/entity/q327896>.
+<https://www.wikidata.org/entity/q327896> a <http://purl.org/dc/terms/Location>.
+_:df_3487_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02211"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3487_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021107"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021107/2021-12-31T20:14:22.271Z>.
+<https://stad.gent/id/agent/530013735/2021-12-31T18:26:34.589Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013735>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:26:34.589Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3919_7, _:df_3919_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3919_11;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3919_13;
+    <http://xmlns.com/foaf/0.1/givenName> "Gianni";
+    <http://xmlns.com/foaf/0.1/familyName> "Colombo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Colombo, Gianni";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500053528>, <https://www.wikidata.org/entity/Q631443>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3919_17;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3919_17 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_3919_13 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1993-02-03"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1045339>.
+<http://vocab.getty.edu/tgn/1045339> a <http://purl.org/dc/terms/Location>.
+_:df_3919_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1937-01-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>.
+_:df_3919_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01498"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3919_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013735"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013735/2021-12-31T18:26:34.589Z>.
+<https://stad.gent/id/agent/530013722/2021-12-31T18:25:59.235Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013722>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:25:59.235Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3922_7, _:df_3922_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3922_11;
+    <http://xmlns.com/foaf/0.1/givenName> "Alberto";
+    <http://xmlns.com/foaf/0.1/familyName> "Colombi";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Colombi, Alberto";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500070255>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3922_15;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3922_15 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_3922_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1941"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>.
+_:df_3922_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01493"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3922_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013722"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013722/2021-12-31T18:25:59.235Z>.
+<https://stad.gent/id/agent/530001605/2021-12-31T17:22:38.283Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001605>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:22:38.283Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4243_37, _:df_4243_39;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4243_41;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4243_43;
+    <http://xmlns.com/foaf/0.1/givenName> "Joe Cesare";
+    <http://xmlns.com/foaf/0.1/familyName> "Colombo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Colombo, Joe Cesare";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q709990>, <http://vocab.getty.edu/ulan/500109860>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4243_47;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4243_47 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_4243_43 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1971-07-30"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4243_41 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1930-07-30"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+_:df_4243_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00962"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4243_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001605"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001605/2021-12-31T17:22:38.283Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/colo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/colo.ttl>.

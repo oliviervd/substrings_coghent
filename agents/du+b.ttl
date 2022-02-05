@@ -1,0 +1,150 @@
+<https://stad.gent/id/agent/670001218/2022-01-01T05:12:21.605Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001218>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:12:21.605Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1522_2, _:df_1522_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "J.";
+    <http://xmlns.com/foaf/0.1/familyName> "du Breucq";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "du Breucq, J.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1522_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1201"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1522_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001218"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001218/2022-01-01T05:12:21.605Z>.
+<https://stad.gent/id/agent/670001219/2022-01-01T05:12:26.607Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001219>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:12:26.607Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1522_7, _:df_1522_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "du Brulle";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "du Brulle, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1522_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1202"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1522_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001219"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001219/2022-01-01T05:12:26.607Z>.
+<https://stad.gent/id/agent/670001220/2022-01-01T05:12:31.608Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001220>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:12:31.608Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1522_12, _:df_1522_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Philippe";
+    <http://xmlns.com/foaf/0.1/familyName> "du Buisson";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "du Buisson, Philippe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1522_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1203"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1522_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001220"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001220/2022-01-01T05:12:31.608Z>.
+<https://stad.gent/id/agent/670001221/2022-01-01T05:12:36.608Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001221>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:12:36.608Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1522_20, _:df_1522_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "du Busson";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "du Busson, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1522_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1204"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1522_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001221"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001221/2022-01-01T05:12:36.608Z>.
+<https://stad.gent/id/agent/670001213/2022-01-01T05:11:56.600Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001213>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:11:56.600Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1525_2, _:df_1525_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus Matheus";
+    <http://xmlns.com/foaf/0.1/familyName> "du Bois";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "du Bois, Judocus Matheus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1525_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1196"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1525_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001213"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001213/2022-01-01T05:11:56.600Z>.
+<https://stad.gent/id/agent/670001214/2022-01-01T05:12:01.600Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001214>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:12:01.600Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1525_7, _:df_1525_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Robertus";
+    <http://xmlns.com/foaf/0.1/familyName> "du Bois";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "du Bois, Robertus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1525_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1197"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1525_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001214"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001214/2022-01-01T05:12:01.600Z>.
+<https://stad.gent/id/agent/670001215/2022-01-01T05:12:06.602Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001215>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:12:06.602Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1525_12, _:df_1525_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "du Bois";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "du Bois, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1525_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1198"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1525_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001215"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001215/2022-01-01T05:12:06.602Z>.
+<https://stad.gent/id/agent/670001216/2022-01-01T05:12:11.603Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001216>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:12:11.603Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1525_20, _:df_1525_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Augustinus";
+    <http://xmlns.com/foaf/0.1/familyName> "du Bois";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "du Bois, Augustinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1525_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1199"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1525_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001216"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001216/2022-01-01T05:12:11.603Z>.
+<https://stad.gent/id/agent/670001217/2022-01-01T05:12:16.604Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001217>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:12:16.604Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1525_28, _:df_1525_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "du Breucq";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "du Breucq";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1525_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1200"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1525_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001217"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001217/2022-01-01T05:12:16.604Z>.
+<https://stad.gent/id/agent/670001212/2022-01-01T05:11:51.598Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001212>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:11:51.598Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1528_27, _:df_1528_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Henry";
+    <http://xmlns.com/foaf/0.1/familyName> "du Bois";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "du Bois, Henry";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1528_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1195"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1528_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001212"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001212/2022-01-01T05:11:51.598Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/du+b.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/du+b.ttl>.

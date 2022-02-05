@@ -1,0 +1,120 @@
+<https://stad.gent/id/agent/670002924/2022-01-01T07:34:13.031Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002924>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:34:13.031Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_508_15, _:df_508_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Dionisius";
+    <http://xmlns.com/foaf/0.1/familyName> "vander Haeghen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vander Haeghen, Dionisius";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_508_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2907"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_508_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002924"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002924/2022-01-01T07:34:13.031Z>.
+<https://stad.gent/id/agent/670002925/2022-01-01T07:34:18.032Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002925>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:34:18.032Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_508_20, _:df_508_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "P.";
+    <http://xmlns.com/foaf/0.1/familyName> "vander Haeghen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vander Haeghen, P.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_508_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2908"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_508_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002925"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002925/2022-01-01T07:34:18.032Z>.
+<https://stad.gent/id/agent/670002926/2022-01-01T07:34:23.281Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002926>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:34:23.281Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_508_25, _:df_508_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "vander Haeghen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vander Haeghen, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_508_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2909"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_508_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002926"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002926/2022-01-01T07:34:23.281Z>.
+<https://stad.gent/id/agent/670002918/2022-01-01T07:33:43.020Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002918>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:33:43.020Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_511_7, _:df_511_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Pierre Ignace van der Haeghen", "heer van Cambeke, Oultre Pieter Ignacius vander Haeghen", "sieur vander Haeghen, heer van Cambeke, Oultre";
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_511_11;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter Ignacius";
+    <http://xmlns.com/foaf/0.1/familyName> "vander Haeghen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vander Haeghen, Pieter Ignacius";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_511_11 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1769-11-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_511_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2901"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_511_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002918"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002918/2022-01-01T07:33:43.020Z>.
+<https://stad.gent/id/agent/670002919/2022-01-01T07:33:48.022Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002919>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:33:48.022Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_511_14, _:df_511_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Franchois weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "vander Haeghen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vander Haeghen, Franchois weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_511_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2902"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_511_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002919"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002919/2022-01-01T07:33:48.022Z>.
+<https://stad.gent/id/agent/670002920/2022-01-01T07:33:53.023Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002920>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:33:53.023Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_511_19, _:df_511_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "heer van Outre Frans Dionysius vander Haeghen";
+    <http://xmlns.com/foaf/0.1/givenName> "Frans Dionysius";
+    <http://xmlns.com/foaf/0.1/familyName> "vander Haeghen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vander Haeghen, Frans Dionysius";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_511_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2903"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_511_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002920"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002920/2022-01-01T07:33:53.023Z>.
+<https://stad.gent/id/agent/670002921/2022-01-01T07:33:58.025Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002921>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:33:58.025Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_511_25, _:df_511_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Allexander";
+    <http://xmlns.com/foaf/0.1/familyName> "vander Haeghen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vander Haeghen, Allexander";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_511_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2904"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_511_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002921"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002921/2022-01-01T07:33:58.025Z>.
+<https://stad.gent/id/agent/570031811/2022-01-01T03:15:33.530Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570031811>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:15:33.530Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2293_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vander Haeghen Drukkerij";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2293_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570031811"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570031811/2022-01-01T03:15:33.530Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/vander+h.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/vander+h.ttl>.

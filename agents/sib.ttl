@@ -1,0 +1,29 @@
+<https://stad.gent/id/agent/530021735/2021-12-31T20:36:26.252Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021735>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:36:26.252Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3352_34, _:df_3352_36;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anne-Lise";
+    <http://xmlns.com/foaf/0.1/familyName> "Sibony";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Sibony, Anne-Lise";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3352_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02439"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3352_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021735"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021735/2021-12-31T20:36:26.252Z>.
+<https://stad.gent/id/agent/530013744/2021-12-31T18:27:09.907Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013744>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:27:09.907Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3916_2, _:df_3916_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Sibast furniture";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3916_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01502"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3916_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013744"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013744/2021-12-31T18:27:09.907Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/sib.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/sib.ttl>.

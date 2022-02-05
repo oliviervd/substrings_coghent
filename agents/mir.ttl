@@ -1,0 +1,113 @@
+<https://stad.gent/id/agent/570028193/2022-01-01T02:23:26.951Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028193>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:23:26.951Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2602_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Miracol";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2602_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028193"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028193/2022-01-01T02:23:26.951Z>.
+<https://stad.gent/id/agent/530020605/2021-12-31T19:54:54.452Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020605>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:54:54.452Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3589_2, _:df_3589_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3589_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Antoni";
+    <http://xmlns.com/foaf/0.1/familyName> "Miralda";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Miralda, Antoni";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500015245>, <https://www.wikidata.org/entity/Q3816475>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3589_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3589_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Spaans"@nl.
+_:df_3589_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1942"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008716>.
+<http://vocab.getty.edu/tgn/7008716> a <http://purl.org/dc/terms/Location>.
+_:df_3589_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02042"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3589_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020605"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020605/2021-12-31T19:54:54.452Z>.
+<https://stad.gent/id/agent/530013556/2021-12-31T18:15:50.081Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013556>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:15:50.081Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3982_2, _:df_3982_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3982_5;
+    <http://xmlns.com/foaf/0.1/givenName> "Santiago";
+    <http://xmlns.com/foaf/0.1/familyName> "Miranda";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Miranda, Santiago";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3982_8;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3982_8 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Spaans"@nl.
+_:df_3982_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1947"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3982_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01392"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3982_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013556"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013556/2021-12-31T18:15:50.081Z>.
+<https://stad.gent/id/agent/530013522/2021-12-31T18:13:19.100Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013522>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:13:19.100Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4000_30, _:df_4000_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4000_34;
+    <http://xmlns.com/foaf/0.1/givenName> "Miriam";
+    <http://xmlns.com/foaf/0.1/familyName> "Mirri";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mirri, Miriam";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4000_37;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4000_37 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_4000_34 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004847>.
+<http://vocab.getty.edu/tgn/7004847> a <http://purl.org/dc/terms/Location>.
+_:df_4000_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01366"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4000_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013522"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013522/2021-12-31T18:13:19.100Z>.
+<https://stad.gent/id/agent/530013297/2021-12-31T18:00:08.026Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013297>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:00:08.026Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4081_2, _:df_4081_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mirodan N.V.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4081_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01228"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4081_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013297"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013297/2021-12-31T18:00:08.026Z>.
+<https://stad.gent/id/agent/530001598/2021-12-31T17:22:07.934Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001598>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:22:07.934Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4246_23, _:df_4246_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4246_26;
+    <http://xmlns.com/foaf/0.1/givenName> "Sergi Vladimir";
+    <http://xmlns.com/foaf/0.1/familyName> "Mironenko";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mironenko, Sergi Vladimir";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500336496>, <https://www.wikidata.org/entity/Q22662645>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4246_30;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4246_30 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Russisch"@nl.
+_:df_4246_26 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1959"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4246_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00956"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4246_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001598"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001598/2021-12-31T17:22:07.934Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/mir.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/mir.ttl>.

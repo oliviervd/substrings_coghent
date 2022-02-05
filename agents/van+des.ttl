@@ -1,0 +1,25 @@
+<https://stad.gent/id/agent/470004351/2021-12-31T15:30:29.249Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470004351>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:30:29.249Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4882_16;
+    <http://www.w3.org/2004/02/skos/core#note> "Juliette Van Dessel trouwde met artiest Constant Van den Berghe en ging samen met haar man optreden. Ze werd zijn medium en assisteerde hem bij zijn kunsten als illusionist, fakir, telepaat en hypnotiseur. Onder de artiestennaam Julika besteeg ze een sabelladder, liet ze zich doorzagen in een kist en kroop ze in een koffer die met sabels werd doorprikt. Ze assisteerde Constant ook bij zijn optredens als clown Stanny, en verder had ze een dressuurnummer met vogels en papegaaien onder de naam Miss Christiane en partner. Daarnaast was Juliette Constants vaste partner als marionettenspeler in zijn poppentheater Het sprookjesland.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4882_18;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4882_20;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van Dessel, Juliette";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/470004352>, <https://stad.gent/id/concept/470004359>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/470004359> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Miss Christiane"@nl.
+<https://stad.gent/id/concept/470004352> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Julika"@nl.
+_:df_4882_20 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1995-03-07"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008736>.
+<http://vocab.getty.edu/tgn/7008736> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4882_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1917-06-22"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008736>.
+_:df_4882_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004351"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470004351/2021-12-31T15:30:29.249Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/van+des.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/van+des.ttl>.

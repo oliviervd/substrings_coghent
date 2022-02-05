@@ -1,0 +1,70 @@
+<https://stad.gent/id/agent/530013601/2021-12-31T18:18:51.505Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013601>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:18:51.505Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3967_31, _:df_3967_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Fischer";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3967_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01421"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3967_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013601"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013601/2021-12-31T18:18:51.505Z>.
+<https://stad.gent/id/agent/530001659/2021-12-31T17:26:04.704Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001659>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:26:04.704Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4216_2, _:df_4216_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4216_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4216_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Kay";
+    <http://xmlns.com/foaf/0.1/familyName> "Fisker";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Fisker, Kay";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500030144>, <https://www.wikidata.org/entity/Q984344>, <https://rkd.nl/explore/artists/277707>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4216_17;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4216_17 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Deens"@nl.
+_:df_4216_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1965-06-21"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003474>.
+<http://vocab.getty.edu/tgn/7003474> a <http://purl.org/dc/terms/Location>.
+_:df_4216_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1893-02-14"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003476>.
+<http://vocab.getty.edu/tgn/7003476> a <http://purl.org/dc/terms/Location>.
+_:df_4216_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01003"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4216_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001659"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001659/2021-12-31T17:26:04.704Z>.
+<https://stad.gent/id/agent/530001460/2021-12-31T17:13:14.335Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001460>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:13:14.335Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4309_16, _:df_4309_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4309_20;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4309_21;
+    <http://xmlns.com/foaf/0.1/givenName> "Elsa";
+    <http://xmlns.com/foaf/0.1/familyName> "Fischer-Treyden";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Fischer-Treyden, Elsa";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q23059389>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4309_25;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4309_25 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_4309_21 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1995"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4309_20 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1901"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012974>.
+<http://vocab.getty.edu/tgn/7012974> a <http://purl.org/dc/terms/Location>.
+_:df_4309_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00851"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4309_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001460"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001460/2021-12-31T17:13:14.335Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/fis.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/fis.ttl>.

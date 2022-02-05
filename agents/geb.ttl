@@ -1,0 +1,150 @@
+<https://stad.gent/id/agent/530020713/2021-12-31T20:01:36.992Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020713>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:01:36.992Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3550_9, _:df_3550_11;
+    <http://www.w3.org/2004/02/skos/core#note> "http://www.silvercollection.it/germansilverhallmark22DUE.html#Fried";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3550_13;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3550_15;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gebrüder Friedländer";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q61930370>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3550_15 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1839"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003712>.
+<http://vocab.getty.edu/tgn/7003712> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3550_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1829"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003712>.
+_:df_3550_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02107"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3550_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020713"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020713/2021-12-31T20:01:36.992Z>.
+<https://stad.gent/id/agent/530020576/2021-12-31T19:52:43.785Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020576>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:52:43.785Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3604_21, _:df_3604_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Carl";
+    <http://xmlns.com/foaf/0.1/familyName> "Gebauer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gebauer, Carl";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3604_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02020"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3604_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020576"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020576/2021-12-31T19:52:43.785Z>.
+<https://stad.gent/id/agent/530016916/2021-12-31T18:58:17.061Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:58:17.061Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3760_28, _:df_3760_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "gebr. Van der Haeghen";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3760_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01764"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3760_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016916/2021-12-31T18:58:17.061Z>.
+<https://stad.gent/id/agent/530013364/2021-12-31T18:03:54.651Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013364>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:03:54.651Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4057_32, _:df_4057_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "gebr. Van Der Haegen";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4057_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00143"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4057_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013364"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013364/2021-12-31T18:03:54.651Z>.
+<https://stad.gent/id/agent/530001439/2021-12-31T17:11:49.042Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001439>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:11:49.042Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4318_2, _:df_4318_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gebrueder Heubach";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4318_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00834"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4318_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001439"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001439/2021-12-31T17:11:49.042Z>.
+<https://stad.gent/id/agent/530001382/2021-12-31T17:08:42.820Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001382>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:08:42.820Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4342_26, _:df_4342_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4342_29;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gebrüder Mehner";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4342_29 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1887"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4342_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00797"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4342_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001382"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001382/2021-12-31T17:08:42.820Z>.
+<https://stad.gent/id/agent/530001125/2021-12-31T16:54:22.061Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001125>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:54:22.061Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4444_26, _:df_4444_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4444_29;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gebrüder Thonet";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1497235>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4444_29 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1853"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4444_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00626"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4444_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001125"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001125/2021-12-31T16:54:22.061Z>.
+<https://stad.gent/id/agent/530000850/2021-12-31T16:36:29.848Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000850>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:36:29.848Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4573_24, _:df_4573_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4573_27;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gebr. Deyhle";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4573_27 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1820"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4573_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00413"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4573_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000850"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000850/2021-12-31T16:36:29.848Z>.
+<https://stad.gent/id/agent/530000686/2021-12-31T16:26:46.084Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000686>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:26:46.084Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4642_22, _:df_4642_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "gebr. Niekerk";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4642_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00297"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4642_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000686"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000686/2021-12-31T16:26:46.084Z>.
+<https://stad.gent/id/agent/530000368/2021-12-31T16:03:21.304Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000368>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:03:21.304Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4780_24, _:df_4780_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4780_27;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gebruder Thonet Vienna GmbH";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500396422>, <https://www.wikidata.org/entity/Q1497235>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4780_27 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1853"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4780_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00066"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4780_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000368"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000368/2021-12-31T16:03:21.304Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/geb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/geb.ttl>.

@@ -1,0 +1,108 @@
+<https://stad.gent/id/agent/530021219/2021-12-31T20:15:47.909Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021219>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:15:47.909Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3481_33, _:df_3481_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zieta prozessdesign";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3481_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02224"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3481_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021219"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021219/2021-12-31T20:15:47.909Z>.
+<https://stad.gent/id/agent/530001405/2021-12-31T17:09:58.460Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001405>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:09:58.460Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4333_26, _:df_4333_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zilversmederij Hollandia";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4333_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00812"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4333_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001405"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001405/2021-12-31T17:09:58.460Z>.
+<https://stad.gent/id/agent/530001220/2021-12-31T16:59:54.370Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001220>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:59:54.370Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4405_20, _:df_4405_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zilvertij en Co.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4405_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00692"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4405_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001220"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001220/2021-12-31T16:59:54.370Z>.
+<https://stad.gent/id/agent/530000664/2021-12-31T16:25:00.460Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000664>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:25:00.460Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4654_12, _:df_4654_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "S.R.";
+    <http://xmlns.com/foaf/0.1/familyName> "Zijlstra";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zijlstra, S.R.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4654_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00276"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4654_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000664"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000664/2021-12-31T16:25:00.460Z>.
+<https://stad.gent/id/agent/530000665/2021-12-31T16:25:05.461Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000665>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:25:05.461Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4654_17, _:df_4654_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "F.R.";
+    <http://xmlns.com/foaf/0.1/familyName> "Zijstra";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zijstra, F.R.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4654_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00277"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4654_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000665"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000665/2021-12-31T16:25:05.461Z>.
+<https://stad.gent/id/agent/530000648/2021-12-31T16:23:39.849Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000648>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:23:39.849Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4663_7, _:df_4663_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4663_11;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zilversmederij Hollandia van B.W. van Eldik";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/459630>;
+    <http://www.w3.org/2004/02/skos/core#related> <http://vocab.getty.edu/aat/300400713>;
+    a <http://purl.org/dc/terms/Agent>.
+<http://vocab.getty.edu/aat/300400713> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Hollandia Zilversmederij"@nl.
+_:df_4663_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006897>.
+<http://vocab.getty.edu/tgn/7006897> a <http://purl.org/dc/terms/Location>.
+_:df_4663_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00260"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4663_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000648"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000648/2021-12-31T16:23:39.849Z>.
+<https://stad.gent/id/agent/530000608/2021-12-31T16:20:38.885Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000608>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:20:38.885Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4684_2, _:df_4684_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zilverfabriek Voorschoten";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4684_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00224"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4684_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000608"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000608/2021-12-31T16:20:38.885Z>.
+<https://stad.gent/id/agent/470004834/2021-12-31T15:30:49.254Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470004834>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:30:49.254Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4879_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Zilvermuseum Sterckshof";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2108462>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4879_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004834"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470004834/2021-12-31T15:30:49.254Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/zi.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/zi.ttl>.

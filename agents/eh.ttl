@@ -1,0 +1,65 @@
+<https://stad.gent/id/agent/570021043/2022-01-01T02:00:42.345Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021043>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:00:42.345Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2755_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ehrich & Graetz";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2755_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021043"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021043/2022-01-01T02:00:42.345Z>.
+<https://stad.gent/id/agent/530000609/2021-12-31T16:20:43.888Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000609>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:20:43.888Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4684_6, _:df_4684_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4684_10;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4684_12;
+    <http://xmlns.com/foaf/0.1/givenName> "Christa";
+    <http://xmlns.com/foaf/0.1/familyName> "Ehrlich";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ehrlich, Christa";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500463335>, <https://www.wikidata.org/entity/Q15943236>, <https://rkd.nl/explore/artists/25730>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4684_16;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4684_16 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_4684_12 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1995-02-12"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006810>.
+<http://vocab.getty.edu/tgn/7006810> a <http://purl.org/dc/terms/Location>.
+_:df_4684_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1903-03-12"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003321>.
+<http://vocab.getty.edu/tgn/7003321> a <http://purl.org/dc/terms/Location>.
+_:df_4684_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00225"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4684_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000609"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000609/2021-12-31T16:20:43.888Z>.
+<https://stad.gent/id/agent/530000554/2021-12-31T16:16:47.254Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000554>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:16:47.254Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4714_26, _:df_4714_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4714_30;
+    <http://xmlns.com/foaf/0.1/givenName> "Anna";
+    <http://xmlns.com/foaf/0.1/familyName> "Ehrner";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ehrner, Anna";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500485840>, <https://www.wikidata.org/entity/Q4945924>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4714_34;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4714_34 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Zweeds"@nl.
+_:df_4714_30 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1948"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1062900>.
+<http://vocab.getty.edu/tgn/1062900> a <http://purl.org/dc/terms/Location>.
+_:df_4714_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00178"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4714_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000554"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000554/2021-12-31T16:16:47.254Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/eh.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/eh.ttl>.

@@ -1,0 +1,105 @@
+<https://stad.gent/id/agent/570022649/2022-01-01T02:07:44.702Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570022649>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:07:44.702Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2707_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Behaeghel Jos";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2707_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022649"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570022649/2022-01-01T02:07:44.702Z>.
+<https://stad.gent/id/agent/530020820/2021-12-31T20:07:09.459Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020820>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:07:09.459Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3523_21, _:df_3523_23;
+    <http://www.w3.org/2004/02/skos/core#note> "arts; schepen en burgemeester van Ninove, parlementslid";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3523_25;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3523_27;
+    <http://xmlns.com/foaf/0.1/givenName> "Clément Hubert Marie";
+    <http://xmlns.com/foaf/0.1/familyName> "Behn";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Behn, Clément Hubert Marie";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q14625897>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3523_31;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3523_31 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3523_27 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1960-01-27"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007963>.
+<http://vocab.getty.edu/tgn/7007963> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3523_25 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1874-08-03"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007963>.
+_:df_3523_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02153"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3523_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020820"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020820/2021-12-31T20:07:09.459Z>.
+<https://stad.gent/id/agent/530017928/2021-12-31T19:19:55.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530017928>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:19:55.405Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3736_10, _:df_3736_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3736_14;
+    <http://xmlns.com/foaf/0.1/givenName> "Yves";
+    <http://xmlns.com/foaf/0.1/familyName> "Behar";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Behar, Yves";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500279683>, <https://www.wikidata.org/entity/Q123419>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3736_18;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3736_18 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Zwitsers"@nl.
+_:df_3736_14 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1967"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007299>.
+<http://vocab.getty.edu/tgn/7007299> a <http://purl.org/dc/terms/Location>.
+_:df_3736_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01801"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3736_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530017928"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530017928/2021-12-31T19:19:55.405Z>.
+<https://stad.gent/id/agent/530001783/2021-12-31T17:33:02.355Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001783>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:33:02.355Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4168_32, _:df_4168_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4168_36;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4168_38;
+    <http://xmlns.com/foaf/0.1/givenName> "Peter";
+    <http://xmlns.com/foaf/0.1/familyName> "Behrens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Behrens, Peter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500022843>, <https://www.wikidata.org/entity/Q76726>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4168_47;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4168_47 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_4168_38 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1940-02-27"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003712>.
+<http://vocab.getty.edu/tgn/7003712> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4168_36 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1868-04-14"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005289>.
+<http://vocab.getty.edu/tgn/7005289> a <http://purl.org/dc/terms/Location>.
+_:df_4168_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01086"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4168_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001783"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001783/2021-12-31T17:33:02.355Z>.
+<https://stad.gent/id/agent/470019202/2021-12-31T15:38:11.986Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470019202>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:38:11.986Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4825_5;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Behrens, Peter";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q76726>, <http://vocab.getty.edu/page/ulan/500022843>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4825_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470019202"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470019202/2021-12-31T15:38:11.986Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/beh.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/beh.ttl>.

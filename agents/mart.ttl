@@ -1,0 +1,108 @@
+<https://stad.gent/id/agent/530016585/2021-12-31T18:39:29.541Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:39:29.541Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3862_6, _:df_3862_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3862_10;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3862_11;
+    <http://xmlns.com/foaf/0.1/givenName> "Etienne-Henri";
+    <http://xmlns.com/foaf/0.1/familyName> "Martin";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Martin, Etienne-Henri";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q21055174>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3862_15;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3862_15 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_3862_11 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1997"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3862_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1905-04-07"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>.
+_:df_3862_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01593"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3862_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016585/2021-12-31T18:39:29.541Z>.
+<https://stad.gent/id/agent/530013736/2021-12-31T18:26:39.591Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013736>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:26:39.591Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3919_19, _:df_3919_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3919_23;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3919_25;
+    <http://xmlns.com/foaf/0.1/givenName> "Dino";
+    <http://xmlns.com/foaf/0.1/familyName> "Martens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Martens, Dino";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q5278530>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3919_29;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3919_29 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_3919_25 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1970"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003006>.
+<http://vocab.getty.edu/tgn/7003006> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3919_23 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1894"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003006>.
+_:df_3919_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01499"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3919_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013736"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013736/2021-12-31T18:26:39.591Z>.
+<https://stad.gent/id/agent/530013298/2021-12-31T18:00:13.027Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013298>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:00:13.027Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4081_6, _:df_4081_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4081_9;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4081_10;
+    <http://xmlns.com/foaf/0.1/givenName> "Michel";
+    <http://xmlns.com/foaf/0.1/familyName> "Martens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Martens, Michel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500049941>, <https://www.wikidata.org/entity/Q5343067>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4081_14;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4081_14 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4081_10 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2006-12-15"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4081_9 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1921-03-24"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4081_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01229"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4081_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013298"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013298/2021-12-31T18:00:13.027Z>.
+<https://stad.gent/id/agent/530001809/2021-12-31T17:34:58.028Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001809>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:34:58.028Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4153_12, _:df_4153_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4153_15;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Marta Laudani & Marco Romanelli";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4153_15 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1988"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4153_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01109"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4153_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001809"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001809/2021-12-31T17:34:58.028Z>.
+<https://stad.gent/id/agent/470004439/2021-12-31T15:30:39.251Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470004439>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:30:39.251Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4879_5;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Martougin";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q21281403>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4879_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470004439"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470004439/2021-12-31T15:30:39.251Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/mart.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/mart.ttl>.

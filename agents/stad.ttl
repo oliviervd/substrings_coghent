@@ -1,0 +1,44 @@
+<https://stad.gent/id/agent/570028170/2022-01-01T02:21:55.498Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028170>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:21:55.498Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2608_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stadium";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2608_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028170"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028170/2022-01-01T02:21:55.498Z>.
+<https://stad.gent/id/agent/570027901/2022-01-01T02:19:54.873Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570027901>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:19:54.873Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2623_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stad Gent";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q47111670>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2623_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570027901"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570027901/2022-01-01T02:19:54.873Z>.
+<https://stad.gent/id/agent/570014845/2022-01-01T01:47:21.976Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570014845>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:47:21.976Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2848_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stad Gent - Stadhuis";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2084563>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2848_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014845"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570014845/2022-01-01T01:47:21.976Z>.
+<https://stad.gent/id/agent/570001429/2022-01-01T01:42:19.904Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570001429>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:42:19.904Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2878_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stad Gent - Stedelijk Textielinstituut Henri Story";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2878_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570001429"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570001429/2022-01-01T01:42:19.904Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/stad.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/stad.ttl>.

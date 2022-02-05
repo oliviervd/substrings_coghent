@@ -1,0 +1,63 @@
+<https://stad.gent/id/agent/570029101/2022-01-01T02:47:56.239Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029101>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:47:56.239Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2452_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2452_20;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2452_22;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lys-Liève nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2452_22 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2000"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_2452_20 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1960"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_2452_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029101"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029101/2022-01-01T02:47:56.239Z>.
+<https://stad.gent/id/agent/530016309/2021-12-31T18:35:22.807Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016309>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:35:22.807Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3886_48, _:df_3886_50;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3886_52;
+    <http://xmlns.com/foaf/0.1/givenName> "Greg";
+    <http://xmlns.com/foaf/0.1/familyName> "Lynn";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lynn, Greg";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500237637>, <https://www.wikidata.org/entity/Q513374>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3886_56;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3886_56 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amerikaans"@nl.
+_:df_3886_52 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1964"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/2081118>.
+<http://vocab.getty.edu/tgn/2081118> a <http://purl.org/dc/terms/Location>.
+_:df_3886_50 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01556"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3886_48 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016309"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016309/2021-12-31T18:35:22.807Z>.
+<https://stad.gent/id/agent/530013519/2021-12-31T18:13:04.093Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013519>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:13:04.093Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4000_9, _:df_4000_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joanna";
+    <http://xmlns.com/foaf/0.1/familyName> "Lyle";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lyle, Joanna";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4000_14;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4000_14 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Brits"@nl.
+_:df_4000_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01363"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4000_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013519"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013519/2021-12-31T18:13:04.093Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/ly.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/ly.ttl>.

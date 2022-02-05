@@ -1,0 +1,116 @@
+<https://stad.gent/id/agent/670001349/2022-01-01T05:23:15.530Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001349>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:23:15.530Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1444_2, _:df_1444_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "jonker G.J. Ghijsens";
+    <http://xmlns.com/foaf/0.1/givenName> "G.J.";
+    <http://xmlns.com/foaf/0.1/familyName> "Ghijsens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ghijsens, G.J.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1444_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1332"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1444_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001349"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001349/2022-01-01T05:23:15.530Z>.
+<https://stad.gent/id/agent/670001350/2022-01-01T05:23:20.532Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001350>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:23:20.532Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1444_8, _:df_1444_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Catharina";
+    <http://xmlns.com/foaf/0.1/familyName> "Ghys";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ghys, Catharina";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1444_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1333"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1444_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001350"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001350/2022-01-01T05:23:20.532Z>.
+<https://stad.gent/id/agent/670001344/2022-01-01T05:22:50.522Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001344>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:22:50.522Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1447_2, _:df_1447_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Gheerolfs";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gheerolfs, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1447_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1327"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1447_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001344"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001344/2022-01-01T05:22:50.522Z>.
+<https://stad.gent/id/agent/670001345/2022-01-01T05:22:55.524Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001345>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:22:55.524Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1447_7, _:df_1447_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Carel";
+    <http://xmlns.com/foaf/0.1/familyName> "Gheerts";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gheerts, Carel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1447_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1328"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1447_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001345"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001345/2022-01-01T05:22:55.524Z>.
+<https://stad.gent/id/agent/670001346/2022-01-01T05:23:00.525Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001346>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:23:00.525Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1447_15, _:df_1447_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "C.V.";
+    <http://xmlns.com/foaf/0.1/familyName> "Gheerts";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Gheerts, C.V.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1447_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1329"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1447_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001346"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001346/2022-01-01T05:23:00.525Z>.
+<https://stad.gent/id/agent/670001347/2022-01-01T05:23:05.526Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001347>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:23:05.526Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1447_23, _:df_1447_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Ghiesens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ghiesens";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1447_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1330"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1447_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001347"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001347/2022-01-01T05:23:05.526Z>.
+<https://stad.gent/id/agent/670001348/2022-01-01T05:23:10.528Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001348>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:23:10.528Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1447_27, _:df_1447_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gillis";
+    <http://xmlns.com/foaf/0.1/familyName> "Ghijs";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ghijs, Gillis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1447_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1331"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1447_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001348"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001348/2022-01-01T05:23:10.528Z>.
+<https://stad.gent/id/agent/570029633/2022-01-01T02:56:29.511Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029633>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:56:29.511Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2401_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "GH";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2401_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029633"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029633/2022-01-01T02:56:29.511Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/gh.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/gh.ttl>.

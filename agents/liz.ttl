@@ -1,0 +1,16 @@
+<https://stad.gent/id/agent/530023222/2021-12-31T21:11:30.687Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023222>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:11:30.687Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3166_7, _:df_3166_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "M.";
+    <http://xmlns.com/foaf/0.1/familyName> "Lizen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lizen, M.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3166_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02746"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3166_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023222"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023222/2021-12-31T21:11:30.687Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/liz.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/liz.ttl>.

@@ -1,0 +1,90 @@
+<https://stad.gent/id/agent/530024107/2021-12-31T21:59:49.400Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024107>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:59:49.400Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2950_2, _:df_2950_4;
+    <http://www.w3.org/2004/02/skos/core#note> "In 1983 kreeg Mosa het predikaat 'Koninklijke'.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2950_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mosa";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/nl/explore/artists/335007>, <https://www.wikidata.org/entity/Q2250620>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2950_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1883"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1047941>.
+<http://vocab.getty.edu/tgn/1047941> a <http://purl.org/dc/terms/Location>.
+_:df_2950_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03151"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2950_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024107"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024107/2021-12-31T21:59:49.400Z>.
+<https://stad.gent/id/agent/530001803/2021-12-31T17:34:38.022Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001803>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:34:38.022Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4156_18, _:df_4156_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moschino";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4156_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01105"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4156_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001803"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001803/2021-12-31T17:34:38.022Z>.
+<https://stad.gent/id/agent/530001242/2021-12-31T17:00:49.726Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001242>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:00:49.726Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4399_33, _:df_4399_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4399_37;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moser & Söhne";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q637767>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4399_37 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1857"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7011521>.
+<http://vocab.getty.edu/tgn/7011521> a <http://purl.org/dc/terms/Location>.
+_:df_4399_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00703"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4399_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001242"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001242/2021-12-31T17:00:49.726Z>.
+<https://stad.gent/id/agent/530001230/2021-12-31T17:00:24.379Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001230>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:00:24.379Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4402_48, _:df_4402_50;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4402_52;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Moser";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q637767>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4402_55;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4402_55 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Tsjechisch"@nl.
+_:df_4402_52 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1857"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7593913>.
+<http://vocab.getty.edu/tgn/7593913> a <http://purl.org/dc/terms/Location>.
+_:df_4402_50 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00698"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4402_48 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001230"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001230/2021-12-31T17:00:24.379Z>.
+<https://stad.gent/id/agent/530000847/2021-12-31T16:36:19.571Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000847>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:36:19.571Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4573_12, _:df_4573_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Franz";
+    <http://xmlns.com/foaf/0.1/familyName> "Mosgau";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mosgau, Franz";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4573_17;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4573_17 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_4573_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00411"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4573_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000847"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000847/2021-12-31T16:36:19.571Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/mos.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/mos.ttl>.

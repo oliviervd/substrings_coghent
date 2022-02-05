@@ -1,0 +1,62 @@
+<https://stad.gent/id/agent/670000846/2022-01-01T04:41:18.282Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000846>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:41:18.282Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1744_2, _:df_1744_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "de Plancke";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Plancke, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1744_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0829"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1744_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000846"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000846/2022-01-01T04:41:18.282Z>.
+<https://stad.gent/id/agent/670000847/2022-01-01T04:41:23.284Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000847>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:41:23.284Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1744_7, _:df_1744_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "de Plancke";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Plancke, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1744_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0830"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1744_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000847"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000847/2022-01-01T04:41:23.284Z>.
+<https://stad.gent/id/agent/670000848/2022-01-01T04:41:28.285Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000848>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:41:28.285Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1744_15, _:df_1744_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Plancke";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Plancke, Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1744_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0831"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1744_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000848"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000848/2022-01-01T04:41:28.285Z>.
+<https://stad.gent/id/agent/530024135/2021-12-31T22:01:45.062Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024135>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T22:01:45.062Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2944_32, _:df_2944_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Ploeg";
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2944_36;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2944_36 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_2944_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03177"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2944_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024135"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024135/2021-12-31T22:01:45.062Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/de+pl.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/de+pl.ttl>.

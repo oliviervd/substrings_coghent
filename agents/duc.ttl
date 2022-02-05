@@ -1,0 +1,22 @@
+<https://stad.gent/id/agent/570027829/2022-01-01T02:19:39.867Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570027829>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:19:39.867Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2623_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ducaat";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2623_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570027829"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570027829/2022-01-01T02:19:39.867Z>.
+<https://stad.gent/id/agent/570014285/2022-01-01T01:45:41.352Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570014285>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:45:41.352Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2857_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ducommun Ateliers";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2857_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014285"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570014285/2022-01-01T01:45:41.352Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/duc.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/duc.ttl>.

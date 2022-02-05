@@ -1,0 +1,311 @@
+<https://stad.gent/id/agent/670000946/2022-01-01T04:49:42.089Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000946>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:49:42.089Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1684_2, _:df_1684_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_1684_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_1684_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Christianus Josephus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smet, Christianus Josephus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1684_6 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1812-08-02"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_1684_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1750-04-05"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_1684_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0929"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1684_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000946"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000946/2022-01-01T04:49:42.089Z>.
+<https://stad.gent/id/agent/670000947/2022-01-01T04:49:47.090Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000947>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:49:47.090Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1684_12, _:df_1684_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smet, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1684_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0930"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1684_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000947"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000947/2022-01-01T04:49:47.090Z>.
+<https://stad.gent/id/agent/670000948/2022-01-01T04:49:52.091Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000948>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:49:52.091Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1684_22, _:df_1684_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smet, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1684_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0931"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1684_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000948"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000948/2022-01-01T04:49:52.091Z>.
+<https://stad.gent/id/agent/670000941/2022-01-01T04:49:17.081Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000941>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:49:17.081Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1687_2, _:df_1687_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gregorius";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smet, Gregorius";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1687_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0924"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1687_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000941"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000941/2022-01-01T04:49:17.081Z>.
+<https://stad.gent/id/agent/670000942/2022-01-01T04:49:22.082Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000942>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:49:22.082Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1687_7, _:df_1687_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smet, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1687_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0925"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1687_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000942"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000942/2022-01-01T04:49:22.082Z>.
+<https://stad.gent/id/agent/670000943/2022-01-01T04:49:27.083Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000943>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:49:27.083Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1687_15, _:df_1687_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Catherine";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smet, Catherine";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1687_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0926"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1687_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000943"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000943/2022-01-01T04:49:27.083Z>.
+<https://stad.gent/id/agent/670000944/2022-01-01T04:49:32.086Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000944>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:49:32.086Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1687_20, _:df_1687_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judoca";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smet, Judoca";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1687_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0927"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1687_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000944"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000944/2022-01-01T04:49:32.086Z>.
+<https://stad.gent/id/agent/670000945/2022-01-01T04:49:37.088Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000945>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:49:37.088Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1687_25, _:df_1687_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smet, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1687_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0928"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1687_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000945"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000945/2022-01-01T04:49:37.088Z>.
+<https://stad.gent/id/agent/670000936/2022-01-01T04:48:51.782Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000936>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:48:51.782Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1690_2, _:df_1690_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joanne";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smet, Joanne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1690_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0919"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1690_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000936"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000936/2022-01-01T04:48:51.782Z>.
+<https://stad.gent/id/agent/670000937/2022-01-01T04:48:56.785Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000937>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:48:56.785Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1690_7, _:df_1690_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anthone";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smet, Anthone";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1690_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0920"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1690_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000937"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000937/2022-01-01T04:48:56.785Z>.
+<https://stad.gent/id/agent/670000938/2022-01-01T04:49:01.786Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000938>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:49:01.786Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1690_12, _:df_1690_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bernardus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smet, Bernardus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1690_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0921"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1690_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000938"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000938/2022-01-01T04:49:01.786Z>.
+<https://stad.gent/id/agent/670000939/2022-01-01T04:49:06.789Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000939>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:49:06.789Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1690_20, _:df_1690_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bauduyn";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smet, Bauduyn";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1690_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0922"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1690_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000939"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000939/2022-01-01T04:49:06.789Z>.
+<https://stad.gent/id/agent/670000940/2022-01-01T04:49:12.078Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000940>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:49:12.078Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1690_25, _:df_1690_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guillielmus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smet, Guillielmus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1690_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0923"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1690_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000940"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000940/2022-01-01T04:49:12.078Z>.
+<https://stad.gent/id/agent/670000931/2022-01-01T04:48:26.772Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000931>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:48:26.772Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1693_2, _:df_1693_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Adriaen";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smedt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smedt, Adriaen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1693_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0914"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1693_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000931"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000931/2022-01-01T04:48:26.772Z>.
+<https://stad.gent/id/agent/670000932/2022-01-01T04:48:31.774Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000932>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:48:31.774Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1693_10, _:df_1693_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smedt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smedt, Jan Baptiste weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1693_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0915"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1693_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000932"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000932/2022-01-01T04:48:31.774Z>.
+<https://stad.gent/id/agent/670000933/2022-01-01T04:48:36.776Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000933>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:48:36.776Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1693_18, _:df_1693_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Marie Joanne";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smedt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smedt, Marie Joanne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1693_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0916"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1693_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000933"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000933/2022-01-01T04:48:36.776Z>.
+<https://stad.gent/id/agent/670000934/2022-01-01T04:48:41.778Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000934>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:48:41.778Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1693_23, _:df_1693_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Leo";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smet, Leo";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1693_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0917"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1693_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000934"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000934/2022-01-01T04:48:41.778Z>.
+<https://stad.gent/id/agent/670000935/2022-01-01T04:48:46.781Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000935>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:48:46.781Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1693_28, _:df_1693_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smet, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1693_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0918"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1693_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000935"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000935/2022-01-01T04:48:46.781Z>.
+<https://stad.gent/id/agent/670000929/2022-01-01T04:48:16.521Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000929>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:48:16.521Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1696_21, _:df_1696_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Susanna Marie";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smedt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smedt, Susanna Marie";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1696_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0912"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1696_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000929"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000929/2022-01-01T04:48:16.521Z>.
+<https://stad.gent/id/agent/670000930/2022-01-01T04:48:21.770Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000930>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:48:21.770Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1696_26, _:df_1696_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "de Smedt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Smedt, Pieter Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1696_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0913"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1696_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000930"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000930/2022-01-01T04:48:21.770Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/de+sm.ttl> <https://w3id.org/tree#relation> _:df_1_1255.
+_:df_1_1255 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/de+sme.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "de", "sme".
+<https://oliviervd.github.io/substrings_coghent/agents/de+sm.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/de+sm.ttl>.

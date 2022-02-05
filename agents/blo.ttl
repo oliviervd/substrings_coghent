@@ -1,0 +1,139 @@
+<https://stad.gent/id/agent/530024279/2021-12-31T22:11:43.906Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024279>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T22:11:43.906Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2902_8, _:df_2902_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2902_12;
+    <http://xmlns.com/foaf/0.1/givenName> "Jean-Pierre";
+    <http://xmlns.com/foaf/0.1/familyName> "Blondel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Blondel, Jean-Pierre";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2392852>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2902_16;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2902_16 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2902_12 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1924-06-08"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7252618>.
+<http://vocab.getty.edu/tgn/7252618> a <http://purl.org/dc/terms/Location>.
+_:df_2902_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03224"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2902_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024279"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024279/2021-12-31T22:11:43.906Z>.
+<https://stad.gent/id/agent/530023899/2021-12-31T21:47:34.715Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023899>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:47:34.715Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2989_10, _:df_2989_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Claude";
+    <http://xmlns.com/foaf/0.1/familyName> "Blondel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Blondel, Claude";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/personen/9131>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2989_21;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2989_21 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_2989_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03068"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2989_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023899"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023899/2021-12-31T21:47:34.715Z>.
+<https://stad.gent/id/agent/530023474/2021-12-31T21:29:18.186Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023474>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:29:18.186Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3058_13, _:df_3058_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Kaat";
+    <http://xmlns.com/foaf/0.1/familyName> "Blomme";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Blomme, Kaat";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3058_18;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3058_18 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3058_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02927"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3058_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023474"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023474/2021-12-31T21:29:18.186Z>.
+<https://stad.gent/id/agent/530021635/2021-12-31T20:30:08.434Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021635>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:30:08.434Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3394_2, _:df_3394_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judith";
+    <http://xmlns.com/foaf/0.1/familyName> "Bloedjes";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bloedjes, Judith";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3394_7;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3394_7 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_3394_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02365"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3394_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021635"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021635/2021-12-31T20:30:08.434Z>.
+<https://stad.gent/id/agent/530019809/2021-12-31T19:32:05.439Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019809>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:32:05.439Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3700_11, _:df_3700_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Herman";
+    <http://xmlns.com/foaf/0.1/familyName> "Blondeel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Blondeel, Herman";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3700_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01859"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3700_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019809"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019809/2021-12-31T19:32:05.439Z>.
+<https://stad.gent/id/agent/530001229/2021-12-31T17:00:19.377Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001229>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:00:19.377Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4402_38, _:df_4402_40;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4402_41;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4402_42;
+    <http://xmlns.com/foaf/0.1/givenName> "Lucienne";
+    <http://xmlns.com/foaf/0.1/familyName> "Bloch";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bloch, Lucienne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500043248>, <https://www.wikidata.org/entity/Q6697152>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4402_46;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4402_46 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Zwitsers"@nl.
+_:df_4402_42 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1999"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4402_41 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1900"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4402_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00697"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4402_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001229"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001229/2021-12-31T17:00:19.377Z>.
+<https://stad.gent/id/agent/530001180/2021-12-31T16:57:38.383Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001180>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:57:38.383Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4420_17, _:df_4420_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4420_20;
+    <http://xmlns.com/foaf/0.1/givenName> "Georges";
+    <http://xmlns.com/foaf/0.1/familyName> "Blom";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Blom, Georges";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/>, <https://www.wikidata.org/entity/Q22235764>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4420_20 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1947-05-04"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4420_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00665"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4420_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001180"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001180/2021-12-31T16:57:38.383Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/blo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/blo.ttl>.

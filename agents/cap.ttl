@@ -1,0 +1,201 @@
+<https://stad.gent/id/agent/670000316/2022-01-01T03:56:44.082Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000316>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:56:44.082Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2062_2, _:df_2062_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Capucijnen Francoisklooster";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Capucijnen Francoisklooster";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2062_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0299"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2062_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000316"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000316/2022-01-01T03:56:44.082Z>.
+<https://stad.gent/id/agent/670000317/2022-01-01T03:56:49.085Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000317>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:56:49.085Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2062_9, _:df_2062_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Capucinessenklooster";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Capucinessenklooster";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2062_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0300"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2062_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000317"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000317/2022-01-01T03:56:49.085Z>.
+<https://stad.gent/id/agent/670000314/2022-01-01T03:56:34.079Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000314>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:56:34.079Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2065_25, _:df_2065_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Capmaecker";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Capmaecker, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2065_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0297"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2065_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000314"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000314/2022-01-01T03:56:34.079Z>.
+<https://stad.gent/id/agent/670000315/2022-01-01T03:56:39.081Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000315>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:56:39.081Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2065_30, _:df_2065_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus F.";
+    <http://xmlns.com/foaf/0.1/familyName> "Cappaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cappaert, Judocus F.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2065_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0298"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2065_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000315"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000315/2022-01-01T03:56:39.081Z>.
+<https://stad.gent/id/agent/530022004/2021-12-31T20:44:54.481Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022004>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:44:54.481Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3304_7, _:df_3304_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3304_11;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cappellin Venini & C.";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500262730>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3304_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1921"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003006>.
+<http://vocab.getty.edu/tgn/7003006> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3304_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02516"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3304_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022004"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022004/2021-12-31T20:44:54.481Z>.
+<https://stad.gent/id/agent/530020814/2021-12-31T20:06:39.012Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020814>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:06:39.012Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3526_15, _:df_3526_17;
+    <http://www.w3.org/2004/02/skos/core#note> "Broer van Eugène Capon";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3526_18;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3526_19;
+    <http://xmlns.com/foaf/0.1/givenName> "Georges Louis";
+    <http://xmlns.com/foaf/0.1/familyName> "Capon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Capon, Georges Louis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3526_22;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3526_22 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_3526_19 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1922"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3526_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1880"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3526_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02148"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3526_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020814"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020814/2021-12-31T20:06:39.012Z>.
+<https://stad.gent/id/agent/530013895/2021-12-31T18:28:25.214Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013895>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:28:25.214Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3910_18, _:df_3910_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3910_21;
+    <http://xmlns.com/foaf/0.1/givenName> "Juli";
+    <http://xmlns.com/foaf/0.1/familyName> "Capella";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Capella, Juli";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/Q2271270>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3910_25;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3910_25 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Spaans"@nl.
+_:df_3910_21 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1960"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3910_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01514"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3910_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013895"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013895/2021-12-31T18:28:25.214Z>.
+<https://stad.gent/id/agent/530013477/2021-12-31T18:10:22.425Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013477>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:10:22.425Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4018_16, _:df_4018_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4018_20;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cappellini";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500270312>, <https://www.wikidata.org/entity/Q3135361>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4018_20 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1946"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/4002285>.
+<http://vocab.getty.edu/tgn/4002285> a <http://purl.org/dc/terms/Location>.
+_:df_4018_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01333"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4018_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013477"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013477/2021-12-31T18:10:22.425Z>.
+<https://stad.gent/id/agent/530001589/2021-12-31T17:21:37.664Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001589>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:21:37.664Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4249_22, _:df_4249_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4249_26;
+    <http://xmlns.com/foaf/0.1/givenName> "Sergio";
+    <http://xmlns.com/foaf/0.1/familyName> "Cappelli";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cappelli, Sergio";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500288965>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4249_30;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4249_30 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_4249_26 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1948"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004474>.
+<http://vocab.getty.edu/tgn/7004474> a <http://purl.org/dc/terms/Location>.
+_:df_4249_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00950"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4249_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001589"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001589/2021-12-31T17:21:37.664Z>.
+<https://stad.gent/id/agent/530001033/2021-12-31T16:48:39.767Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001033>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:48:39.767Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4486_31, _:df_4486_33;
+    <http://www.w3.org/2004/02/skos/core#note> "Broer van Georges Louis Capon";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Eugène";
+    <http://xmlns.com/foaf/0.1/familyName> "Capon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Capon, Eugène";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4486_36;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4486_36 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_4486_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00558"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4486_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001033"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001033/2021-12-31T16:48:39.767Z>.
+<https://stad.gent/id/agent/530000981/2021-12-31T16:45:13.024Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000981>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:45:13.024Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4510_20, _:df_4510_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "J.B.";
+    <http://xmlns.com/foaf/0.1/familyName> "Cappellemans";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cappellemans, J.B. (ainé)";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4510_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00517"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4510_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000981"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000981/2021-12-31T16:45:13.024Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/cap.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/cap.ttl>.

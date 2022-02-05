@@ -1,0 +1,66 @@
+<https://stad.gent/id/agent/570031664/2022-01-01T03:11:46.376Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570031664>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:11:46.376Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2302_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Penrose A.W. & Co Ltd";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2302_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570031664"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570031664/2022-01-01T03:11:46.376Z>.
+<https://stad.gent/id/agent/530021739/2021-12-31T20:36:46.259Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021739>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:36:46.259Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3349_30, _:df_3349_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anne";
+    <http://xmlns.com/foaf/0.1/familyName> "Penttinen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Penttinen, Anne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3349_35;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3349_35 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Fins"@nl.
+_:df_3349_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02443"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3349_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021739"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021739/2021-12-31T20:36:46.259Z>.
+<https://stad.gent/id/agent/530013548/2021-12-31T18:15:14.754Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013548>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:15:14.754Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3988_26, _:df_3988_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3988_30;
+    <http://xmlns.com/foaf/0.1/givenName> "Jorge";
+    <http://xmlns.com/foaf/0.1/familyName> "Pensi";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pensi, Jorge";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500277147>, <https://www.wikidata.org/entity/Q17035145>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3988_34;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3988_34 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Argentijns"@nl.
+_:df_3988_30 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1946"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1019188>.
+<http://vocab.getty.edu/tgn/1019188> a <http://purl.org/dc/terms/Location>.
+_:df_3988_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01385"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3988_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013548"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013548/2021-12-31T18:15:14.754Z>.
+<https://stad.gent/id/agent/530001835/2021-12-31T17:36:23.710Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001835>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:36:23.710Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4144_34, _:df_4144_36;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pentagnon";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4144_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01126"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4144_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001835"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001835/2021-12-31T17:36:23.710Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/pen.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/pen.ttl>.

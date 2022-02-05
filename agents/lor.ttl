@@ -1,0 +1,21 @@
+<https://stad.gent/id/agent/530018219/2021-12-31T19:21:36.072Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530018219>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:21:36.072Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3730_38, _:df_3730_40;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anton";
+    <http://xmlns.com/foaf/0.1/familyName> "Lorenz";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lorenz, Anton";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500225677>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3730_44;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3730_44 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Hongaars"@nl.
+_:df_3730_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01813"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3730_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530018219"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530018219/2021-12-31T19:21:36.072Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/lor.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/lor.ttl>.

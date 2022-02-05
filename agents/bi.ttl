@@ -1,0 +1,365 @@
+<https://stad.gent/id/agent/670003366/2022-01-01T08:01:57.863Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003366>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:01:57.863Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_310_13, _:df_310_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Bijloke";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bijloke";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2654750>, <https://id.erfgoed.net/erfgoedobjecten/20338>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_310_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0017"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_310_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003366"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003366/2022-01-01T08:01:57.863Z>.
+<https://stad.gent/id/agent/670003279/2022-01-01T07:59:57.232Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003279>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:59:57.232Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_325_25, _:df_325_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Bisschopshuis";
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_325_30;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bisschoppelijk Paleis";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://id.erfgoed.net/erfgoedobjecten/24516>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_325_30 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1841"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <https://inventaris.onroerenderfgoed.be/themas/2856>.
+<https://inventaris.onroerenderfgoed.be/themas/2856> a <http://purl.org/dc/terms/Location>.
+_:df_325_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0011"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_325_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003279"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003279/2022-01-01T07:59:57.232Z>.
+<https://stad.gent/id/agent/670002206/2022-01-01T06:34:46.291Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002206>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:34:46.291Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_934_20, _:df_934_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Bisschoppelijk Seminarie";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bisschoppelijk Seminarie";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2538829>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_934_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2189"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_934_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002206"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002206/2022-01-01T06:34:46.291Z>.
+<https://stad.gent/id/agent/670000165/2022-01-01T03:44:08.862Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000165>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:44:08.862Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2152_2, _:df_2152_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Louys";
+    <http://xmlns.com/foaf/0.1/familyName> "Billemont";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Billemont, Louys";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2152_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0148"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2152_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000165"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000165/2022-01-01T03:44:08.862Z>.
+<https://stad.gent/id/agent/670000166/2022-01-01T03:44:13.863Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:44:13.863Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2152_7, _:df_2152_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Bisschop van Gent";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bisschop van Gent";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2152_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0149"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2152_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000166/2022-01-01T03:44:13.863Z>.
+<https://stad.gent/id/agent/670000167/2022-01-01T03:44:18.865Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000167>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:44:18.865Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2152_11, _:df_2152_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Bisse";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bisse, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2152_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0150"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2152_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000167"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000167/2022-01-01T03:44:18.865Z>.
+<https://stad.gent/id/agent/670000160/2022-01-01T03:43:43.853Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000160>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:43:43.853Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2155_2, _:df_2155_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gomarius";
+    <http://xmlns.com/foaf/0.1/familyName> "Biemans";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Biemans, Gomarius";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2155_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0143"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2155_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000160"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000160/2022-01-01T03:43:43.853Z>.
+<https://stad.gent/id/agent/670000161/2022-01-01T03:43:48.855Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000161>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:43:48.855Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2155_7, _:df_2155_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Bijloke abdij";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bijloke abdij";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2155_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0144"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2155_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000161"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000161/2022-01-01T03:43:48.855Z>.
+<https://stad.gent/id/agent/670000162/2022-01-01T03:43:53.856Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000162>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:43:53.856Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2155_14, _:df_2155_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Bijlokehospitaal";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bijlokehospitaal";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2155_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0145"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2155_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000162"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000162/2022-01-01T03:43:53.856Z>.
+<https://stad.gent/id/agent/670000163/2022-01-01T03:43:58.857Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000163>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:43:58.857Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2155_21, _:df_2155_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "A.F.";
+    <http://xmlns.com/foaf/0.1/familyName> "Bijnvaen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bijnvaen, A.F.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2155_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0146"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2155_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000163"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000163/2022-01-01T03:43:58.857Z>.
+<https://stad.gent/id/agent/670000164/2022-01-01T03:44:03.859Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000164>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:44:03.859Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2155_26, _:df_2155_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "Bijs";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bijs, Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2155_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0147"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2155_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000164"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000164/2022-01-01T03:44:03.859Z>.
+<https://stad.gent/id/agent/570032029/2022-01-01T03:20:01.569Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570032029>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:20:01.569Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2287_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2287_13;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2287_14;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bitstream Inc.";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q45600>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2287_14 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2012"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2287_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1981"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/2050078>.
+<http://vocab.getty.edu/tgn/2050078> a <http://purl.org/dc/terms/Location>.
+_:df_2287_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570032029"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570032029/2022-01-01T03:20:01.569Z>.
+<https://stad.gent/id/agent/570028225/2022-01-01T02:25:47.893Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028225>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:25:47.893Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2587_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Birtcher Corporation";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2587_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028225"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028225/2022-01-01T02:25:47.893Z>.
+<https://stad.gent/id/agent/530024251/2021-12-31T22:09:33.305Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024251>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T22:09:33.305Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2911_30, _:df_2911_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bianchin, Afra";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2911_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03215"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2911_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024251"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024251/2021-12-31T22:09:33.305Z>.
+<https://stad.gent/id/agent/530024183/2021-12-31T22:04:51.356Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024183>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T22:04:51.356Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2929_9, _:df_2929_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2929_13;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2929_15;
+    <http://xmlns.com/foaf/0.1/givenName> "Thorvald";
+    <http://xmlns.com/foaf/0.1/familyName> "Bindesbøll";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bindesbøll, Thorvald";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2711723>, <http://vocab.getty.edu/ulan/500012254>, <https://rkd.nl/explore/artists/221812>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2929_24;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2929_24 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Deens"@nl.
+_:df_2929_15 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1908-08-27"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003476>.
+<http://vocab.getty.edu/tgn/7003476> a <http://purl.org/dc/terms/Location>.
+_:df_2929_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1846-07-21"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003474>.
+<http://vocab.getty.edu/tgn/7003474> a <http://purl.org/dc/terms/Location>.
+_:df_2929_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03189"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2929_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024183"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024183/2021-12-31T22:04:51.356Z>.
+<https://stad.gent/id/agent/530024094/2021-12-31T21:58:59.076Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024094>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:58:59.076Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2956_8, _:df_2956_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2956_11;
+    <http://xmlns.com/foaf/0.1/givenName> "Franz";
+    <http://xmlns.com/foaf/0.1/familyName> "Biggel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Biggel, Franz";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2956_14;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2956_14 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_2956_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1957"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2956_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03142"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2956_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024094"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024094/2021-12-31T21:58:59.076Z>.
+<https://stad.gent/id/agent/530023581/2021-12-31T21:36:20.802Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023581>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:36:20.802Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3022_32, _:df_3022_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3022_36;
+    <http://xmlns.com/foaf/0.1/givenName> "Joost";
+    <http://xmlns.com/foaf/0.1/familyName> "Bicker Caarten";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bicker Caarten, Joost";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3022_39;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3022_39 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_3022_36 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1962"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006809>.
+<http://vocab.getty.edu/tgn/7006809> a <http://purl.org/dc/terms/Location>.
+_:df_3022_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02987"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3022_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023581"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023581/2021-12-31T21:36:20.802Z>.
+<https://stad.gent/id/agent/530022129/2021-12-31T20:50:31.341Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:50:31.341Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3265_8, _:df_3265_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "BIG-GAME";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3265_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02581"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3265_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022129/2021-12-31T20:50:31.341Z>.
+<https://stad.gent/id/agent/530022123/2021-12-31T20:50:01.329Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022123>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:50:01.329Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3268_2, _:df_3268_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3268_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Biennale Interieur";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3072535>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3268_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1968"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007934>.
+<http://vocab.getty.edu/tgn/7007934> a <http://purl.org/dc/terms/Location>.
+_:df_3268_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02575"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3268_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022123"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022123/2021-12-31T20:50:01.329Z>.
+<https://stad.gent/id/agent/530021650/2021-12-31T20:30:33.747Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021650>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:30:33.747Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3394_30, _:df_3394_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3394_33;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "BISlighting";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3394_33 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1999"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3394_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02369"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3394_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021650"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021650/2021-12-31T20:30:33.747Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/bi.ttl> <https://w3id.org/tree#relation> _:df_1_1379.
+_:df_1_1379 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/bin.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "bin".
+<https://oliviervd.github.io/substrings_coghent/agents/bi.ttl> <https://w3id.org/tree#relation> _:df_1_1380.
+_:df_1_1380 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/bil.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "bil".
+<https://oliviervd.github.io/substrings_coghent/agents/bi.ttl> <https://w3id.org/tree#relation> _:df_1_1381.
+_:df_1_1381 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/bia.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "bia".
+<https://oliviervd.github.io/substrings_coghent/agents/bi.ttl> <https://w3id.org/tree#relation> _:df_1_1382.
+_:df_1_1382 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/bit.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "bit".
+<https://oliviervd.github.io/substrings_coghent/agents/bi.ttl> <https://w3id.org/tree#relation> _:df_1_1383.
+_:df_1_1383 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/big.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "big".
+<https://oliviervd.github.io/substrings_coghent/agents/bi.ttl> <https://w3id.org/tree#relation> _:df_1_1384.
+_:df_1_1384 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/bie.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "bie".
+<https://oliviervd.github.io/substrings_coghent/agents/bi.ttl> <https://w3id.org/tree#relation> _:df_1_1385.
+_:df_1_1385 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/bis.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "bis".
+<https://oliviervd.github.io/substrings_coghent/agents/bi.ttl> <https://w3id.org/tree#relation> _:df_1_1386.
+_:df_1_1386 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/bij.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "bij".
+<https://oliviervd.github.io/substrings_coghent/agents/bi.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/bi.ttl>.

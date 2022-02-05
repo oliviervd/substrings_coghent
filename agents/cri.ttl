@@ -1,0 +1,27 @@
+<https://stad.gent/id/agent/530001214/2021-12-31T16:59:39.068Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001214>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:59:39.068Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4405_2, _:df_4405_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Criquillon & Co, A.D.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4405_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00689"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4405_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001214"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001214/2021-12-31T16:59:39.068Z>.
+<https://stad.gent/id/agent/530000935/2021-12-31T16:41:46.767Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000935>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:41:46.767Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4534_16, _:df_4534_18;
+    <http://www.w3.org/2004/02/skos/core#note> "Emile Gallé est associé à l'entreprise de négoce et de décoration de faïence et de verrerie de son père dès 1867.\r\n\r\nAu décès d'Emile Gallé en 1904, sa veuve Henriette Gallé, secondée par son gendre Paul Perdrizet (1870-1938), reprend l'activité artistique et industrielle de la verrerie.\r\n\r\nLa société anonyme des Etablissements Gallé, transformée ainsi en 1927, arrête sa production verrière en 1931.\r\n\r\n[http://www.ecole-de-nancy.com/web/index.php?page=emile-galle]";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cristallerie Gallé";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4534_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00476"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4534_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000935"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000935/2021-12-31T16:41:46.767Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/cri.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/cri.ttl>.

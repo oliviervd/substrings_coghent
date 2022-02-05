@@ -1,0 +1,12 @@
+<https://stad.gent/id/agent/570028370/2022-01-01T02:31:19.726Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028370>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:31:19.726Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2554_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pope";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2554_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028370"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028370/2022-01-01T02:31:19.726Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/pop.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/pop.ttl>.

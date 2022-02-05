@@ -1,0 +1,20 @@
+<https://stad.gent/id/agent/530013318/2021-12-31T18:01:13.679Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013318>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:01:13.679Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4075_15, _:df_4075_17;
+    <http://www.w3.org/2004/02/skos/core#note> "​HISTORY\r\n\r\n- 1927  Gérard Corneille establishes Anker Bedding, a mattress company\r\n\r\n- 1955   Carlo Corneille continues the business and builds a new branch                      and production line in Harelbeke, Belgium.\r\n\r\n- 1982   Vincent Corneille & Cathérine Silence join the company\r\n\r\n- 1996   New offices and showrooms are built in Harelbeke\r\n\r\n- 2003  Anker Bedding merges with LS Bedding Group\r\n\r\n- 2004  Vincent and Cathérine continue under the name\r\n               \"Corneille & Silence\".  A new brand is born.\r\n               As a consultancy firm, they are still responsible for the                                         development and styling of beds at LS Bedding.\r\n               In addition, they create and distribute 'Bedding & Beyond',                               exclusively aimed at interior designers and decorators. \r\n\r\n- 2015   Vincent and Cathérine's son, Sébastien Corneille, joins the\r\n              business and starts a separate line of sofas, chairs and sofa beds.\r\n\r\n- 2018  Under the Corneille & Silence label, the team also brings back a                       high-quality bed linen collection.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4075_19;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Anker Bedding";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4075_19 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1927"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026472>.
+<http://vocab.getty.edu/tgn/1026472> a <http://purl.org/dc/terms/Location>.
+_:df_4075_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01240"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4075_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013318"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013318/2021-12-31T18:01:13.679Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/ank.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/ank.ttl>.

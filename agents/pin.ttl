@@ -1,0 +1,50 @@
+<https://stad.gent/id/agent/570013917/2022-01-01T01:44:05.553Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570013917>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:44:05.553Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2869_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pintsch";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2869_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570013917"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570013917/2022-01-01T01:44:05.553Z>.
+<https://stad.gent/id/agent/530023312/2021-12-31T21:18:28.828Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023312>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:18:28.828Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3118_33, _:df_3118_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "R.";
+    <http://xmlns.com/foaf/0.1/familyName> "Pin";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pin, R.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3118_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02829"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3118_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023312"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023312/2021-12-31T21:18:28.828Z>.
+<https://stad.gent/id/agent/530020775/2021-12-31T20:05:33.664Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020775>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:05:33.664Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3529_2, _:df_3529_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pininfarina Extra";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3529_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02141"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3529_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020775"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020775/2021-12-31T20:05:33.664Z>.
+<https://stad.gent/id/agent/530020746/2021-12-31T20:03:53.006Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020746>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:03:53.006Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3538_17, _:df_3538_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pinkeye";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3538_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02129"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3538_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020746"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020746/2021-12-31T20:03:53.006Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/pin.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/pin.ttl>.

@@ -1,0 +1,19 @@
+<https://stad.gent/id/agent/530001561/2021-12-31T17:19:57.048Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001561>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:19:57.048Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4261_19, _:df_4261_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4261_22;
+    <http://xmlns.com/foaf/0.1/givenName> "Mara";
+    <http://xmlns.com/foaf/0.1/familyName> "Voce";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Voce, Mara";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4261_22 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1971"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4261_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00930"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4261_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001561"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001561/2021-12-31T17:19:57.048Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/voc.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/voc.ttl>.

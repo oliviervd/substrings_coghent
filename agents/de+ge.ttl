@@ -1,0 +1,47 @@
+<https://stad.gent/id/agent/670000662/2022-01-01T04:25:51.600Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000662>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:25:51.600Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1855_7, _:df_1855_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "jonkheer, heer van Tollenaere input['forename'][0] de Gellinck";
+    <http://xmlns.com/foaf/0.1/familyName> "de Gellinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Gellinck";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1855_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0645"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1855_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000662"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000662/2022-01-01T04:25:51.600Z>.
+<https://stad.gent/id/agent/670000663/2022-01-01T04:25:56.603Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000663>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:25:56.603Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1855_12, _:df_1855_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Thomas Loridon";
+    <http://xmlns.com/foaf/0.1/familyName> "de Gellinck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Gellinck, Thomas Loridon";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1855_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0646"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1855_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000663"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000663/2022-01-01T04:25:56.603Z>.
+<https://stad.gent/id/agent/670000664/2022-01-01T04:26:01.605Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000664>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:26:01.605Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1855_17, _:df_1855_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "de Geyter";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Geyter, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1855_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0647"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1855_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000664"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000664/2022-01-01T04:26:01.605Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/de+ge.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/de+ge.ttl>.

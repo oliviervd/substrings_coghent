@@ -1,0 +1,31 @@
+<https://stad.gent/id/agent/570029238/2022-01-01T02:50:17.194Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029238>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:50:17.194Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2440_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Caussemille jeune & Cie et Roche & Cie";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2440_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029238"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029238/2022-01-01T02:50:17.194Z>.
+<https://stad.gent/id/agent/530001854/2021-12-31T17:37:44.293Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001854>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:37:44.293Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4135_28, _:df_4135_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Vic";
+    <http://xmlns.com/foaf/0.1/familyName> "Cautereels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cautereels, Vic";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/>, <https://www.wikidata.org/entity/Q2392272>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4135_34;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4135_34 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4135_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01142"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4135_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001854"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001854/2021-12-31T17:37:44.293Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/cau.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/cau.ttl>.

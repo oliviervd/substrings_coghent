@@ -1,0 +1,317 @@
+<https://stad.gent/id/agent/670001419/2022-01-01T05:29:07.567Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001419>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:29:07.567Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1402_2, _:df_1402_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "Grijx";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grijx, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1402_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1402"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1402_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001419"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001419/2022-01-01T05:29:07.567Z>.
+<https://stad.gent/id/agent/670001420/2022-01-01T05:29:12.568Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001420>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:29:12.568Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1402_7, _:df_1402_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Remaculus Josephus";
+    <http://xmlns.com/foaf/0.1/familyName> "Grimieaux dit Beautier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grimieaux dit Beautier, Remaculus Josephus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1402_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1403"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1402_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001420"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001420/2022-01-01T05:29:12.568Z>.
+<https://stad.gent/id/agent/670001421/2022-01-01T05:29:17.569Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001421>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:29:17.569Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1402_15, _:df_1402_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Groenenbriel abdij";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Groenenbriel abdij";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1402_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1404"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1402_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001421"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001421/2022-01-01T05:29:17.569Z>.
+<https://stad.gent/id/agent/670001414/2022-01-01T05:28:42.559Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001414>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:28:42.559Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1405_2, _:df_1405_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francoyse";
+    <http://xmlns.com/foaf/0.1/familyName> "Grenier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grenier, Francoyse";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1405_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1397"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1405_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001414"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001414/2022-01-01T05:28:42.559Z>.
+<https://stad.gent/id/agent/670001415/2022-01-01T05:28:47.560Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001415>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:28:47.560Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1405_7, _:df_1405_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Grenier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grenier, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1405_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1398"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1405_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001415"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001415/2022-01-01T05:28:47.560Z>.
+<https://stad.gent/id/agent/670001416/2022-01-01T05:28:52.562Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001416>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:28:52.562Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1405_12, _:df_1405_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Adriaen";
+    <http://xmlns.com/foaf/0.1/familyName> "Grenier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grenier, Jan Adriaen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1405_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1399"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1405_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001416"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001416/2022-01-01T05:28:52.562Z>.
+<https://stad.gent/id/agent/670001417/2022-01-01T05:28:57.564Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001417>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:28:57.564Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1405_17, _:df_1405_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anthone";
+    <http://xmlns.com/foaf/0.1/familyName> "Grenier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grenier, Anthone";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1405_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1400"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1405_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001417"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001417/2022-01-01T05:28:57.564Z>.
+<https://stad.gent/id/agent/670001418/2022-01-01T05:29:02.565Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001418>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:29:02.565Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1405_22, _:df_1405_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter Anthone";
+    <http://xmlns.com/foaf/0.1/familyName> "Grijpdonck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grijpdonck, Pieter Anthone";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1405_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1401"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1405_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001418"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001418/2022-01-01T05:29:02.565Z>.
+<https://stad.gent/id/agent/670001409/2022-01-01T05:28:17.316Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001409>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:28:17.316Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1408_2, _:df_1408_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Bernaert?";
+    <http://xmlns.com/foaf/0.1/givenName> "Beernaert";
+    <http://xmlns.com/foaf/0.1/familyName> "Grenier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grenier, Beernaert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1408_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1392"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1408_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001409"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001409/2022-01-01T05:28:17.316Z>.
+<https://stad.gent/id/agent/670001410/2022-01-01T05:28:22.317Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001410>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:28:22.317Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1408_11, _:df_1408_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Grenier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grenier, Pieter Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1408_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1393"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1408_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001410"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001410/2022-01-01T05:28:22.317Z>.
+<https://stad.gent/id/agent/670001411/2022-01-01T05:28:27.319Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001411>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:28:27.319Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1408_16, _:df_1408_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Grenier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grenier, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1408_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1394"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1408_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001411"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001411/2022-01-01T05:28:27.319Z>.
+<https://stad.gent/id/agent/670001412/2022-01-01T05:28:32.321Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001412>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:28:32.321Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1408_26, _:df_1408_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joan Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Grenier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grenier, Joan Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1408_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1395"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1408_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001412"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001412/2022-01-01T05:28:32.321Z>.
+<https://stad.gent/id/agent/670001413/2022-01-01T05:28:37.557Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001413>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:28:37.557Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1408_34, _:df_1408_36;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Daniel";
+    <http://xmlns.com/foaf/0.1/familyName> "Grenier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grenier, Daniel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1408_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1396"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1408_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001413"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001413/2022-01-01T05:28:37.557Z>.
+<https://stad.gent/id/agent/670001405/2022-01-01T05:27:57.308Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001405>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:27:57.308Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1411_7, _:df_1411_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anthone";
+    <http://xmlns.com/foaf/0.1/familyName> "Granier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Granier, Anthone";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1411_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1388"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1411_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001405"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001405/2022-01-01T05:27:57.308Z>.
+<https://stad.gent/id/agent/670001406/2022-01-01T05:28:02.310Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001406>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:28:02.310Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1411_15, _:df_1411_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Paesschier";
+    <http://xmlns.com/foaf/0.1/familyName> "Granier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Granier, Paesschier";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1411_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1389"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1411_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001406"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001406/2022-01-01T05:28:02.310Z>.
+<https://stad.gent/id/agent/670001407/2022-01-01T05:28:07.312Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001407>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:28:07.312Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1411_23, _:df_1411_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joan Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "Grenier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grenier, Joan Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1411_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1390"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1411_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001407"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001407/2022-01-01T05:28:07.312Z>.
+<https://stad.gent/id/agent/670001408/2022-01-01T05:28:12.314Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001408>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:28:12.314Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1411_28, _:df_1411_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "pastoor van Lede input['forename'][0] Grenier";
+    <http://xmlns.com/foaf/0.1/familyName> "Grenier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grenier";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1411_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1391"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1411_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001408"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001408/2022-01-01T05:28:12.314Z>.
+<https://stad.gent/id/agent/570029985/2022-01-01T02:58:45.486Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029985>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:58:45.486Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2386_7;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grosse Webereimaschinen GmbH";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2386_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029985"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029985/2022-01-01T02:58:45.486Z>.
+<https://stad.gent/id/agent/570029639/2022-01-01T02:56:44.806Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029639>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:56:44.806Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2398_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grassin J. & Co";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2398_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029639"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029639/2022-01-01T02:56:44.806Z>.
+<https://stad.gent/id/agent/570028988/2022-01-01T02:46:35.879Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028988>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:46:35.879Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2461_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Grootaert Gaston & René";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2461_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028988"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028988/2022-01-01T02:46:35.879Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/gr.ttl> <https://w3id.org/tree#relation> _:df_1_1141.
+_:df_1_1141 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/gra.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "gra".
+<https://oliviervd.github.io/substrings_coghent/agents/gr.ttl> <https://w3id.org/tree#relation> _:df_1_1142.
+_:df_1_1142 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/gre.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "gre".
+<https://oliviervd.github.io/substrings_coghent/agents/gr.ttl> <https://w3id.org/tree#relation> _:df_1_1143.
+_:df_1_1143 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/gri.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "gri".
+<https://oliviervd.github.io/substrings_coghent/agents/gr.ttl> <https://w3id.org/tree#relation> _:df_1_1144.
+_:df_1_1144 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/gro.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "gro".
+<https://oliviervd.github.io/substrings_coghent/agents/gr.ttl> <https://w3id.org/tree#relation> _:df_1_1145.
+_:df_1_1145 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/gru.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "gru".
+<https://oliviervd.github.io/substrings_coghent/agents/gr.ttl> <https://w3id.org/tree#relation> _:df_1_1146.
+_:df_1_1146 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/grc.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "grc".
+<https://oliviervd.github.io/substrings_coghent/agents/gr.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/gr.ttl>.

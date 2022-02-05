@@ -1,0 +1,53 @@
+<https://stad.gent/id/agent/670000554/2022-01-01T04:16:47.280Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000554>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:16:47.280Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1921_20, _:df_1921_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "de Bisschop";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Bisschop, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1921_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0537"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1921_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000554"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000554/2022-01-01T04:16:47.280Z>.
+<https://stad.gent/id/agent/570032348/2022-01-01T03:25:24.083Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570032348>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:25:24.083Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2269_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Bijenkorf Stijfselfabriek nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2269_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570032348"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570032348/2022-01-01T03:25:24.083Z>.
+<https://stad.gent/id/agent/570020901/2022-01-01T02:00:01.939Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020901>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:00:01.939Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2761_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Bisschop";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2761_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020901"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020901/2022-01-01T02:00:01.939Z>.
+<https://stad.gent/id/agent/530000898/2021-12-31T16:39:40.814Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000898>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:39:40.814Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4549_26, _:df_4549_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joris";
+    <http://xmlns.com/foaf/0.1/familyName> "De Bisschop";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Bisschop, Joris";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/288919106>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4549_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00451"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4549_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000898"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000898/2021-12-31T16:39:40.814Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/de+bi.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/de+bi.ttl>.

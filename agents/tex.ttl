@@ -1,0 +1,74 @@
+<https://stad.gent/id/agent/570028951/2022-01-01T02:45:20.167Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028951>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:45:20.167Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2470_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2470_10;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_2470_12;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Texas nv";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570028966>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570028966> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Société industrielle du Texas SA"@nl.
+_:df_2470_12 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1957"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_2470_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1790"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+_:df_2470_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028951"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028951/2022-01-01T02:45:20.167Z>.
+<https://stad.gent/id/agent/530001178/2021-12-31T16:57:28.378Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001178>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:57:28.378Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4423_42, _:df_4423_44;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Texoprint";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4423_44 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00663"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4423_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001178"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001178/2021-12-31T16:57:28.378Z>.
+<https://stad.gent/id/agent/530001093/2021-12-31T16:52:51.420Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001093>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:52:51.420Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4456_33, _:df_4456_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4456_37;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Textieldrukkerij-Stoomweverij ‘De Nijverheid NV’";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4456_37 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007068>.
+<http://vocab.getty.edu/tgn/7007068> a <http://purl.org/dc/terms/Location>.
+_:df_4456_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00608"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4456_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001093"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001093/2021-12-31T16:52:51.420Z>.
+<https://stad.gent/id/agent/530001082/2021-12-31T16:52:06.068Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001082>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:52:06.068Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4459_2, _:df_4459_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Textilia S.A.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4459_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00599"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4459_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001082"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001082/2021-12-31T16:52:06.068Z>.
+<https://stad.gent/id/agent/470005477/2021-12-31T15:31:14.547Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470005477>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:31:14.547Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4876_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Textielmuseum";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3983824>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4876_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470005477"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470005477/2021-12-31T15:31:14.547Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/tex.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/tex.ttl>.

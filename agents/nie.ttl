@@ -1,0 +1,181 @@
+<https://stad.gent/id/agent/530013583/2021-12-31T18:17:40.844Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013583>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:17:40.844Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3973_16, _:df_3973_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "E.";
+    <http://xmlns.com/foaf/0.1/familyName> "Nieuwenhuizen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Nieuwenhuizen, E.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3973_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01410"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3973_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013583"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013583/2021-12-31T18:17:40.844Z>.
+<https://stad.gent/id/agent/530013426/2021-12-31T18:07:05.959Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013426>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:07:05.959Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4036_2, _:df_4036_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4036_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Niessing";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1989338>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4036_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1873"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005244>.
+<http://vocab.getty.edu/tgn/7005244> a <http://purl.org/dc/terms/Location>.
+_:df_4036_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01302"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4036_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013426"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013426/2021-12-31T18:07:05.959Z>.
+<https://stad.gent/id/agent/530001388/2021-12-31T17:08:52.823Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001388>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:08:52.823Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4339_2, _:df_4339_4;
+    <http://www.w3.org/2004/02/skos/core#note> "[http://www.capriolus.nl/nl/content/nienhuis-lambertus-bert-0]\r\n\r\nBert Nienhuis is geboren op 14 november 1873 te Groningen. Hij volgt de opleiding aan de Kunstnijverheidsschool te Amsterdam. Vanaf 1893 is hij plateelschilder en ontwerper bij een plateelbakkerij. In 1897 richt hij een eigen plateelbakkerij Lotus te Watergraafsmeer op. Wanneer dit bedrijf wordt overgenomen door plateelbakkerij De Distel te Amsterdam gaat hij mee. Hij is hier de ontwerper van strakke geometrische motieven. In 1905 is hij ook leraar aan de Kunstnijverheidsschool te Haarlem. Vanaf 1910 tot 1917 verblijft hij op uitnodiging van de industrieel en mecenas Karl Ernst Osthaus te Hagen (West Duitsland). Samen met Jan Thorn Prikker en J.L.M. Lauweriks is hij hier verbonden aan de kunstenaarskolonie. Bij terugkeer in 1917 vestigt hij zich in Amsterdam. Het atelier van Nienhuis ligt aan de Kloveniersburgwal 133 te Amsterdam. Hij wordt datzelfde jaar ook docent keramiek aan de Quellinus-school te Amsterdam. Hier heeft hij veel voornamelijk vrouwelijke leerlingen opgeleid, w.o. Thera Hofstede Crull, Sophie Verrijn Stuart en Lucie Q. Bakker. Bert Nienhuis heeft zich in zijn lange carriere ontwikkeld van ontwerper sieraardewerk tot keramist pur sang met accent op vorm en glazuur. Een dergelijke ontwikkeling zien wij ook terug bij Chris Lanooij. Bert Nienhuis heeft tot op hoge leeftijd doorgewerkt. Na diens dood nemen Johnny Rolf en Jan de Rooden zijn atelier met de hoge lichte ruimten over. Bert Nienhuis overlijdt te Amsterdam op 25 mei 1960.\r\n\r\nBibliografie:\r\nHoutzager, Dr. M. Elisabeth, Nederlandse Ceramiek 1945-1970, Centraal Museum.\r\nMedelingenblad 1, uitgave Vrienden van de Nederlandse Ceramiek, 1953.\r\nBestandscatalogus Nederlandse na-oorloge keramiek, RBK 1995.\r\nBulletin Museum Boymans-van Beuningen, deel XVII, no. 2-3, Rotterdam 1966.\r\nJ.J.Heij, Vernieuwing en bezinning. Nederlandse - beeldende kunst en kunstnijverheid ca.1885-1935 uit de collectie van het Drents Museum,[ Drents Museum, Assen],Zwolle 2004,p.171-172.\r\nF. Leidelmeijer en D. van der Cingel, Art Nouveau en Art Deco in Nederland: verzamelobjecten uit de vernieuwingen in de kunstnijverheid van 1880-1940, Amsterdam 1983, p. 78-80.\r\nP. W. Schipper e.a., Klokken, zilver, sieraden uit de Nederlandse Art Nouveau en Art Deco 1900/1930, (Nederlands Goud-, Zilver-, en Klokkenmuseum Utrecht), Utrecht 1976, p. 20.\r\nH. Vogels, Van decor naar design: kunstenaars in de Goudse aardewerkindustrie 1898-1940, Zwolle 2001, p. 112.\r\n5 Hedendaagse Pottenbakkers, catalogus Museum Boymans, Rotterdam, 1953.\r\nSingelenberg-Van der Meer, M., Nederlandse keramiek- en glasmerken 1880-1940, 2001.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4339_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4339_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Bert Lambertus";
+    <http://xmlns.com/foaf/0.1/familyName> "Nienhuis";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Nienhuis, Bert Lambertus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500105191>, <https://www.wikidata.org/entity/Q2748838>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4339_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4339_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_4339_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1960-05-26"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003613>.
+<http://vocab.getty.edu/tgn/7003613> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4339_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1873-11-14"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003613>.
+_:df_4339_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00799"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4339_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001388"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001388/2021-12-31T17:08:52.823Z>.
+<https://stad.gent/id/agent/530001293/2021-12-31T17:03:55.734Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001293>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:03:55.734Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4375_6, _:df_4375_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "T.";
+    <http://xmlns.com/foaf/0.1/familyName> "Nieuwenhuis";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Nieuwenhuis, T.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4375_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00740"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4375_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001293"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001293/2021-12-31T17:03:55.734Z>.
+<https://stad.gent/id/agent/530001175/2021-12-31T16:57:23.376Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001175>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:57:23.376Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4423_30, _:df_4423_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4423_34;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4423_36;
+    <http://xmlns.com/foaf/0.1/givenName> "Niels";
+    <http://xmlns.com/foaf/0.1/familyName> "Nielsen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Nielsen, Niels";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500358471>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4423_40;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4423_40 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Deens"@nl.
+_:df_4423_36 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1921-09-16"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003476>.
+<http://vocab.getty.edu/tgn/7003476> a <http://purl.org/dc/terms/Location>.
+_:df_4423_34 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1872-02-13"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1027808>.
+<http://vocab.getty.edu/tgn/1027808> a <http://purl.org/dc/terms/Location>.
+_:df_4423_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00662"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4423_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001175"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001175/2021-12-31T16:57:23.376Z>.
+<https://stad.gent/id/agent/530001002/2021-12-31T16:46:28.786Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:46:28.786Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4501_33, _:df_4501_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4501_36;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4501_37;
+    <http://xmlns.com/foaf/0.1/givenName> "Erik";
+    <http://xmlns.com/foaf/0.1/familyName> "Nielsen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Nielsen, Erik";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4501_37 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1947"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4501_36 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1857"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4501_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00532"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4501_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001002"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001002/2021-12-31T16:46:28.786Z>.
+<https://stad.gent/id/agent/530000996/2021-12-31T16:46:03.431Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000996>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:46:03.431Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4504_30, _:df_4504_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4504_34;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4504_36;
+    <http://xmlns.com/foaf/0.1/givenName> "Kai";
+    <http://xmlns.com/foaf/0.1/familyName> "Nielsen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Nielsen, Kai";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3543184>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4504_40;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4504_40 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Deens"@nl.
+_:df_4504_36 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1924-11-02"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003474>.
+<http://vocab.getty.edu/tgn/7003474> a <http://purl.org/dc/terms/Location>.
+_:df_4504_34 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1882-11-26"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003417>.
+<http://vocab.getty.edu/tgn/7003417> a <http://purl.org/dc/terms/Location>.
+_:df_4504_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00527"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4504_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000996"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000996/2021-12-31T16:46:03.431Z>.
+<https://stad.gent/id/agent/530000688/2021-12-31T16:26:56.090Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000688>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:26:56.090Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4639_2, _:df_4639_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4639_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4639_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Evald";
+    <http://xmlns.com/foaf/0.1/familyName> "Nielsen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Nielsen, Evald";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q5415253>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4639_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4639_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Deens"@nl.
+_:df_4639_6 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1958-05-12"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4639_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1879-06-05"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4639_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00299"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4639_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000688"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000688/2021-12-31T16:26:56.090Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/nie.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/nie.ttl>.

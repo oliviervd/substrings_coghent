@@ -1,0 +1,112 @@
+<https://stad.gent/id/agent/670002412/2022-01-01T06:51:42.618Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002412>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:51:42.618Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_811_2, _:df_811_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Vaentkins";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vaentkins, Jan weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_811_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2395"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_811_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002412"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002412/2022-01-01T06:51:42.618Z>.
+<https://stad.gent/id/agent/670002413/2022-01-01T06:51:47.619Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002413>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:51:47.619Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_811_7, _:df_811_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joseph weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Vaernewijck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vaernewijck, Joseph weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_811_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2396"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_811_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002413"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002413/2022-01-01T06:51:47.619Z>.
+<https://stad.gent/id/agent/670002414/2022-01-01T06:51:52.620Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002414>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:51:52.620Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_811_12, _:df_811_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Vaernewijck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vaernewijck, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_811_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2397"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_811_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002414"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002414/2022-01-01T06:51:52.620Z>.
+<https://stad.gent/id/agent/670002415/2022-01-01T06:51:57.621Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002415>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:51:57.621Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_811_20, _:df_811_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "Vaerseel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vaerseel, Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_811_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2398"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_811_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002415"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002415/2022-01-01T06:51:57.621Z>.
+<https://stad.gent/id/agent/670002411/2022-01-01T06:51:37.617Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002411>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:51:37.617Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_814_25, _:df_814_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans Joseph";
+    <http://xmlns.com/foaf/0.1/familyName> "Vaentkens";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vaentkens, Frans Joseph";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_814_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2394"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_814_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002411"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002411/2022-01-01T06:51:37.617Z>.
+<https://stad.gent/id/agent/530021403/2021-12-31T20:21:40.200Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021403>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:21:40.200Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3451_25, _:df_3451_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3451_28;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3451_29;
+    <http://xmlns.com/foaf/0.1/givenName> "Rosa";
+    <http://xmlns.com/foaf/0.1/familyName> "Vaerwyck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vaerwyck, Rosa";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3451_32;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3451_32 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3451_29 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1966"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3451_28 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1887"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3451_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02273"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3451_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021403"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021403/2021-12-31T20:21:40.200Z>.
+<https://stad.gent/id/agent/470006608/2021-12-31T15:32:09.836Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470006608>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:32:09.836Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4870_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vaerwyck, Valentin";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2359127>, <http://vocab.getty.edu/page/ulan/500246924>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4870_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470006608"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470006608/2021-12-31T15:32:09.836Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/vae.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/vae.ttl>.

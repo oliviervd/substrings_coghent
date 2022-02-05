@@ -1,0 +1,84 @@
+<https://stad.gent/id/agent/670003159/2022-01-01T07:53:55.118Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003159>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:53:55.118Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_367_15, _:df_367_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gillis";
+    <http://xmlns.com/foaf/0.1/familyName> "Wijchnijs";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wijchnijs, Gillis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_367_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3142"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_367_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003159"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003159/2022-01-01T07:53:55.118Z>.
+<https://stad.gent/id/agent/670003160/2022-01-01T07:54:00.120Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003160>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:54:00.120Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_367_23, _:df_367_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Wijmers";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wijmers, Livinus weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_367_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3143"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_367_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003160"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003160/2022-01-01T07:54:00.120Z>.
+<https://stad.gent/id/agent/670003161/2022-01-01T07:54:05.122Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003161>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:54:05.122Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_367_28, _:df_367_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gillis";
+    <http://xmlns.com/foaf/0.1/familyName> "Wijngaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wijngaert, Gillis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_367_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3144"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_367_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003161"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003161/2022-01-01T07:54:05.122Z>.
+<https://stad.gent/id/agent/530023636/2021-12-31T21:39:52.065Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023636>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:39:52.065Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3010_21, _:df_3010_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Ingrid";
+    <http://xmlns.com/foaf/0.1/familyName> "Wijnen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wijnen, Ingrid";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3010_29;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3010_29 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3010_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03006"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3010_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023636"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023636/2021-12-31T21:39:52.065Z>.
+<https://stad.gent/id/agent/530021608/2021-12-31T20:27:52.443Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021608>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:27:52.443Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3412_28, _:df_3412_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Nadine";
+    <http://xmlns.com/foaf/0.1/familyName> "Wijnants";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Wijnants, Nadine";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/102214>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3412_34;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3412_34 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3412_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02338"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3412_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021608"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021608/2021-12-31T20:27:52.443Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/wij.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/wij.ttl>.

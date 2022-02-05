@@ -1,0 +1,26 @@
+<https://stad.gent/id/agent/570028252/2022-01-01T02:27:38.466Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028252>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:27:38.466Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2578_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cogebi";
+    <http://www.w3.org/2004/02/skos/core#related> <https://stad.gent/id/concept/570028152>;
+    a <http://purl.org/dc/terms/Agent>.
+<https://stad.gent/id/concept/570028152> <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Compagnie Génerale Belge Des Isolants (Cogebi)"@nl.
+_:df_2578_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028252"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028252/2022-01-01T02:27:38.466Z>.
+<https://stad.gent/id/agent/530023030/2021-12-31T20:59:55.156Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023030>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:59:55.156Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3226_25, _:df_3226_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Cogebi";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3226_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02648"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3226_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023030"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023030/2021-12-31T20:59:55.156Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/cog.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/cog.ttl>.

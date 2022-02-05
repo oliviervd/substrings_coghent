@@ -1,0 +1,157 @@
+<https://stad.gent/id/agent/670000215/2022-01-01T03:48:20.615Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000215>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:48:20.615Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2122_2, _:df_2122_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Boone";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Boone, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2122_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0198"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2122_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000215"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000215/2022-01-01T03:48:20.615Z>.
+<https://stad.gent/id/agent/670000216/2022-01-01T03:48:25.617Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000216>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:48:25.617Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2122_7, _:df_2122_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Boone";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Boone, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2122_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0199"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2122_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000216"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000216/2022-01-01T03:48:25.617Z>.
+<https://stad.gent/id/agent/670000217/2022-01-01T03:48:30.618Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000217>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:48:30.618Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2122_15, _:df_2122_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Arnoldus";
+    <http://xmlns.com/foaf/0.1/familyName> "Bootte";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bootte, Arnoldus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2122_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0200"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2122_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000217"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000217/2022-01-01T03:48:30.618Z>.
+<https://stad.gent/id/agent/670000213/2022-01-01T03:48:10.613Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000213>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:48:10.613Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2125_20, _:df_2125_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francois";
+    <http://xmlns.com/foaf/0.1/familyName> "Boone";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Boone, Francois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2125_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0196"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2125_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000213"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000213/2022-01-01T03:48:10.613Z>.
+<https://stad.gent/id/agent/670000214/2022-01-01T03:48:15.613Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000214>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:48:15.613Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2125_25, _:df_2125_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Marcus";
+    <http://xmlns.com/foaf/0.1/familyName> "Boone";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Boone, Marcus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2125_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0197"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2125_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000214"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000214/2022-01-01T03:48:15.613Z>.
+<https://stad.gent/id/agent/570020916/2022-01-01T02:00:22.335Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020916>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:00:22.335Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2758_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Boos & Hahn";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2758_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020916"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020916/2022-01-01T02:00:22.335Z>.
+<https://stad.gent/id/agent/530016829/2021-12-31T18:52:44.756Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016829>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:52:44.756Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3796_28, _:df_3796_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3796_32;
+    <http://xmlns.com/foaf/0.1/givenName> "Tord";
+    <http://xmlns.com/foaf/0.1/familyName> "Boontje";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Boontje, Tord";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500279689>, <https://www.wikidata.org/entity/Q1432402>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3796_36;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3796_36 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_3796_32 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1968-10-03"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007068>.
+<http://vocab.getty.edu/tgn/7007068> a <http://purl.org/dc/terms/Location>.
+_:df_3796_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01706"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3796_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016829"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016829/2021-12-31T18:52:44.756Z>.
+<https://stad.gent/id/agent/530013489/2021-12-31T18:11:13.132Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013489>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:11:13.132Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4012_12, _:df_4012_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bram";
+    <http://xmlns.com/foaf/0.1/familyName> "Boo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Boo, Bram";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q97962508>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4012_18;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4012_18 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4012_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01343"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4012_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013489"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013489/2021-12-31T18:11:13.132Z>.
+<https://stad.gent/id/agent/530000673/2021-12-31T16:25:40.738Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000673>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:25:40.738Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4648_2, _:df_4648_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4648_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4648_7;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Boon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Boon, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500111403>, <https://www.wikidata.org/entity/Q1890202>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4648_11;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4648_11 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_4648_7 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1975-04-07"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006810>.
+<http://vocab.getty.edu/tgn/7006810> a <http://purl.org/dc/terms/Location>.
+_:df_4648_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1882-12-02"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4648_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00284"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4648_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000673"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000673/2021-12-31T16:25:40.738Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/boo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/boo.ttl>.

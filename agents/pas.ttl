@@ -1,0 +1,30 @@
+<https://stad.gent/id/agent/570022668/2022-01-01T02:08:05.000Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570022668>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:08:05.000Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2704_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pascal René";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2704_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570022668"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570022668/2022-01-01T02:08:05.000Z>.
+<https://stad.gent/id/agent/530019626/2021-12-31T19:30:09.773Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019626>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:30:09.773Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3706_11, _:df_3706_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3706_15;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Pastoe";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500277665>, <https://www.wikidata.org/entity/Q2180083>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3706_15 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1913-04-13"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006926>.
+<http://vocab.getty.edu/tgn/7006926> a <http://purl.org/dc/terms/Location>.
+_:df_3706_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01850"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3706_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019626"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019626/2021-12-31T19:30:09.773Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/pas.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/pas.ttl>.

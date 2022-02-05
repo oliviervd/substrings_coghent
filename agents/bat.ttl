@@ -1,0 +1,140 @@
+<https://stad.gent/id/agent/670000097/2022-01-01T03:38:25.885Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000097>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:38:25.885Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2194_15, _:df_2194_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "G.";
+    <http://xmlns.com/foaf/0.1/familyName> "Bataille";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bataille, G.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2194_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0080"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2194_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000097"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000097/2022-01-01T03:38:25.885Z>.
+<https://stad.gent/id/agent/570020536/2022-01-01T01:59:41.931Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020536>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:59:41.931Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2761_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bataille en zoon";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2761_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020536"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020536/2022-01-01T01:59:41.931Z>.
+<https://stad.gent/id/agent/570020533/2022-01-01T01:59:36.929Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570020533>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:59:36.929Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2764_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bataille-Goebeert";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2764_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570020533"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570020533/2022-01-01T01:59:36.929Z>.
+<https://stad.gent/id/agent/530023094/2021-12-31T21:03:26.875Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023094>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:03:26.875Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3208_13, _:df_3208_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3208_16;
+    <http://xmlns.com/foaf/0.1/givenName> "Richard";
+    <http://xmlns.com/foaf/0.1/familyName> "Batterham";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Batterham, Richard";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500102191>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3208_20;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3208_20 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Brits"@nl.
+_:df_3208_16 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1936"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3208_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02677"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3208_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023094"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023094/2021-12-31T21:03:26.875Z>.
+<https://stad.gent/id/agent/530016868/2021-12-31T18:55:10.757Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016868>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:55:10.757Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3778_12, _:df_3778_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3778_16;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3778_17;
+    <http://xmlns.com/foaf/0.1/givenName> "Helmut";
+    <http://xmlns.com/foaf/0.1/familyName> "Bätzner";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bätzner, Helmut";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1541333>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3778_21;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3778_21 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_3778_17 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2010-01-21"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3778_16 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1928-01-02"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1040391>.
+<http://vocab.getty.edu/tgn/1040391> a <http://purl.org/dc/terms/Location>.
+_:df_3778_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01734"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3778_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016868"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016868/2021-12-31T18:55:10.757Z>.
+<https://stad.gent/id/agent/530013290/2021-12-31T17:59:33.014Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013290>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:59:33.014Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4084_2, _:df_4084_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4084_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Claire";
+    <http://xmlns.com/foaf/0.1/familyName> "Bataille";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bataille, Claire";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500081537>, <https://www.wikidata.org/entity/Q1984323>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4084_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4084_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4084_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1940-04-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007856>.
+<http://vocab.getty.edu/tgn/7007856> a <http://purl.org/dc/terms/Location>.
+_:df_4084_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01224"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4084_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013290"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013290/2021-12-31T17:59:33.014Z>.
+<https://stad.gent/id/agent/530001785/2021-12-31T17:33:12.358Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001785>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:33:12.358Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4165_2, _:df_4165_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4165_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bataille en Ibens";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500262561>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4165_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007856>.
+<http://vocab.getty.edu/tgn/7007856> a <http://purl.org/dc/terms/Location>.
+_:df_4165_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01088"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4165_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001785"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001785/2021-12-31T17:33:12.358Z>.
+<https://stad.gent/id/agent/530000919/2021-12-31T16:41:01.457Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000919>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:41:01.457Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4540_27, _:df_4540_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "B.";
+    <http://xmlns.com/foaf/0.1/familyName> "Battioli";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Battioli, B.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4540_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00467"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4540_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000919"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000919/2021-12-31T16:41:01.457Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/bat.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/bat.ttl>.

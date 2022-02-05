@@ -1,0 +1,31 @@
+<https://stad.gent/id/agent/530001045/2021-12-31T16:49:30.093Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001045>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:49:30.093Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4480_28, _:df_4480_30;
+    <http://www.w3.org/2004/02/skos/core#note> "[http://digital.belvedere.at/emuseum/view/people/asitem/search$0040/0?t:state:flow=e6a638cf-6fdd-4e7e-bcba-886b7560692d]\r\nBildhauer, Kunstgewerbler und Medailleur. Besuchte die Akademie der bildenden Künste in Wien und die Hochschule für bildende Künste in Berlin. Nach zweijähriger Tätigkeit 1893/94 im Atelier E. v. Hellmers in Wien lebte er 1894–1906 in Paris, wo er im Salon der Société Nationale mit Portraitbüsten, Medaillen und kleineren kunstgewerblichen Arbeiten vertreten war. 1906–14 hielt sich Korschann in Berlin und Frankfurt, 1914–19 in Krakau auf. Ab 1919 war er Dozent an der Brünner Technischen Hochschule.\r\nuit: Pappernigg, Michaela (Bearb.)/ Reiter, Cornelia (Bearb.)/ Kahler, Thomas (Bearb.): Kunst des 20. Jahrhunderts. Bestandskatalog der Österreichischen Galerie des 20. Jahrhunderts, Bd. 2: G–K, hrsg. v. d. Österreichischen Galerie Belvedere, Wien 1995, S. 258]";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4480_32;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4480_34;
+    <http://xmlns.com/foaf/0.1/givenName> "Karl";
+    <http://xmlns.com/foaf/0.1/familyName> "Korschann";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Korschann, Karl";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q1170283>, <https://rkd.nl/explore/artists/438398>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4480_38;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4480_38 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Duits"@nl.
+_:df_4480_34 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1943-03-09"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7011840>.
+<http://vocab.getty.edu/tgn/7011840> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4480_32 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1872-07-23"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7011840>.
+_:df_4480_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00568"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4480_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001045"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001045/2021-12-31T16:49:30.093Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/kor.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/kor.ttl>.

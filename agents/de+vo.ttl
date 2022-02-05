@@ -1,0 +1,131 @@
+<https://stad.gent/id/agent/670001010/2022-01-01T04:55:04.942Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001010>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:55:04.942Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1648_29, _:df_1648_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Cornelis";
+    <http://xmlns.com/foaf/0.1/familyName> "de Vos";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Vos, Cornelis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1648_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0993"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1648_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001010"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001010/2022-01-01T04:55:04.942Z>.
+<https://stad.gent/id/agent/670001001/2022-01-01T04:54:19.674Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001001>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:54:19.674Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1651_2, _:df_1651_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gabriel";
+    <http://xmlns.com/foaf/0.1/familyName> "de Voghele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Voghele, Gabriel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1651_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0984"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1651_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001001"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001001/2022-01-01T04:54:19.674Z>.
+<https://stad.gent/id/agent/670001002/2022-01-01T04:54:24.676Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001002>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:54:24.676Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1651_7, _:df_1651_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "François";
+    <http://xmlns.com/foaf/0.1/familyName> "de Volder";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Volder, François";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1651_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0985"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1651_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001002"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001002/2022-01-01T04:54:24.676Z>.
+<https://stad.gent/id/agent/670001003/2022-01-01T04:54:29.677Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001003>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:54:29.677Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1651_15, _:df_1651_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jaecques";
+    <http://xmlns.com/foaf/0.1/familyName> "de Volder";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Volder, Jaecques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1651_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0986"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1651_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001003"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001003/2022-01-01T04:54:29.677Z>.
+<https://stad.gent/id/agent/670001004/2022-01-01T04:54:34.680Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001004>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:54:34.680Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1651_23, _:df_1651_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Volder";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Volder, Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1651_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0987"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1651_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001004"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001004/2022-01-01T04:54:34.680Z>.
+<https://stad.gent/id/agent/670001005/2022-01-01T04:54:39.681Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001005>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:54:39.681Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1651_31, _:df_1651_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "de Volder";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Volder, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1651_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0988"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1651_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001005"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001005/2022-01-01T04:54:39.681Z>.
+<https://stad.gent/id/agent/670001000/2022-01-01T04:54:14.673Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001000>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:54:14.673Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1654_25, _:df_1654_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "de Voghele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Voghele, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1654_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0983"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1654_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001000"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001000/2022-01-01T04:54:14.673Z>.
+<https://stad.gent/id/agent/570014237/2022-01-01T01:45:21.345Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570014237>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:45:21.345Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2860_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Vogelaere, Achille";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2860_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014237"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570014237/2022-01-01T01:45:21.345Z>.
+<https://stad.gent/id/agent/530023216/2021-12-31T21:11:00.676Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023216>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:11:00.676Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3169_2, _:df_3169_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "M.";
+    <http://xmlns.com/foaf/0.1/familyName> "de Vocht";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Vocht, M.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3169_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02740"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3169_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023216"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023216/2021-12-31T21:11:00.676Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/de+vo.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/de+vo.ttl>.

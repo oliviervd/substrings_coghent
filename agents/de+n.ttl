@@ -1,0 +1,238 @@
+<https://stad.gent/id/agent/670000831/2022-01-01T04:40:02.874Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000831>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:40:02.874Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1753_2, _:df_1753_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "de Nockere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Nockere, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1753_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0814"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1753_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000831"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000831/2022-01-01T04:40:02.874Z>.
+<https://stad.gent/id/agent/670000826/2022-01-01T04:39:37.504Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000826>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:39:37.504Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1756_2, _:df_1756_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "burggraaf, heer van Poeke burggraaf de Nieuwpoort", "de heere de Nieuwpoort, burggraaf, heer van Poeke";
+    <http://xmlns.com/foaf/0.1/givenName> "burggraaf";
+    <http://xmlns.com/foaf/0.1/familyName> "de Nieuwpoort";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Nieuwpoort, burggraaf";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1756_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0809"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1756_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000826"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000826/2022-01-01T04:39:37.504Z>.
+<https://stad.gent/id/agent/670000827/2022-01-01T04:39:42.507Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000827>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:39:42.507Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1756_8, _:df_1756_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Philippe Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Nobele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Nobele, Philippe Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1756_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0810"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1756_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000827"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000827/2022-01-01T04:39:42.507Z>.
+<https://stad.gent/id/agent/670000828/2022-01-01T04:39:47.509Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000828>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:39:47.509Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1756_16, _:df_1756_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Nocker";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Nocker, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1756_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0811"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1756_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000828"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000828/2022-01-01T04:39:47.509Z>.
+<https://stad.gent/id/agent/670000829/2022-01-01T04:39:52.511Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000829>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:39:52.511Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1756_24, _:df_1756_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Alexander";
+    <http://xmlns.com/foaf/0.1/familyName> "de Nocker";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Nocker, Alexander";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1756_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0812"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1756_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000829"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000829/2022-01-01T04:39:52.511Z>.
+<https://stad.gent/id/agent/670000830/2022-01-01T04:39:57.872Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000830>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:39:57.872Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1756_29, _:df_1756_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "de Nockere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Nockere, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1756_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0813"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1756_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000830"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000830/2022-01-01T04:39:57.872Z>.
+<https://stad.gent/id/agent/670000821/2022-01-01T04:39:12.492Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000821>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:39:12.492Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1759_2, _:df_1759_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "J.";
+    <http://xmlns.com/foaf/0.1/familyName> "de Naijer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Naijer, J.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1759_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0804"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1759_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000821"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000821/2022-01-01T04:39:12.492Z>.
+<https://stad.gent/id/agent/670000822/2022-01-01T04:39:17.495Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000822>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:39:17.495Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1759_7, _:df_1759_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joseph Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "de Nayer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Nayer, Joseph Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1759_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0805"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1759_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000822"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000822/2022-01-01T04:39:17.495Z>.
+<https://stad.gent/id/agent/670000823/2022-01-01T04:39:22.496Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000823>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:39:22.496Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1759_15, _:df_1759_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Marie";
+    <http://xmlns.com/foaf/0.1/familyName> "de Nayer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Nayer, Marie";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1759_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0806"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1759_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000823"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000823/2022-01-01T04:39:22.496Z>.
+<https://stad.gent/id/agent/670000824/2022-01-01T04:39:27.499Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000824>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:39:27.499Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1759_20, _:df_1759_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "de Nayere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Nayere, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1759_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0807"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1759_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000824"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000824/2022-01-01T04:39:27.499Z>.
+<https://stad.gent/id/agent/670000825/2022-01-01T04:39:32.501Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000825>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:39:32.501Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1759_28, _:df_1759_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "de Nevel", "baron baron de Nevele", "den heere de Nevele, baron";
+    <http://xmlns.com/foaf/0.1/givenName> "baron";
+    <http://xmlns.com/foaf/0.1/familyName> "de Nevele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Nevele, baron";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1759_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0808"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1759_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000825"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000825/2022-01-01T04:39:32.501Z>.
+<https://stad.gent/id/agent/670000817/2022-01-01T04:38:52.135Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000817>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:38:52.135Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1762_10, _:df_1762_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joseph Francois weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "de Naeyer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Naeyer, Joseph Francois weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1762_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0800"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1762_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000817"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000817/2022-01-01T04:38:52.135Z>.
+<https://stad.gent/id/agent/670000818/2022-01-01T04:38:57.138Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000818>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:38:57.138Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1762_15, _:df_1762_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francois";
+    <http://xmlns.com/foaf/0.1/familyName> "de Naeyer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Naeyer, Francois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1762_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0801"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1762_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000818"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000818/2022-01-01T04:38:57.138Z>.
+<https://stad.gent/id/agent/670000819/2022-01-01T04:39:02.139Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000819>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:39:02.139Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1762_23, _:df_1762_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "de Naeyere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Naeyere";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1762_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0802"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1762_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000819"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000819/2022-01-01T04:39:02.139Z>.
+<https://stad.gent/id/agent/670000820/2022-01-01T04:39:07.489Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000820>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:39:07.489Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1762_30, _:df_1762_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "B.J.";
+    <http://xmlns.com/foaf/0.1/familyName> "de Naijer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Naijer, B.J.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1762_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0803"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1762_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000820"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000820/2022-01-01T04:39:07.489Z>.
+<https://stad.gent/id/agent/570004954/2022-01-01T01:42:34.910Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570004954>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:42:34.910Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2878_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "De Nederlandsche Boekhandel";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q42269558>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2878_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570004954"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570004954/2022-01-01T01:42:34.910Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/de+n.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/de+n.ttl>.

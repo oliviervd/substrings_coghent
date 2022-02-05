@@ -1,0 +1,189 @@
+<https://stad.gent/id/agent/530020750/2021-12-31T20:04:13.012Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020750>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:04:13.012Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3535_2, _:df_3535_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Brown Bros";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3535_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02131"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3535_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020750"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020750/2021-12-31T20:04:13.012Z>.
+<https://stad.gent/id/agent/530020649/2021-12-31T19:58:00.662Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020649>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:58:00.662Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3574_27, _:df_3574_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3574_31;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Brown-Westhead, Moore & Co";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500330141>, <https://www.wikidata.org/entity/Q16847575>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3574_31 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1856"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7011049>.
+<http://vocab.getty.edu/tgn/7011049> a <http://purl.org/dc/terms/Location>.
+_:df_3574_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02070"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3574_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020649"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020649/2021-12-31T19:58:00.662Z>.
+<https://stad.gent/id/agent/530020091/2021-12-31T19:44:35.483Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020091>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:44:35.483Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3643_29, _:df_3643_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Browning";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3643_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01956"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3643_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020091"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020091/2021-12-31T19:44:35.483Z>.
+<https://stad.gent/id/agent/530016918/2021-12-31T18:58:22.063Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016918>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:58:22.063Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3760_32, _:df_3760_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3760_36;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Brother";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q990804>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3760_36 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1908"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004736>.
+<http://vocab.getty.edu/tgn/7004736> a <http://purl.org/dc/terms/Location>.
+_:df_3760_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01765"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3760_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016918"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016918/2021-12-31T18:58:22.063Z>.
+<https://stad.gent/id/agent/530013727/2021-12-31T18:26:14.241Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013727>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:26:14.241Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3922_23, _:df_3922_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bromley Hall (manufactuur)";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3922_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01495"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3922_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013727"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013727/2021-12-31T18:26:14.241Z>.
+<https://stad.gent/id/agent/530001795/2021-12-31T17:33:57.680Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001795>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:33:57.680Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4162_22, _:df_4162_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4162_25;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4162_26;
+    <http://xmlns.com/foaf/0.1/givenName> "Marisa";
+    <http://xmlns.com/foaf/0.1/familyName> "Bronzini";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bronzini, Marisa";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4162_29;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4162_29 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_4162_26 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2007"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4162_25 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1920"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4162_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01097"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4162_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001795"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001795/2021-12-31T17:33:57.680Z>.
+<https://stad.gent/id/agent/530001328/2021-12-31T17:06:01.798Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001328>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:06:01.798Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4360_11, _:df_4360_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4360_15;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4360_16;
+    <http://xmlns.com/foaf/0.1/givenName> "Willem Coenraad";
+    <http://xmlns.com/foaf/0.1/familyName> "Brouwer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Brouwer, Willem Coenraad";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500045645>, <https://www.wikidata.org/entity/Q2228769>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4360_20;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4360_20 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_4360_16 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1933-05-23"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4360_15 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1877-10-19"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006809>.
+<http://vocab.getty.edu/tgn/7006809> a <http://purl.org/dc/terms/Location>.
+_:df_4360_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00765"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4360_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001328"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001328/2021-12-31T17:06:01.798Z>.
+<https://stad.gent/id/agent/530001088/2021-12-31T16:52:31.413Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001088>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:52:31.413Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4456_2, _:df_4456_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4456_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Barbara";
+    <http://xmlns.com/foaf/0.1/familyName> "Brown";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Brown, Barbara";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500475136>, <https://www.wikidata.org/entity/Q77353352>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4456_10;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4456_10 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Brits"@nl.
+_:df_4456_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1932"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7010477>.
+<http://vocab.getty.edu/tgn/7010477> a <http://purl.org/dc/terms/Location>.
+_:df_4456_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00604"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4456_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001088"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001088/2021-12-31T16:52:31.413Z>.
+<https://stad.gent/id/agent/530000670/2021-12-31T16:25:30.732Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000670>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:25:30.732Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4651_17, _:df_4651_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "V.";
+    <http://xmlns.com/foaf/0.1/familyName> "Brouwer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Brouwer, V.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4651_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00282"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4651_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000670"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000670/2021-12-31T16:25:30.732Z>.
+<https://stad.gent/id/agent/530000402/2021-12-31T16:05:57.262Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000402>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:05:57.262Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4771_21, _:df_4771_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4771_25;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4771_26;
+    <http://xmlns.com/foaf/0.1/givenName> "Gegia";
+    <http://xmlns.com/foaf/0.1/familyName> "Bronzini";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Bronzini, Gegia";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4771_29;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4771_29 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_4771_26 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1976"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4771_25 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1936"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7003006>.
+<http://vocab.getty.edu/tgn/7003006> a <http://purl.org/dc/terms/Location>.
+_:df_4771_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00082"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4771_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000402"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000402/2021-12-31T16:05:57.262Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/bro.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/bro.ttl>.

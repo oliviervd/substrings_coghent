@@ -1,0 +1,175 @@
+<https://stad.gent/id/agent/670002739/2022-01-01T07:18:57.515Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002739>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:18:57.515Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_616_2, _:df_616_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "van Nuffel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Nuffel, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_616_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2722"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_616_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002739"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002739/2022-01-01T07:18:57.515Z>.
+<https://stad.gent/id/agent/670002736/2022-01-01T07:18:42.509Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002736>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:18:42.509Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_619_15, _:df_619_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Catharine Therese";
+    <http://xmlns.com/foaf/0.1/familyName> "van Neste";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Neste, Catharine Therese";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_619_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2719"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_619_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002736"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002736/2022-01-01T07:18:42.509Z>.
+<https://stad.gent/id/agent/670002737/2022-01-01T07:18:47.511Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002737>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:18:47.511Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_619_20, _:df_619_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joanne";
+    <http://xmlns.com/foaf/0.1/familyName> "van Nieuwelande";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Nieuwelande, Joanne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_619_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2720"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_619_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002737"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002737/2022-01-01T07:18:47.511Z>.
+<https://stad.gent/id/agent/670002738/2022-01-01T07:18:52.513Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002738>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:18:52.513Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_619_25, _:df_619_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "van Noordgaete";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Noordgaete, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_619_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2721"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_619_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002738"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002738/2022-01-01T07:18:52.513Z>.
+<https://stad.gent/id/agent/530024194/2021-12-31T22:05:36.712Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024194>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T22:05:36.712Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2929_42, _:df_2929_44;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2929_46;
+    <http://xmlns.com/foaf/0.1/givenName> "Brit";
+    <http://xmlns.com/foaf/0.1/familyName> "van Nerven";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Nerven, Brit";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q98073510>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2929_50;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2929_50 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_2929_46 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1984-07-13"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006850>.
+<http://vocab.getty.edu/tgn/7006850> a <http://purl.org/dc/terms/Location>.
+_:df_2929_44 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03192"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2929_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024194"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024194/2021-12-31T22:05:36.712Z>.
+<https://stad.gent/id/agent/530023306/2021-12-31T21:17:58.542Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023306>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:17:58.542Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3121_25, _:df_3121_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3121_29;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3121_31;
+    <http://xmlns.com/foaf/0.1/givenName> "Alfred Joseph Auguste";
+    <http://xmlns.com/foaf/0.1/familyName> "van Neste";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Neste, Alfred Joseph Auguste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/101500>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3121_35;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3121_35 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3121_31 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1969"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7252618>.
+<http://vocab.getty.edu/tgn/7252618> a <http://purl.org/dc/terms/Location>.
+_:df_3121_29 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1874-03-04"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007867>.
+<http://vocab.getty.edu/tgn/7007867> a <http://purl.org/dc/terms/Location>.
+_:df_3121_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02823"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3121_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023306"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023306/2021-12-31T21:17:58.542Z>.
+<https://stad.gent/id/agent/530023307/2021-12-31T21:18:03.543Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023307>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:18:03.543Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3121_37, _:df_3121_39;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3121_41;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3121_43;
+    <http://xmlns.com/foaf/0.1/givenName> "Jean";
+    <http://xmlns.com/foaf/0.1/familyName> "Van Noten";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van Noten, Jean";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/101494>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3121_47;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3121_47 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3121_43 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1982"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007930>.
+<http://vocab.getty.edu/tgn/7007930> a <http://purl.org/dc/terms/Location>.
+_:df_3121_41 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1903"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>.
+_:df_3121_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02824"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3121_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023307"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023307/2021-12-31T21:18:03.543Z>.
+<https://stad.gent/id/agent/530021412/2021-12-31T20:21:50.203Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021412>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:21:50.203Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3448_2, _:df_3448_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Mieke";
+    <http://xmlns.com/foaf/0.1/familyName> "Van Nuffel";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van Nuffel, Mieke";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3448_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02275"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3448_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021412"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021412/2021-12-31T20:21:50.203Z>.
+<https://stad.gent/id/agent/530021149/2021-12-31T20:14:52.580Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021149>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:14:52.580Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3484_2, _:df_3484_4;
+    <http://www.w3.org/2004/02/skos/core#note> "Leerling en medewerker van Paul Hankar.";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Emile";
+    <http://xmlns.com/foaf/0.1/familyName> "Van Nooten";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van Nooten, Emile";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3484_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02215"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3484_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021149"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021149/2021-12-31T20:14:52.580Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/van+n.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/van+n.ttl>.

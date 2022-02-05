@@ -1,0 +1,339 @@
+<https://stad.gent/id/agent/670003629/2022-01-01T08:24:01.456Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003629>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:24:01.456Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_151_2, _:df_151_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_151_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Constant";
+    <http://xmlns.com/foaf/0.1/familyName> "D'Hoy";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "D'Hoy, Constant";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_151_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1862"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <https://www.wikidata.org/entity/q1296>.
+<https://www.wikidata.org/entity/q1296> a <http://purl.org/dc/terms/Location>.
+_:df_151_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0281"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_151_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003629"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003629/2022-01-01T08:24:01.456Z>.
+<https://stad.gent/id/agent/670003628/2022-01-01T08:23:56.455Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003628>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T08:23:56.455Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_154_43, _:df_154_45;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_154_47;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_154_49;
+    <http://xmlns.com/foaf/0.1/givenName> "Charles";
+    <http://xmlns.com/foaf/0.1/familyName> "D'Hoy";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "D'Hoy, Charles";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q100144795>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_154_49 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1892"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <https://www.wikidata.org/entity/q1296>.
+<https://www.wikidata.org/entity/q1296> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_154_47 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1823"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <https://stad.gent/id/concept/670001828>.
+<https://stad.gent/id/concept/670001828> a <http://purl.org/dc/terms/Location>.
+_:df_154_45 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "SCMS_0280"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_154_43 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003628"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003628/2022-01-01T08:23:56.455Z>.
+<https://stad.gent/id/agent/670003215/2022-01-01T07:58:26.688Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003215>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:58:26.688Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_334_6, _:df_334_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhooghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhooghe, Frans Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_334_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3190"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_334_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003215"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003215/2022-01-01T07:58:26.688Z>.
+<https://stad.gent/id/agent/670001443/2022-01-01T05:31:08.360Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001443>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:31:08.360Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1390_30, _:df_1390_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Francies Constantin";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhaese";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhaese, Francies Constantin";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1390_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1426"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1390_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001443"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001443/2022-01-01T05:31:08.360Z>.
+<https://stad.gent/id/agent/670001168/2022-01-01T05:08:09.951Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001168>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:08:09.951Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1552_2, _:df_1552_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guillaume";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhooghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhooghe, Guillaume";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1552_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1151"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1552_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001168"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001168/2022-01-01T05:08:09.951Z>.
+<https://stad.gent/id/agent/670001169/2022-01-01T05:08:14.952Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001169>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:08:14.952Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1552_14, _:df_1552_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Carel";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhooghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhooghe, Carel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1552_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1152"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1552_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001169"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001169/2022-01-01T05:08:14.952Z>.
+<https://stad.gent/id/agent/670001170/2022-01-01T05:08:19.954Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001170>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:08:19.954Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1552_19, _:df_1552_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhooreseele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhooreseele, weduwe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1552_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1153"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1552_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001170"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001170/2022-01-01T05:08:19.954Z>.
+<https://stad.gent/id/agent/670001171/2022-01-01T05:08:24.956Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001171>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:08:24.956Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1552_24, _:df_1552_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Lowijse";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhuyvetter";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhuyvetter, Lowijse";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1552_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1154"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1552_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001171"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001171/2022-01-01T05:08:24.956Z>.
+<https://stad.gent/id/agent/670001172/2022-01-01T05:08:30.253Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001172>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:08:30.253Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1552_29, _:df_1552_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Christiaen weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhyserin";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhyserin, Christiaen weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1552_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1155"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1552_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001172"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001172/2022-01-01T05:08:30.253Z>.
+<https://stad.gent/id/agent/670001163/2022-01-01T05:07:44.945Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001163>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:07:44.945Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1555_2, _:df_1555_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Maximiliaen";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhont";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhont, Maximiliaen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1555_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1146"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1555_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001163"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001163/2022-01-01T05:07:44.945Z>.
+<https://stad.gent/id/agent/670001164/2022-01-01T05:07:49.946Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001164>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:07:49.946Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1555_7, _:df_1555_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhont";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhont, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1555_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1147"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1555_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001164"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001164/2022-01-01T05:07:49.946Z>.
+<https://stad.gent/id/agent/670001165/2022-01-01T05:07:54.947Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001165>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:07:54.947Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1555_15, _:df_1555_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joseph";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhont";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhont, Joseph";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1555_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1148"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1555_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001165"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001165/2022-01-01T05:07:54.947Z>.
+<https://stad.gent/id/agent/670001166/2022-01-01T05:07:59.949Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:07:59.949Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1555_20, _:df_1555_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Simoen";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhooge";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhooge, Simoen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1555_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1149"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1555_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001166/2022-01-01T05:07:59.949Z>.
+<https://stad.gent/id/agent/670001167/2022-01-01T05:08:04.950Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001167>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:08:04.950Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1555_28, _:df_1555_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Michiel Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhooghe";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhooghe, Michiel Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1555_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1150"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1555_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001167"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001167/2022-01-01T05:08:04.950Z>.
+<https://stad.gent/id/agent/670001158/2022-01-01T05:07:19.693Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001158>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:07:19.693Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1558_2, _:df_1558_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Gillis";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhons";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhons, Gillis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1558_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1141"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1558_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001158"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001158/2022-01-01T05:07:19.693Z>.
+<https://stad.gent/id/agent/670001159/2022-01-01T05:07:24.696Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001159>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:07:24.696Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1558_7, _:df_1558_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "jonkvrouw Marie Petronelle Dhont";
+    <http://xmlns.com/foaf/0.1/givenName> "Marie Petronelle";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhont";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhont, Marie Petronelle";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1558_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1142"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1558_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001159"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001159/2022-01-01T05:07:24.696Z>.
+<https://stad.gent/id/agent/670001160/2022-01-01T05:07:29.697Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001160>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:07:29.697Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1558_13, _:df_1558_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "J.";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhont";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhont, J.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1558_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1143"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1558_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001160"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001160/2022-01-01T05:07:29.697Z>.
+<https://stad.gent/id/agent/670001161/2022-01-01T05:07:34.698Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001161>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:07:34.698Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1558_21, _:df_1558_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhont";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhont, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1558_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1144"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1558_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001161"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001161/2022-01-01T05:07:34.698Z>.
+<https://stad.gent/id/agent/670001162/2022-01-01T05:07:39.942Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001162>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:07:39.942Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1558_26, _:df_1558_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus Emanuel";
+    <http://xmlns.com/foaf/0.1/familyName> "Dhont";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dhont, Jacobus Emanuel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1558_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1145"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1558_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001162"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001162/2022-01-01T05:07:39.942Z>.
+<https://stad.gent/id/agent/670001152/2022-01-01T05:06:54.686Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001152>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:06:54.686Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1561_2, _:df_1561_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "baron, jonkheer Jan Baptiste Francois, baron Dheems";
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste Francois, baron";
+    <http://xmlns.com/foaf/0.1/familyName> "Dheems";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dheems, Jan Baptiste Francois, baron";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1561_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1135"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1561_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001152"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001152/2022-01-01T05:06:54.686Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/dh.ttl> <https://w3id.org/tree#relation> _:df_1_792.
+_:df_1_792 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/dhe.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "dhe".
+<https://oliviervd.github.io/substrings_coghent/agents/dh.ttl> <https://w3id.org/tree#relation> _:df_1_793.
+_:df_1_793 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/dho.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "dho".
+<https://oliviervd.github.io/substrings_coghent/agents/dh.ttl> <https://w3id.org/tree#relation> _:df_1_794.
+_:df_1_794 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/dha.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "dha".
+<https://oliviervd.github.io/substrings_coghent/agents/dh.ttl> <https://w3id.org/tree#relation> _:df_1_795.
+_:df_1_795 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/dhu.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "dhu".
+<https://oliviervd.github.io/substrings_coghent/agents/dh.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/dh.ttl>.

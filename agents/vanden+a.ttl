@@ -1,0 +1,89 @@
+<https://stad.gent/id/agent/670002872/2022-01-01T07:29:51.556Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002872>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:29:51.556Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_538_2, _:df_538_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "P.";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Abeele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Abeele, P.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_538_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2855"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_538_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002872"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002872/2022-01-01T07:29:51.556Z>.
+<https://stad.gent/id/agent/670002867/2022-01-01T07:29:26.546Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:29:26.546Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_541_2, _:df_541_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Abeele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Abeele, Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_541_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2850"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_541_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002867/2022-01-01T07:29:26.546Z>.
+<https://stad.gent/id/agent/670002868/2022-01-01T07:29:31.549Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002868>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:29:31.549Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_541_7, _:df_541_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guillaume";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Abeele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Abeele, Guillaume";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_541_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2851"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_541_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002868"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002868/2022-01-01T07:29:31.549Z>.
+<https://stad.gent/id/agent/670002869/2022-01-01T07:29:36.551Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002869>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:29:36.551Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_541_12, _:df_541_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Abeele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Abeele, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_541_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2852"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_541_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002869"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002869/2022-01-01T07:29:36.551Z>.
+<https://stad.gent/id/agent/670002870/2022-01-01T07:29:41.552Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002870>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:29:41.552Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_541_20, _:df_541_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Abeele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Abeele";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_541_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2853"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_541_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002870"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002870/2022-01-01T07:29:41.552Z>.
+<https://stad.gent/id/agent/670002871/2022-01-01T07:29:46.553Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002871>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:29:46.553Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_541_24, _:df_541_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "vanden Abeele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "vanden Abeele, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_541_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2854"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_541_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002871"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002871/2022-01-01T07:29:46.553Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/vanden+a.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/vanden+a.ttl>.

@@ -1,0 +1,83 @@
+<https://stad.gent/id/agent/670001664/2022-01-01T05:49:19.931Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001664>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:49:19.931Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1258_10, _:df_1258_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "Leducq";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Leducq, Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1258_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1647"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1258_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001664"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001664/2022-01-01T05:49:19.931Z>.
+<https://stad.gent/id/agent/670001665/2022-01-01T05:49:24.932Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001665>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:49:24.932Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1258_15, _:df_1258_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Leduyck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Leduyck, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1258_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1648"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1258_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001665"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001665/2022-01-01T05:49:24.932Z>.
+<https://stad.gent/id/agent/530021537/2021-12-31T20:24:06.178Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021537>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:24:06.178Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3436_2, _:df_3436_4;
+    <http://www.w3.org/2004/02/skos/core#note> "Léon Ledru oeuvre aux cristalleries du Val Saint-Lambert à la tête du service des créations jusqu’à son décès en 1926, c’est-à-dire un peu près trente sept années. L’apparition d’ateliers de création et de dessin intégrés aux entreprises est un phénomène lié à l’industrialisation. Ledru inaugure par sa présence celui du Val ; il sera rapidement entouré d’une équipe d’une dizaine de dessinateurs. Les travaux qui occupent ce service sont assez diversifiés. Il crée des modèles et des décors pour toutes sortes d’articles destinés à la vente courante, à caractère plus spécifique ou artistique. Lors de grandes expositions, Ledru conçoit l’installation de stands et met à profit son talent de concepteur pour la création de nouveautés et d’oeuvres magistrales.\r\n\r\nA ses débuts, Ledru s’inspire des styles historiques, à la manière du dessinateur Camille Renard, et crée des pièces de prestige d’aspect classique. Renommé essentiellement pour ces dernières, Ledru évolue cependant d’un style à l’autre grâce à ses rapports avec le monde culturel et conçoit ainsi simultanément des verreries d’un goût novateur.\r\nResponsable du département créatif, il seconde des artistes belges de premier plan tels que Wolfers, Serrurier-Bovy, Horta et van de Velde, qui confient l’exécution de leurs œuvres au Val Saint-Lambert. Ces derniers l’incitent à s’engager dans cette nouvelle tendance que l’on qualifiera par la suite d’Art nouveau.\r\n\r\nDès l’exposition universelle de Bruxelles en 1897, Ledru confirme, par une production d’un style tout à fait moderne, son engagement dans la voie de l’Art nouveau, qui transparaissait timidement dans les pièces qu’il avait présentées trois années plus tôt à l’exposition de l’Œuvre artistique à Liège. Par la suite, il crée de nombreux articles Art nouveau gravés à l'acide de motifs naturalistes proches de la production florale développée par les verreries Daum et Gallé à Nancy.\r\n\r\nAprès la Première Guerre mondiale, ce novateur s’oriente vers la stylisation des formes et l’élaboration de motifs caractéristiques de l’Art déco. Lors de l’exposition des Arts décoratifs de Paris en 1925, il exhibe dans lesquelles il intègre les ferments de cette nouvelle veine esthétique.\r\n\r\n[http://www.vsl-history.be/designersledru.htm]";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3436_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3436_7;
+    <http://xmlns.com/foaf/0.1/givenName> "Léon";
+    <http://xmlns.com/foaf/0.1/familyName> "Ledru";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ledru, Léon";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3436_13;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3436_13 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3436_7 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1926-01-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007945>.
+<http://vocab.getty.edu/tgn/7007945> a <http://purl.org/dc/terms/Location>.
+_:df_3436_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1855-06-18"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3436_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02295"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3436_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021537"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021537/2021-12-31T20:24:06.178Z>.
+<https://stad.gent/id/agent/530001552/2021-12-31T17:19:17.037Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001552>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:19:17.037Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4267_42, _:df_4267_44;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4267_46;
+    <http://xmlns.com/foaf/0.1/givenName> "Cheikh";
+    <http://xmlns.com/foaf/0.1/familyName> "Ledy";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Ledy, Cheikh";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500123939>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4267_50;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4267_50 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Congolees"@nl.
+_:df_4267_46 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1962"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1000159>.
+<http://vocab.getty.edu/tgn/1000159> a <http://purl.org/dc/terms/Location>.
+_:df_4267_44 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00922"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4267_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001552"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001552/2021-12-31T17:19:17.037Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/led.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/led.ttl>.

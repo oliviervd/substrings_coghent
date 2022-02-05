@@ -1,0 +1,235 @@
+<https://stad.gent/id/agent/670002518/2022-01-01T07:00:30.799Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002518>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:00:30.799Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_748_2, _:df_748_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Lieven weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "van Damme";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Damme, Lieven weduwe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_748_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2501"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_748_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002518"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002518/2022-01-01T07:00:30.799Z>.
+<https://stad.gent/id/agent/670002519/2022-01-01T07:00:35.801Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002519>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:00:35.801Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_748_7, _:df_748_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Louis";
+    <http://xmlns.com/foaf/0.1/familyName> "van Damme";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Damme, Louis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_748_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2502"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_748_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002519"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002519/2022-01-01T07:00:35.801Z>.
+<https://stad.gent/id/agent/670002520/2022-01-01T07:00:40.802Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002520>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:00:40.802Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_748_15, _:df_748_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Thomas";
+    <http://xmlns.com/foaf/0.1/familyName> "van Damme";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Damme, Thomas";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_748_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2503"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_748_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002520"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002520/2022-01-01T07:00:40.802Z>.
+<https://stad.gent/id/agent/670002513/2022-01-01T07:00:05.792Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002513>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:00:05.792Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_751_2, _:df_751_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joseph Francois";
+    <http://xmlns.com/foaf/0.1/familyName> "van Damme";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Damme, Joseph Francois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_751_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2496"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_751_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002513"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002513/2022-01-01T07:00:05.792Z>.
+<https://stad.gent/id/agent/670002514/2022-01-01T07:00:10.794Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002514>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:00:10.794Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_751_10, _:df_751_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Philippe";
+    <http://xmlns.com/foaf/0.1/familyName> "van Damme";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Damme, Philippe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_751_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2497"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_751_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002514"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002514/2022-01-01T07:00:10.794Z>.
+<https://stad.gent/id/agent/670002515/2022-01-01T07:00:15.795Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002515>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:00:15.795Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_751_18, _:df_751_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joseph";
+    <http://xmlns.com/foaf/0.1/familyName> "van Damme";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Damme, Joseph";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_751_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2498"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_751_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002515"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002515/2022-01-01T07:00:15.795Z>.
+<https://stad.gent/id/agent/670002516/2022-01-01T07:00:20.796Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002516>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:00:20.796Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_751_28, _:df_751_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joos";
+    <http://xmlns.com/foaf/0.1/familyName> "van Damme";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Damme, Joos";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_751_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2499"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_751_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002516"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002516/2022-01-01T07:00:20.796Z>.
+<https://stad.gent/id/agent/670002517/2022-01-01T07:00:25.797Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002517>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:00:25.797Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_751_33, _:df_751_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "van Damme";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Damme, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_751_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2500"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_751_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002517"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002517/2022-01-01T07:00:25.797Z>.
+<https://stad.gent/id/agent/670002508/2022-01-01T06:59:40.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002508>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:59:40.500Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_754_2, _:df_754_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Simoen";
+    <http://xmlns.com/foaf/0.1/familyName> "van Daele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Daele, Simoen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_754_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2491"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_754_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002508"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002508/2022-01-01T06:59:40.500Z>.
+<https://stad.gent/id/agent/670002509/2022-01-01T06:59:45.501Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002509>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:59:45.501Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_754_7, _:df_754_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Stephanus";
+    <http://xmlns.com/foaf/0.1/familyName> "van Daele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Daele, Stephanus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_754_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2492"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_754_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002509"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002509/2022-01-01T06:59:45.501Z>.
+<https://stad.gent/id/agent/670002510/2022-01-01T06:59:50.502Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002510>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:59:50.502Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_754_15, _:df_754_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "van Dale";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Dale, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_754_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2493"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_754_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002510"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002510/2022-01-01T06:59:50.502Z>.
+<https://stad.gent/id/agent/670002511/2022-01-01T06:59:55.505Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002511>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:59:55.505Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_754_20, _:df_754_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Maximiliaen";
+    <http://xmlns.com/foaf/0.1/familyName> "van Damme";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Damme, Maximiliaen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_754_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2494"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_754_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002511"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002511/2022-01-01T06:59:55.505Z>.
+<https://stad.gent/id/agent/670002512/2022-01-01T07:00:00.789Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002512>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:00:00.789Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_754_30, _:df_754_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Isabelle Marie";
+    <http://xmlns.com/foaf/0.1/familyName> "van Damme";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Damme, Isabelle Marie";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_754_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2495"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_754_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002512"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002512/2022-01-01T07:00:00.789Z>.
+<https://stad.gent/id/agent/670002506/2022-01-01T06:59:30.495Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002506>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:59:30.495Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_757_22, _:df_757_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "van Dael";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Dael, weduwe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_757_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2489"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_757_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002506"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002506/2022-01-01T06:59:30.495Z>.
+<https://stad.gent/id/agent/670002507/2022-01-01T06:59:35.498Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002507>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:59:35.498Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_757_27, _:df_757_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "van Daele";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "van Daele, Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_757_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2490"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_757_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002507"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002507/2022-01-01T06:59:35.498Z>.
+<https://stad.gent/id/agent/570027483/2022-01-01T02:19:14.567Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570027483>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:19:14.567Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2626_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Van Damme, Gustaaf";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2626_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570027483"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570027483/2022-01-01T02:19:14.567Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/van+da.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/van+da.ttl>.

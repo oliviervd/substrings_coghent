@@ -1,0 +1,362 @@
+<https://stad.gent/id/agent/670002347/2022-01-01T06:46:15.501Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002347>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:46:15.501Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_850_2, _:df_850_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Tavernier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tavernier";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_850_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2330"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_850_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002347"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002347/2022-01-01T06:46:15.501Z>.
+<https://stad.gent/id/agent/670002345/2022-01-01T06:46:05.498Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002345>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:46:05.498Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_853_17, _:df_853_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Paulus";
+    <http://xmlns.com/foaf/0.1/familyName> "Tack";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tack, Paulus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_853_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2328"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_853_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002345"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002345/2022-01-01T06:46:05.498Z>.
+<https://stad.gent/id/agent/670002346/2022-01-01T06:46:10.500Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002346>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:46:10.500Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_853_25, _:df_853_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joachim";
+    <http://xmlns.com/foaf/0.1/familyName> "Tack";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tack, Joachim";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_853_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2329"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_853_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002346"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002346/2022-01-01T06:46:10.500Z>.
+<https://stad.gent/id/agent/570032524/2022-01-01T03:27:55.121Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570032524>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:27:55.121Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2254_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Taleghani, Jean-Loup";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2254_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570032524"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570032524/2022-01-01T03:27:55.121Z>.
+<https://stad.gent/id/agent/570014087/2022-01-01T01:45:05.944Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570014087>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T01:45:05.944Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2863_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tattersall & Holdsworth";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q61960422>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2863_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570014087"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570014087/2022-01-01T01:45:05.944Z>.
+<https://stad.gent/id/agent/530024178/2021-12-31T22:04:31.350Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024178>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T22:04:31.350Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2932_31, _:df_2932_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2932_35;
+    <http://xmlns.com/foaf/0.1/givenName> "Ferruccio";
+    <http://xmlns.com/foaf/0.1/familyName> "Tartaglia";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tartaglia, Ferruccio";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2932_38;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2932_38 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_2932_35 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1942-01-26"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1000080>.
+<http://vocab.getty.edu/tgn/1000080> a <http://purl.org/dc/terms/Location>.
+_:df_2932_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03171"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2932_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024178"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024178/2021-12-31T22:04:31.350Z>.
+<https://stad.gent/id/agent/530024053/2021-12-31T21:55:57.840Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024053>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:55:57.840Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2971_15, _:df_2971_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2971_18;
+    <http://xmlns.com/foaf/0.1/givenName> "Linde Freya";
+    <http://xmlns.com/foaf/0.1/familyName> "Tangelder";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tangelder, Linde Freya";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2971_21;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2971_21 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_2971_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1987"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_2971_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03114"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2971_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024053"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024053/2021-12-31T21:55:57.840Z>.
+<https://stad.gent/id/agent/530023502/2021-12-31T21:31:03.811Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023502>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:31:03.811Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3049_28, _:df_3049_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tasili";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3049_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02943"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3049_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023502"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023502/2021-12-31T21:31:03.811Z>.
+<https://stad.gent/id/agent/530023439/2021-12-31T21:27:02.115Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023439>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:27:02.115Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3070_11, _:df_3070_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Hubert";
+    <http://xmlns.com/foaf/0.1/familyName> "Tamsyn";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tamsyn, Hubert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3070_16;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3070_16 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3070_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02906"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3070_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023439"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023439/2021-12-31T21:27:02.115Z>.
+<https://stad.gent/id/agent/530023371/2021-12-31T21:22:30.451Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023371>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:22:30.451Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3094_37, _:df_3094_39;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Marcel";
+    <http://xmlns.com/foaf/0.1/familyName> "Taevernier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Taevernier, Marcel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3094_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02869"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3094_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023371"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023371/2021-12-31T21:22:30.451Z>.
+<https://stad.gent/id/agent/530023355/2021-12-31T21:21:34.749Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023355>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:21:34.749Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3097_12, _:df_3097_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Simonne";
+    <http://xmlns.com/foaf/0.1/familyName> "Taeymans";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Taeymans, Simonne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3097_17;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3097_17 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3097_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02862"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3097_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023355"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023355/2021-12-31T21:21:34.749Z>.
+<https://stad.gent/id/agent/530023138/2021-12-31T21:05:58.655Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023138>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:05:58.655Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3196_14, _:df_3196_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "R.";
+    <http://xmlns.com/foaf/0.1/familyName> "Taverniers";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Taverniers, R.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3196_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02696"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3196_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023138"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023138/2021-12-31T21:05:58.655Z>.
+<https://stad.gent/id/agent/530021659/2021-12-31T20:31:08.759Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021659>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:31:08.759Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3388_7, _:df_3388_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3388_11;
+    <http://xmlns.com/foaf/0.1/givenName> "Jo";
+    <http://xmlns.com/foaf/0.1/familyName> "Tailleu";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tailleu, Jo";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3388_17;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3388_17 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3388_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1971"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026812>.
+<http://vocab.getty.edu/tgn/1026812> a <http://purl.org/dc/terms/Location>.
+_:df_3388_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02376"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3388_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021659"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021659/2021-12-31T20:31:08.759Z>.
+<https://stad.gent/id/agent/530021628/2021-12-31T20:29:33.086Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021628>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:29:33.086Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3400_19, _:df_3400_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Nico";
+    <http://xmlns.com/foaf/0.1/familyName> "Taeymans";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Taeymans, Nico";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/210518>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3400_25;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3400_25 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3400_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02358"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3400_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021628"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021628/2021-12-31T20:29:33.086Z>.
+<https://stad.gent/id/agent/530021615/2021-12-31T20:28:27.779Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021615>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:28:27.779Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3406_2, _:df_3406_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3406_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Rumiko";
+    <http://xmlns.com/foaf/0.1/familyName> "Takeda";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Takeda, Rumiko";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3406_9;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3406_9 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Japans"@nl.
+_:df_3406_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1971"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004472>.
+<http://vocab.getty.edu/tgn/7004472> a <http://purl.org/dc/terms/Location>.
+_:df_3406_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02345"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3406_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021615"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021615/2021-12-31T20:28:27.779Z>.
+<https://stad.gent/id/agent/530020673/2021-12-31T19:59:31.271Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020673>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:59:31.271Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3562_14, _:df_3562_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3562_18;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tavaro S.A.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3562_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007279>.
+<http://vocab.getty.edu/tgn/7007279> a <http://purl.org/dc/terms/Location>.
+_:df_3562_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02087"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3562_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020673"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020673/2021-12-31T19:59:31.271Z>.
+<https://stad.gent/id/agent/530020035/2021-12-31T19:40:23.810Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530020035>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:40:23.810Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3667_13, _:df_3667_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Sandra";
+    <http://xmlns.com/foaf/0.1/familyName> "Tan";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tan, Sandra";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3667_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01914"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3667_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530020035"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530020035/2021-12-31T19:40:23.810Z>.
+<https://stad.gent/id/agent/530017816/2021-12-31T19:19:10.390Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530017816>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:19:10.390Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3739_2, _:df_3739_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3739_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3739_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Kazuhide";
+    <http://xmlns.com/foaf/0.1/familyName> "Takahama";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Takahama, Kazuhide";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/314193>, <https://www.wikidata.org/entity/Q55219846>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3739_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3739_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Japans"@nl.
+_:df_3739_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2010-02-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004847>.
+<http://vocab.getty.edu/tgn/7004847> a <http://purl.org/dc/terms/Location>.
+_:df_3739_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1930"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004746>.
+<http://vocab.getty.edu/tgn/7004746> a <http://purl.org/dc/terms/Location>.
+_:df_3739_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01795"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3739_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530017816"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530017816/2021-12-31T19:19:10.390Z>.
+<https://stad.gent/id/agent/530013506/2021-12-31T18:12:13.460Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013506>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:12:13.460Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4006_23, _:df_4006_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4006_27;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tane Orfebres";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4006_27 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1940"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007227>.
+<http://vocab.getty.edu/tgn/7007227> a <http://purl.org/dc/terms/Location>.
+_:df_4006_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01354"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4006_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013506"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013506/2021-12-31T18:12:13.460Z>.
+<https://stad.gent/id/agent/530001572/2021-12-31T17:20:42.350Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001572>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:20:42.350Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4255_12, _:df_4255_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4255_16;
+    <http://xmlns.com/foaf/0.1/givenName> "Guillermo";
+    <http://xmlns.com/foaf/0.1/familyName> "Tajeda";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tajeda, Guillermo";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4255_19;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4255_19 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Chileens"@nl.
+_:df_4255_16 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1947"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7002591>.
+<http://vocab.getty.edu/tgn/7002591> a <http://purl.org/dc/terms/Location>.
+_:df_4255_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00939"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4255_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001572"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001572/2021-12-31T17:20:42.350Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/ta.ttl> <https://w3id.org/tree#relation> _:df_1_1463.
+_:df_1_1463 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/tar.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "tar".
+<https://oliviervd.github.io/substrings_coghent/agents/ta.ttl> <https://w3id.org/tree#relation> _:df_1_1464.
+_:df_1_1464 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/tap.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "tap".
+<https://oliviervd.github.io/substrings_coghent/agents/ta.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/ta.ttl>.

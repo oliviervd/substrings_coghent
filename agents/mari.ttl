@@ -1,0 +1,121 @@
+<https://stad.gent/id/agent/530017978/2021-12-31T19:20:10.680Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530017978>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:20:10.680Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3736_40, _:df_3736_42;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3736_44;
+    <http://xmlns.com/foaf/0.1/givenName> "Javier";
+    <http://xmlns.com/foaf/0.1/familyName> "Mariscal";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mariscal, Javier";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500075059>, <https://www.wikidata.org/entity/Q738017>, <https://rkd.nl/nl/explore/artists/310082>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3736_48;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3736_48 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Spaans"@nl.
+_:df_3736_44 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1950-02-09"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7299162>.
+<http://vocab.getty.edu/tgn/7299162> a <http://purl.org/dc/terms/Location>.
+_:df_3736_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01804"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3736_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530017978"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530017978/2021-12-31T19:20:10.680Z>.
+<https://stad.gent/id/agent/530016778/2021-12-31T18:49:18.361Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:49:18.361Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3814_16, _:df_3814_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3814_20;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Marimekko";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q534903>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3814_20 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1951"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009880>.
+<http://vocab.getty.edu/tgn/7009880> a <http://purl.org/dc/terms/Location>.
+_:df_3814_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01674"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3814_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016778/2021-12-31T18:49:18.361Z>.
+<https://stad.gent/id/agent/530001768/2021-12-31T17:32:02.016Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001768>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:32:02.016Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4174_11, _:df_4174_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4174_15;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4174_17;
+    <http://xmlns.com/foaf/0.1/givenName> "Enzo";
+    <http://xmlns.com/foaf/0.1/familyName> "Mari";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mari, Enzo";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500007076>, <https://www.wikidata.org/entity/Q319350>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4174_24;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4174_24 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_4174_17 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2020-10-19"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4174_15 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1932"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005652>.
+<http://vocab.getty.edu/tgn/7005652> a <http://purl.org/dc/terms/Location>.
+_:df_4174_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01074"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4174_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001768"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001768/2021-12-31T17:32:02.016Z>.
+<https://stad.gent/id/agent/530001559/2021-12-31T17:19:47.046Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001559>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:19:47.046Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4261_2, _:df_4261_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4261_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Massimo";
+    <http://xmlns.com/foaf/0.1/familyName> "Mariana";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mariana, Massimo";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4261_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1951"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005060>.
+<http://vocab.getty.edu/tgn/7005060> a <http://purl.org/dc/terms/Location>.
+_:df_4261_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00928"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4261_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001559"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001559/2021-12-31T17:19:47.046Z>.
+<https://stad.gent/id/agent/530001006/2021-12-31T16:46:48.794Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001006>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:46:48.794Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4498_18, _:df_4498_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4498_22;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4498_24;
+    <http://xmlns.com/foaf/0.1/givenName> "Maurice";
+    <http://xmlns.com/foaf/0.1/familyName> "Marinot";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Marinot, Maurice";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q3301121>, <https://rkd.nl/explore/artists/52660>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4498_28;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4498_28 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_4498_24 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1960-02-08"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008350>.
+<http://vocab.getty.edu/tgn/7008350> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4498_22 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1882-03-20"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008350>.
+_:df_4498_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00536"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4498_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001006"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001006/2021-12-31T16:46:48.794Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/mari.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/mari.ttl>.

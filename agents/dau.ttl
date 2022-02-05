@@ -1,0 +1,76 @@
+<https://stad.gent/id/agent/530019210/2021-12-31T19:24:37.389Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019210>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:24:37.389Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3718_21, _:df_3718_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3718_25;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3718_27;
+    <http://xmlns.com/foaf/0.1/givenName> "Auguste";
+    <http://xmlns.com/foaf/0.1/familyName> "Daum";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Daum, Auguste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/Q2871142>, <https://www.wikidata.org/entity/500078955>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3718_27 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1909-04-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008412>.
+<http://vocab.getty.edu/tgn/7008412> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3718_25 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1853"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1032156>.
+<http://vocab.getty.edu/tgn/1032156> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3718_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01832"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3718_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019210"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019210/2021-12-31T19:24:37.389Z>.
+<https://stad.gent/id/agent/530019211/2021-12-31T19:24:42.391Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019211>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:24:42.391Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3718_31, _:df_3718_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3718_35;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3718_37;
+    <http://xmlns.com/foaf/0.1/givenName> "Antonin";
+    <http://xmlns.com/foaf/0.1/familyName> "Daum";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Daum, Antonin";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500061780>, <https://www.wikidata.org/entity/Q18545999>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3718_41;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3718_41 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_3718_37 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1930"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008412>.
+<http://vocab.getty.edu/tgn/7008412> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3718_35 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1864"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1032156>.
+<http://vocab.getty.edu/tgn/1032156> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3718_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01833"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3718_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019211"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019211/2021-12-31T19:24:42.391Z>.
+<https://stad.gent/id/agent/530000998/2021-12-31T16:46:08.433Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000998>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:46:08.433Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4504_42, _:df_4504_44;
+    <http://www.w3.org/2004/02/skos/core#note> "À la suite de la guerre de 1870, Jean Daum (1825 - 1885), notaire à Bitche, vend son étude et opte pour la France. Il s'installe à Nancy en 1876 et prête, la même année, de l'argent à plusieurs reprises à Avril et Bertrand, propriétaire de la verrerie Sainte-Catherine de Nancy, une manufacture qui produit du flaconnage et de la gobeleterie ordinaire. L'entreprise ne trouve pas son équilibre financier et Daum est contraint de la racheter : il y investit 50 000 francs le 23 mars 1878 et devient chef d'une entreprise de 150 ouvriers, dans un domaine dont il ignore tout.\r\nEn 1878, il y associe son fils Auguste, mais, il ne connaît pas les premiers succès de l'entreprise. À sa mort, en 1885, Auguste prend seul la direction de la verrerie avant d'être rejoint, en 1887, par son frère Antonin (Jean Antonin Daum, né à Bitche 1864 † Nancy 1930), tout juste diplômé de l’École centrale des arts et manufactures.\r\nDevant la mauvaise santé financière de la verrerie, Auguste, qui suivait une formation de juriste, se voit obligé d'en prendre la tête, après qu'elle a été rachetée pour la sauver de la faillite. Antonin commence par embellir les services de tables courants. Familiarisé par les techniques du verre de par sa formation, il oriente la production vers la création artistique. Les deux frères préparent, entre 1889 et 1891, la création d'un département artistique qui est confié à Antonin. Auguste lui donne tous les moyens de travailler pour suivre le sillon creusé par Émile Gallé dans la verrerie Art nouveau.\r\n\r\nAntonin commence avec quelques modèles simples pour continuer rapidement avec la gravure à l'acide, puis, en passant à des modèles utilisant les techniques de gravure à la roue, de verres à deux ou trois couches. De 1890 à 1914, il ne crée pas moins de trois mille références.\r\nJacques Grüber est le premier artiste de la verrerie. Recruté en 1893, on lui confie la création de pièces en vue de figurer à l'exposition universelle de Chicago de 1893. Ce fut le premier grand succès qui propulsa Daum dans le cercle fermé des industries d'art. Les Daum y gagnent la participation à l'exposition de Nancy en 1894. Il y eut ensuite les expositions de Lyon (1894), Bordeaux (1895) et Bruxelles (1895 et 1897), au cours desquelles ils reçoivent des distinctions.\r\nUne école de dessin est créée, en 1897, à l'intérieur de l'entreprise qui forme ainsi ses propres décorateurs et graveurs.\r\nHenri Bergé y est maître décorateur, c'est le deuxième artiste de l'entreprise. Il aura à ses côtés Émile Writz à partir de 1898.\r\nLa consécration de l'aventure arrive lorsque le premier grand prix pour la verrerie d'art de l'exposition universelle de 1900 est décerné à Daum et à Gallé. Daum y présente des pièces préparés avec soin : le décor intercalaire (brevet de 1899), les luminaires qui deviennent une spécialité.\r\nEn 1904, Almaric Walter y développe des pâtes de verre, il restera chez Daum jusqu'en 19151.\r\nEn 1901, les statuts de l'École de Nancy sont officiellement posés. Émile Gallé est l'homme à l'origine de ce regroupement et en devient président. Antonin est vice-président. Antonin est également une des personnalités de la chambre de commerce de Nancy. Il joue un rôle important en 1909 lors de l'exposition internationale de l'Est de la France qui marque la fin de l'École de Nancy. Auguste meurt en 1909, Antonin est actif jusqu'à sa mort en 1930, mais partage les responsabilités avec les fils d'Auguste : Jean, Henri et Paul.\r\nJean meurt en 1916, Henri est gérant comme son père. Paul est diplômé de l'Institut de physique et chimie de Nancy, il prendra progressivement la place d'Antonin. Les Daum assurent après 1918, l'adaptation de l'entreprise aux nouvelles conditions de production, soucieux d'y maintenir qualités, techniques et orientations esthétiques plus qu'utilitaires.\r\n\r\nL'entreprise continue de participer aux grandes expositions : Barcelone en 1923, Exposition internationale des Arts déco à Paris en 1925, Exposition coloniale à Paris en 1931.\r\nDans les années 1920, Paul oriente la production vers l'Art déco devant la perte d'intérêt du public pour l'Art nouveau. La demande est importante et l'entreprise prospère. Elle ouvre une deuxième cristallerie Belle-Étoile à Croismare, en 1925, dont Paul est le directeur. Elle fournit de la verrerie blanche, des boules, de la fantaisie signée Lorrain. Pierre Davesn crée des modèles à partir de 1928. La crise économique des années 1930 touche Belle-Étoile qui est fermée en 1934. Quelques grosses commandes permettent à l'entreprise de poursuivre sa production : en 1935, la Compagnie transatlantique commande 90 000 pièces en verre et cristal pour le paquebot Normandie.\r\nAprès la Seconde Guerre mondiale, le cristal prend une place prépondérante, sous la direction d'Henri et de Michel Daum. L'aîné des petits-enfants d'Antonin, Antoine Froissart (1920-1971), ingénieur de l'École centrale Paris, met au point la fabrication d'un cristal particulièrement transparent et brillant. Ce nouveau cristal favorise la création de pièces aux formes épaisses et souples, et à l'aspect lumineux. Jacques, petit-fils d'Auguste, apporte un souffle nouveau en 1965 en faisant appel à des créateurs contemporains. César passe plusieurs semaines à Nancy et travaille à de nouvelles exploitations de la matière.\r\nEn 1976, Pierre de Chérisey, petit-fils d'Antonin, est le dernier président de la famille Daum à la tête de l'entreprise (jusque dans les années 1990).\r\nRachetée majoritairement en 2000 par Axa Private Equity et le Crédit agricole et l’orfèvre Tétard 1860 est aux prises avec des soucis financiers, la cristallerie dépose le bilan en 2003 avant de se reconstituer la société est rachetée par le financier algéro-français Prosper Amouyal via sa holding Financière Saint-Germain en mai 2009.\r\nLa cristallerie existe toujours et sa production est internationalement connue : de nombreux créateurs travaillent pour elle, tel Jean Boggio.\r\n\r\n[http://fr.wikipedia.org/wiki/Daum_(verrerie)]";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4504_46;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Daum Frères";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500335339>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4504_46 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1878"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008412>.
+<http://vocab.getty.edu/tgn/7008412> a <http://purl.org/dc/terms/Location>.
+_:df_4504_44 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00528"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4504_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000998"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000998/2021-12-31T16:46:08.433Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/dau.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/dau.ttl>.

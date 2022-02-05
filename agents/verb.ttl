@@ -1,0 +1,323 @@
+<https://stad.gent/id/agent/670003017/2022-01-01T07:42:00.820Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003017>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:42:00.820Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_451_2, _:df_451_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Carel";
+    <http://xmlns.com/foaf/0.1/familyName> "Verburght";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verburght, Carel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_451_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3000"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_451_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003017"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003017/2022-01-01T07:42:00.820Z>.
+<https://stad.gent/id/agent/670003018/2022-01-01T07:42:05.821Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003018>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:42:05.821Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_451_10, _:df_451_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes Adriaen";
+    <http://xmlns.com/foaf/0.1/familyName> "Verburght";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verburght, Joannes Adriaen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_451_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3001"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_451_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003018"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003018/2022-01-01T07:42:05.821Z>.
+<https://stad.gent/id/agent/670003019/2022-01-01T07:42:10.823Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003019>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:42:10.823Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_451_15, _:df_451_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Verburght";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verburght, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_451_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3002"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_451_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003019"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003019/2022-01-01T07:42:10.823Z>.
+<https://stad.gent/id/agent/670003020/2022-01-01T07:42:15.824Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003020>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:42:15.824Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_451_23, _:df_451_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Verburght";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verburght";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_451_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3003"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_451_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003020"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003020/2022-01-01T07:42:15.824Z>.
+<https://stad.gent/id/agent/670003021/2022-01-01T07:42:20.826Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003021>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:42:20.826Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_451_27, _:df_451_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Verburght";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verburght, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_451_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_3004"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_451_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003021"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003021/2022-01-01T07:42:20.826Z>.
+<https://stad.gent/id/agent/670003012/2022-01-01T07:41:35.579Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003012>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:41:35.579Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_454_2, _:df_454_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Verbeke";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verbeke, weduwe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_454_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2995"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_454_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003012"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003012/2022-01-01T07:41:35.579Z>.
+<https://stad.gent/id/agent/670003013/2022-01-01T07:41:40.581Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003013>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:41:40.581Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_454_7, _:df_454_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Verbiest";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verbiest, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_454_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2996"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_454_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003013"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003013/2022-01-01T07:41:40.581Z>.
+<https://stad.gent/id/agent/670003014/2022-01-01T07:41:45.582Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003014>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:41:45.582Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_454_12, _:df_454_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes Francies";
+    <http://xmlns.com/foaf/0.1/familyName> "Verbiest";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verbiest, Joannes Francies";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_454_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2997"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_454_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003014"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003014/2022-01-01T07:41:45.582Z>.
+<https://stad.gent/id/agent/670003015/2022-01-01T07:41:50.584Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003015>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:41:50.584Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_454_17, _:df_454_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Cornelis";
+    <http://xmlns.com/foaf/0.1/familyName> "Verburght";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verburght, Cornelis";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_454_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2998"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_454_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003015"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003015/2022-01-01T07:41:50.584Z>.
+<https://stad.gent/id/agent/670003016/2022-01-01T07:41:55.817Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003016>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:41:55.817Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_454_25, _:df_454_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacobus";
+    <http://xmlns.com/foaf/0.1/familyName> "Verburght";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verburght, Jacobus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_454_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2999"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_454_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003016"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003016/2022-01-01T07:41:55.817Z>.
+<https://stad.gent/id/agent/670003009/2022-01-01T07:41:20.575Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003009>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:41:20.575Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_457_12, _:df_457_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Verbaere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verbaere, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_457_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2992"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_457_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003009"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003009/2022-01-01T07:41:20.575Z>.
+<https://stad.gent/id/agent/670003010/2022-01-01T07:41:25.576Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003010>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:41:25.576Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_457_17, _:df_457_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Verbaere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verbaere, weduwe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_457_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2993"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_457_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003010"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003010/2022-01-01T07:41:25.576Z>.
+<https://stad.gent/id/agent/670003011/2022-01-01T07:41:30.578Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670003011>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T07:41:30.578Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_457_22, _:df_457_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Verbeke";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verbeke, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_457_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2994"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_457_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670003011"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670003011/2022-01-01T07:41:30.578Z>.
+<https://stad.gent/id/agent/570021209/2022-01-01T02:02:27.930Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021209>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:02:27.930Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2743_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verbeke";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2743_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021209"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021209/2022-01-01T02:02:27.930Z>.
+<https://stad.gent/id/agent/530001233/2021-12-31T17:00:29.380Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001233>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:00:29.380Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4399_2, _:df_4399_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4399_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4399_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Max";
+    <http://xmlns.com/foaf/0.1/familyName> "Verboeket";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verboeket, Max";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2850859>, <https://rkd.nl/explore/artists/80083>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4399_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4399_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_4399_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2015-01-23"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006862>.
+<http://vocab.getty.edu/tgn/7006862> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4399_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1922-07-08"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1047852>.
+<http://vocab.getty.edu/tgn/1047852> a <http://purl.org/dc/terms/Location>.
+_:df_4399_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00699"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4399_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001233"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001233/2021-12-31T17:00:29.380Z>.
+<https://stad.gent/id/agent/530001066/2021-12-31T16:50:55.771Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001066>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:50:55.771Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4468_13, _:df_4468_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/familyName> "Verbrugge";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verbrugge";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4468_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00585"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4468_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001066"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001066/2021-12-31T16:50:55.771Z>.
+<https://stad.gent/id/agent/530001067/2021-12-31T16:51:00.773Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001067>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:51:00.773Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4468_17, _:df_4468_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "H.";
+    <http://xmlns.com/foaf/0.1/familyName> "Verbrugge";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verbrugge, H.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4468_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00586"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4468_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001067"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001067/2021-12-31T16:51:00.773Z>.
+<https://stad.gent/id/agent/530000902/2021-12-31T16:39:56.142Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000902>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:39:56.142Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4546_2, _:df_4546_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4546_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4546_8;
+    <http://xmlns.com/foaf/0.1/givenName> " Geo";
+    <http://xmlns.com/foaf/0.1/familyName> "Verbanck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verbanck,  Geo";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/80026>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4546_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4546_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4546_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1961-12-12"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7245172>.
+<http://vocab.getty.edu/tgn/7245172> a <http://purl.org/dc/terms/Location>.
+_:df_4546_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1881-02-28"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4546_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00454"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4546_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000902"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000902/2021-12-31T16:39:56.142Z>.
+<https://stad.gent/id/agent/530000265/2021-12-31T15:56:08.841Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000265>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:56:08.841Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4795_23, _:df_4795_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Ludo";
+    <http://xmlns.com/foaf/0.1/familyName> "Verbeke";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verbeke, Ludo";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q21638837>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4795_29;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4795_29 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4795_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00042"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4795_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000265"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000265/2021-12-31T15:56:08.841Z>.
+<https://stad.gent/id/agent/470019091/2021-12-31T15:37:51.978Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470019091>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:37:51.978Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4828_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verbaere, Herman";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q21646820>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4828_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470019091"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470019091/2021-12-31T15:37:51.978Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/verb.ttl> <https://w3id.org/tree#relation> _:df_1_1492.
+_:df_1_1492 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/verba.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "verba".
+<https://oliviervd.github.io/substrings_coghent/agents/verb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/verb.ttl>.

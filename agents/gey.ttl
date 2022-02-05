@@ -1,0 +1,38 @@
+<https://stad.gent/id/agent/530001121/2021-12-31T16:54:07.056Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001121>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:54:07.056Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4447_49, _:df_4447_51;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "P.J.";
+    <http://xmlns.com/foaf/0.1/familyName> "Geyst";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Geyst, P.J.";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/31300>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4447_55;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4447_55 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Noordelijke Nederlanden"@nl.
+_:df_4447_51 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00623"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4447_49 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001121"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001121/2021-12-31T16:54:07.056Z>.
+<https://stad.gent/id/agent/530000572/2021-12-31T16:17:52.597Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000572>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:17:52.597Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4705_32, _:df_4705_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Marc";
+    <http://xmlns.com/foaf/0.1/familyName> "Geysen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Geysen, Marc";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4705_37;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4705_37 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4705_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00191"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4705_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000572"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000572/2021-12-31T16:17:52.597Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/gey.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/gey.ttl>.

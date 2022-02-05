@@ -1,0 +1,87 @@
+<https://stad.gent/id/agent/570025815/2022-01-01T02:18:24.217Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570025815>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:18:24.217Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2632_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Villard";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2632_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570025815"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570025815/2022-01-01T02:18:24.217Z>.
+<https://stad.gent/id/agent/530001672/2021-12-31T17:26:45.066Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001672>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:26:45.066Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4213_28, _:df_4213_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4213_32;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Villiers & Jackson";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4213_32 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7010955>.
+<http://vocab.getty.edu/tgn/7010955> a <http://purl.org/dc/terms/Location>.
+_:df_4213_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01011"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4213_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001672"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001672/2021-12-31T17:26:45.066Z>.
+<https://stad.gent/id/agent/530001281/2021-12-31T17:02:55.385Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001281>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:02:55.385Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4384_35, _:df_4384_37;
+    <http://www.w3.org/2004/02/skos/core#note> "http://fr.wikipedia.org/wiki/Emmanuel_Villanis";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4384_39;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4384_41;
+    <http://xmlns.com/foaf/0.1/givenName> "Emmanuel";
+    <http://xmlns.com/foaf/0.1/familyName> "Villanis";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Villanis, Emmanuel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q321589>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4384_45;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4384_45 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_4384_41 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1914-08-28"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>.
+_:df_4384_39 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1858-12-12"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008461>.
+<http://vocab.getty.edu/tgn/7008461> a <http://purl.org/dc/terms/Location>.
+_:df_4384_37 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00728"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4384_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001281"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001281/2021-12-31T17:02:55.385Z>.
+<https://stad.gent/id/agent/530000735/2021-12-31T16:29:42.343Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000735>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:29:42.343Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4621_29, _:df_4621_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4621_33;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Villeroy & Boch";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500249562>, <https://www.wikidata.org/entity/Q705042>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4621_33 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1748"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012604>.
+<http://vocab.getty.edu/tgn/7012604> a <http://purl.org/dc/terms/Location>.
+_:df_4621_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00332"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4621_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000735"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000735/2021-12-31T16:29:42.343Z>.
+<https://stad.gent/id/agent/470013892/2021-12-31T15:36:11.381Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470013892>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:36:11.381Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4840_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Villeroy & Boch";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q705042>, <http://vocab.getty.edu/page/ulan/500249562>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4840_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470013892"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470013892/2021-12-31T15:36:11.381Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/vil.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/vil.ttl>.

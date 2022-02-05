@@ -1,0 +1,118 @@
+<https://stad.gent/id/agent/670001624/2022-01-01T05:46:03.592Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001624>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:46:03.592Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1282_12, _:df_1282_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Lallemant";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lallemant";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1282_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1607"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1282_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001624"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001624/2022-01-01T05:46:03.592Z>.
+<https://stad.gent/id/agent/570028523/2022-01-01T02:37:11.849Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028523>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:37:11.849Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2527_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lallemand Fonderies";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2527_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028523"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028523/2022-01-01T02:37:11.849Z>.
+<https://stad.gent/id/agent/530023426/2021-12-31T21:26:16.777Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023426>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:26:16.777Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3076_25, _:df_3076_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3076_29;
+    <http://xmlns.com/foaf/0.1/givenName> "Lut";
+    <http://xmlns.com/foaf/0.1/familyName> "Laleman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Laleman, Lut";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3076_32;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3076_32 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3076_29 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1958"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026396>.
+<http://vocab.getty.edu/tgn/1026396> a <http://purl.org/dc/terms/Location>.
+_:df_3076_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02898"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3076_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023426"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023426/2021-12-31T21:26:16.777Z>.
+<https://stad.gent/id/agent/530001647/2021-12-31T17:25:29.370Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001647>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:25:29.370Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4222_31, _:df_4222_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4222_34;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4222_35;
+    <http://xmlns.com/foaf/0.1/givenName> "Robert";
+    <http://xmlns.com/foaf/0.1/familyName> "Lallemant";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lallemant, Robert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/416533>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4222_39;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4222_39 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_4222_35 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1954"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4222_34 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1902-05-24"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4222_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00996"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4222_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001647"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001647/2021-12-31T17:25:29.370Z>.
+<https://stad.gent/id/agent/530000864/2021-12-31T16:37:20.212Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000864>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:37:20.212Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4567_31, _:df_4567_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4567_34;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lalique SA";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500334801>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4567_34 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1898"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4567_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00423"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4567_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000864"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000864/2021-12-31T16:37:20.212Z>.
+<https://stad.gent/id/agent/530000130/2021-12-31T15:47:35.548Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000130>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:47:35.548Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4807_42, _:df_4807_44;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4807_46;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4807_48;
+    <http://xmlns.com/foaf/0.1/givenName> "René";
+    <http://xmlns.com/foaf/0.1/familyName> "Lalique";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lalique, René";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500063396>, <https://www.wikidata.org/entity/Q451400>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4807_52;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4807_52 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_4807_48 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1945-05-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008038>.
+<http://vocab.getty.edu/tgn/7008038> a <http://purl.org/dc/terms/Location>.
+_:df_4807_46 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1860-04-06"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1031680>.
+<http://vocab.getty.edu/tgn/1031680> a <http://purl.org/dc/terms/Location>.
+_:df_4807_44 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00023"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4807_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000130"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000130/2021-12-31T15:47:35.548Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/lal.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/lal.ttl>.

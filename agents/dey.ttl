@@ -1,0 +1,77 @@
+<https://stad.gent/id/agent/670001132/2022-01-01T05:05:14.081Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001132>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:05:14.081Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1573_2, _:df_1573_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Deynoot";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Deynoot, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1573_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1115"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1573_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001132"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001132/2022-01-01T05:05:14.081Z>.
+<https://stad.gent/id/agent/670001133/2022-01-01T05:05:19.082Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001133>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:05:19.082Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1573_10, _:df_1573_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jaecques";
+    <http://xmlns.com/foaf/0.1/familyName> "Deynoot";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Deynoot, Jaecques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1573_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1116"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1573_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001133"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001133/2022-01-01T05:05:19.082Z>.
+<https://stad.gent/id/agent/670001129/2022-01-01T05:04:58.820Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001129>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:04:58.820Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1576_12, _:df_1576_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Bernardus";
+    <http://xmlns.com/foaf/0.1/familyName> "Deynoodt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Deynoodt, Bernardus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1576_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1112"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1576_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001129"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001129/2022-01-01T05:04:58.820Z>.
+<https://stad.gent/id/agent/670001130/2022-01-01T05:05:03.821Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001130>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:05:03.821Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1576_17, _:df_1576_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Deynoodt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Deynoodt, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1576_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1113"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1576_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001130"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001130/2022-01-01T05:05:03.821Z>.
+<https://stad.gent/id/agent/670001131/2022-01-01T05:05:09.078Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001131>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:05:09.078Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1576_22, _:df_1576_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jean Bernard";
+    <http://xmlns.com/foaf/0.1/familyName> "Deynoot";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Deynoot, Jean Bernard";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1576_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1114"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1576_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001131"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001131/2022-01-01T05:05:09.078Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/dey.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/dey.ttl>.

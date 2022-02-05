@@ -1,0 +1,103 @@
+<https://stad.gent/id/agent/670002113/2022-01-01T06:26:58.602Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002113>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:26:58.602Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_988_2, _:df_988_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Geeraert";
+    <http://xmlns.com/foaf/0.1/familyName> "Roemaet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Roemaet, Geeraert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_988_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2096"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_988_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002113"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002113/2022-01-01T06:26:58.602Z>.
+<https://stad.gent/id/agent/670002108/2022-01-01T06:26:33.594Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002108>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:26:33.594Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_991_2, _:df_991_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Danneel";
+    <http://xmlns.com/foaf/0.1/familyName> "Roelandt";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Roelandt, Danneel";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_991_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2091"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_991_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002108"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002108/2022-01-01T06:26:33.594Z>.
+<https://stad.gent/id/agent/670002109/2022-01-01T06:26:38.595Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002109>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:26:38.595Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_991_7, _:df_991_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "N.";
+    <http://xmlns.com/foaf/0.1/familyName> "Roelant";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Roelant, N.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_991_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2092"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_991_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002109"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002109/2022-01-01T06:26:38.595Z>.
+<https://stad.gent/id/agent/670002110/2022-01-01T06:26:43.597Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002110>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:26:43.597Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_991_12, _:df_991_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Reynier";
+    <http://xmlns.com/foaf/0.1/familyName> "Roelant";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Roelant, Reynier";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_991_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2093"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_991_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002110"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002110/2022-01-01T06:26:43.597Z>.
+<https://stad.gent/id/agent/670002111/2022-01-01T06:26:48.598Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002111>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:26:48.598Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_991_17, _:df_991_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Roelants";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Roelants, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_991_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2094"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_991_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002111"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002111/2022-01-01T06:26:48.598Z>.
+<https://stad.gent/id/agent/670002112/2022-01-01T06:26:53.600Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002112>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:26:53.600Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_991_27, _:df_991_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Roelants";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Roelants, weduwe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_991_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2095"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_991_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002112"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002112/2022-01-01T06:26:53.600Z>.
+<https://stad.gent/id/agent/530000499/2021-12-31T16:13:05.333Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000499>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:13:05.333Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4738_2, _:df_4738_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "J.B.";
+    <http://xmlns.com/foaf/0.1/familyName> "Roemoet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Roemoet, J.B.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4738_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00134"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4738_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000499"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000499/2021-12-31T16:13:05.333Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/roe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/roe.ttl>.

@@ -1,0 +1,120 @@
+<https://stad.gent/id/agent/670002224/2022-01-01T06:36:11.908Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670002224>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T06:36:11.908Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_922_2, _:df_922_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Servaes";
+    <http://xmlns.com/foaf/0.1/familyName> "Silversmet";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Silversmet, Servaes";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_922_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2207"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_922_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670002224"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670002224/2022-01-01T06:36:11.908Z>.
+<https://stad.gent/id/agent/670000011/2022-01-01T03:31:21.413Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000011>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:31:21.413Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2245_38, _:df_2245_40;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Martinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Silbo";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Silbo, Martinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2245_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_2206"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2245_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000011"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000011/2022-01-01T03:31:21.413Z>.
+<https://stad.gent/id/agent/570029166/2022-01-01T02:49:11.901Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029166>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:49:11.901Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2446_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Silkose nv";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2446_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029166"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029166/2022-01-01T02:49:11.901Z>.
+<https://stad.gent/id/agent/570028654/2022-01-01T02:41:48.697Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028654>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:41:48.697Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2494_5;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Silan";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2494_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028654"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028654/2022-01-01T02:41:48.697Z>.
+<https://stad.gent/id/agent/570028483/2022-01-01T02:35:56.525Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028483>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:35:56.525Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2530_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Silichrome";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2530_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028483"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028483/2022-01-01T02:35:56.525Z>.
+<https://stad.gent/id/agent/530024061/2021-12-31T21:56:33.111Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024061>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:56:33.111Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2968_17, _:df_2968_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_2968_21;
+    <http://xmlns.com/foaf/0.1/givenName> "Bela";
+    <http://xmlns.com/foaf/0.1/familyName> "Silva";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Silva, Bela";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2968_27;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2968_27 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Portugees"@nl.
+_:df_2968_21 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1966"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7010978>.
+<http://vocab.getty.edu/tgn/7010978> a <http://purl.org/dc/terms/Location>.
+_:df_2968_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03119"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2968_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024061"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024061/2021-12-31T21:56:33.111Z>.
+<https://stad.gent/id/agent/530001520/2021-12-31T17:17:01.018Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001520>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:17:01.018Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4282_21, _:df_4282_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4282_24;
+    <http://xmlns.com/foaf/0.1/givenName> "Jari";
+    <http://xmlns.com/foaf/0.1/familyName> "Silvennoinen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Silvennoinen, Jari";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4282_24 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1957"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4282_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00895"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4282_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001520"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001520/2021-12-31T17:17:01.018Z>.
+<https://stad.gent/id/agent/530000762/2021-12-31T16:31:17.679Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000762>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:31:17.679Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4609_17, _:df_4609_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4609_21;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Silberwarenfabrik Peter Bruckmann & Söhne";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2285933>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4609_21 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1805"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7012495>.
+<http://vocab.getty.edu/tgn/7012495> a <http://purl.org/dc/terms/Location>.
+_:df_4609_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00351"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4609_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000762"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000762/2021-12-31T16:31:17.679Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/sil.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/sil.ttl>.

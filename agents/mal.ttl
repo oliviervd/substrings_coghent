@@ -1,0 +1,243 @@
+<https://stad.gent/id/agent/670001763/2022-01-01T05:57:38.096Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001763>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:57:38.096Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1198_2, _:df_1198_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Arnoldus";
+    <http://xmlns.com/foaf/0.1/familyName> "Malsschaert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Malsschaert, Arnoldus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1198_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1746"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1198_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001763"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001763/2022-01-01T05:57:38.096Z>.
+<https://stad.gent/id/agent/670001758/2022-01-01T05:57:13.087Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001758>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:57:13.087Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1201_2, _:df_1201_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Ignace Balthazar weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Malfeson";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Malfeson, Ignace Balthazar weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1201_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1741"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1201_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001758"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001758/2022-01-01T05:57:13.087Z>.
+<https://stad.gent/id/agent/670001759/2022-01-01T05:57:18.089Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001759>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:57:18.089Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1201_7, _:df_1201_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Malfeson";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Malfeson";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1201_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1742"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1201_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001759"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001759/2022-01-01T05:57:18.089Z>.
+<https://stad.gent/id/agent/670001760/2022-01-01T05:57:23.091Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001760>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:57:23.091Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1201_11, _:df_1201_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "Mallapert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mallapert, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1201_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1743"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1201_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001760"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001760/2022-01-01T05:57:23.091Z>.
+<https://stad.gent/id/agent/670001761/2022-01-01T05:57:28.093Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001761>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:57:28.093Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1201_16, _:df_1201_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Mallepert";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mallepert, Judocus Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1201_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1744"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1201_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001761"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001761/2022-01-01T05:57:28.093Z>.
+<https://stad.gent/id/agent/670001762/2022-01-01T05:57:33.094Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001762>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:57:33.094Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1201_24, _:df_1201_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anthone Joseph";
+    <http://xmlns.com/foaf/0.1/familyName> "Mallez";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mallez, Anthone Joseph";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1201_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1745"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1201_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001762"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001762/2022-01-01T05:57:33.094Z>.
+<https://stad.gent/id/agent/670001755/2022-01-01T05:56:57.834Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001755>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:56:57.834Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1204_14, _:df_1204_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Carolus";
+    <http://xmlns.com/foaf/0.1/familyName> "Malfait";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Malfait, Carolus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1204_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1738"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1204_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001755"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001755/2022-01-01T05:56:57.834Z>.
+<https://stad.gent/id/agent/670001756/2022-01-01T05:57:02.837Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001756>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:57:02.837Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1204_19, _:df_1204_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "Malfeson";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Malfeson, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1204_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1739"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1204_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001756"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001756/2022-01-01T05:57:02.837Z>.
+<https://stad.gent/id/agent/670001757/2022-01-01T05:57:08.086Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001757>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:57:08.086Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1204_27, _:df_1204_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Ignace Balthazar";
+    <http://xmlns.com/foaf/0.1/familyName> "Malfeson";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Malfeson, Ignace Balthazar";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1204_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1740"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1204_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001757"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001757/2022-01-01T05:57:08.086Z>.
+<https://stad.gent/id/agent/570030778/2022-01-01T03:05:08.286Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570030778>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T03:05:08.286Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2344_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Mallebrancke, G.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2344_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570030778"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570030778/2022-01-01T03:05:08.286Z>.
+<https://stad.gent/id/agent/530022573/2021-12-31T20:53:58.010Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530022573>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:53:58.010Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3253_36, _:df_3253_38;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3253_40;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3253_42;
+    <http://xmlns.com/foaf/0.1/givenName> "Annika";
+    <http://xmlns.com/foaf/0.1/familyName> "Malmström-Bladini";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Malmström-Bladini, Annika";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3253_45;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3253_45 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Zweeds"@nl.
+_:df_3253_42 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2015-03-08"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1063585>.
+<http://vocab.getty.edu/tgn/1063585> a <http://purl.org/dc/terms/Location>.
+_:df_3253_40 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1929-08-05"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009861>.
+<http://vocab.getty.edu/tgn/7009861> a <http://purl.org/dc/terms/Location>.
+_:df_3253_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02604"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3253_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530022573"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530022573/2021-12-31T20:53:58.010Z>.
+<https://stad.gent/id/agent/530021320/2021-12-31T20:17:38.534Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021320>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:17:38.534Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3475_29, _:df_3475_31;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3475_33;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Malafor";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/317192634>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3475_33 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007660>.
+<http://vocab.getty.edu/tgn/7007660> a <http://purl.org/dc/terms/Location>.
+_:df_3475_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02233"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3475_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021320"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021320/2021-12-31T20:17:38.534Z>.
+<https://stad.gent/id/agent/530001600/2021-12-31T17:22:17.939Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001600>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:22:17.939Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4243_2, _:df_4243_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4243_6;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4243_8;
+    <http://xmlns.com/foaf/0.1/givenName> "Valente";
+    <http://xmlns.com/foaf/0.1/familyName> "Malangatana";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Malangatana, Valente";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500329606>, <https://www.wikidata.org/entity/Q384560>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4243_12;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4243_12 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Afrikaans"@nl.
+_:df_4243_8 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2011-01-05"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1049821>.
+<http://vocab.getty.edu/tgn/1049821> a <http://purl.org/dc/terms/Location>.
+_:df_4243_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1936-06-06"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1091701>.
+<http://vocab.getty.edu/tgn/1091701> a <http://purl.org/dc/terms/Location>.
+_:df_4243_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00958"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4243_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001600"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001600/2021-12-31T17:22:17.939Z>.
+<https://stad.gent/id/agent/530001587/2021-12-31T17:21:32.662Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001587>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:21:32.662Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4249_12, _:df_4249_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4249_16;
+    <http://xmlns.com/foaf/0.1/givenName> "Karel";
+    <http://xmlns.com/foaf/0.1/familyName> "Malich";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Malich, Karel";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500202545>, <https://www.wikidata.org/entity/Q12028389>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4249_20;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4249_20 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Tsjecho-Slowaaks"@nl.
+_:df_4249_16 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1924-10-18"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1027201>.
+<http://vocab.getty.edu/tgn/1027201> a <http://purl.org/dc/terms/Location>.
+_:df_4249_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00949"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4249_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001587"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001587/2021-12-31T17:21:32.662Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/mal.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/mal.ttl>.

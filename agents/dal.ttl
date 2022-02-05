@@ -1,0 +1,104 @@
+<https://stad.gent/id/agent/530021962/2021-12-31T20:41:53.210Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021962>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:41:53.210Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3325_33, _:df_3325_35;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3325_37;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3325_39;
+    <http://xmlns.com/foaf/0.1/givenName> "Salvador";
+    <http://xmlns.com/foaf/0.1/familyName> "Dali";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dali, Salvador";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500009365>, <https://www.wikidata.org/entity/Q5577>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3325_43;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3325_43 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Spaans"@nl.
+_:df_3325_39 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1989-01-23"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1062024>.
+<http://vocab.getty.edu/tgn/1062024> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3325_37 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1904-05-11"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1062024>.
+_:df_3325_35 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02484"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3325_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021962"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021962/2021-12-31T20:41:53.210Z>.
+<https://stad.gent/id/agent/530021132/2021-12-31T20:14:42.576Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530021132>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T20:14:42.576Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3487_30, _:df_3487_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3487_33;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3487_34;
+    <http://xmlns.com/foaf/0.1/givenName> "Adolphe";
+    <http://xmlns.com/foaf/0.1/familyName> "Dalpayrat";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dalpayrat, Adolphe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q98057139>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3487_34 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1934"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3487_33 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1871"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3487_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02213"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3487_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530021132"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530021132/2021-12-31T20:14:42.576Z>.
+<https://stad.gent/id/agent/530001531/2021-12-31T17:17:46.355Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001531>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:17:46.355Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4276_14, _:df_4276_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4276_18;
+    <http://xmlns.com/foaf/0.1/givenName> "Ricardo";
+    <http://xmlns.com/foaf/0.1/familyName> "Dalissi";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dalissi, Ricardo";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500026819>, <https://www.wikidata.org/entity/Q3934415>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4276_25;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4276_25 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_4276_18 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1931-05-01"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7004228>.
+<http://vocab.getty.edu/tgn/7004228> a <http://purl.org/dc/terms/Location>.
+_:df_4276_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00904"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4276_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001531"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001531/2021-12-31T17:17:46.355Z>.
+<https://stad.gent/id/agent/530001200/2021-12-31T16:58:43.754Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001200>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:58:43.754Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4414_39, _:df_4414_41;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4414_43;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4414_45;
+    <http://xmlns.com/foaf/0.1/givenName> "Pierre Adrien";
+    <http://xmlns.com/foaf/0.1/familyName> "Dalpayrat";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Dalpayrat, Pierre Adrien";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500102727>, <https://www.wikidata.org/entity/Q787301>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4414_49;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4414_49 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Frans"@nl.
+_:df_4414_45 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1910-08-10"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008410>.
+<http://vocab.getty.edu/tgn/7008410> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4414_43 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1844-04-14"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7008410>.
+_:df_4414_41 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00678"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4414_39 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001200"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001200/2021-12-31T16:58:43.754Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/dal.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/dal.ttl>.

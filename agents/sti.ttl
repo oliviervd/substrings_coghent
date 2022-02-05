@@ -1,0 +1,70 @@
+<https://stad.gent/id/agent/530016783/2021-12-31T18:49:43.369Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016783>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:49:43.369Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3811_7, _:df_3811_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3811_11;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3811_13;
+    <http://xmlns.com/foaf/0.1/givenName> "Nanny";
+    <http://xmlns.com/foaf/0.1/familyName> "Still";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Still, Nanny";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500468290>, <https://www.wikidata.org/entity/Q11883982>, <https://rkd.nl/en/explore/artists/224855>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3811_17;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3811_17 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Fins"@nl.
+_:df_3811_13 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2009-05-07"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/7007868> a <http://purl.org/dc/terms/Location>.
+_:df_3811_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1926-07-31"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7009880>.
+<http://vocab.getty.edu/tgn/7009880> a <http://purl.org/dc/terms/Location>.
+_:df_3811_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01678"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3811_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016783"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016783/2021-12-31T18:49:43.369Z>.
+<https://stad.gent/id/agent/530011472/2021-12-31T17:50:39.288Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530011472>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:50:39.288Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4090_2, _:df_4090_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stichting Kunstboek";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4090_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01214"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4090_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530011472"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530011472/2021-12-31T17:50:39.288Z>.
+<https://stad.gent/id/agent/530001616/2021-12-31T17:23:28.653Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001616>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:23:28.653Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4237_36, _:df_4237_38;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Stiletto Studios";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4237_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00972"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4237_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001616"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001616/2021-12-31T17:23:28.653Z>.
+<https://stad.gent/id/agent/530001470/2021-12-31T17:13:59.657Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001470>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:13:59.657Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4303_13, _:df_4303_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Nancy";
+    <http://xmlns.com/foaf/0.1/familyName> "Still McKinney";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Still McKinney, Nancy";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4303_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00068"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4303_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001470"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001470/2021-12-31T17:13:59.657Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/sti.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/sti.ttl>.

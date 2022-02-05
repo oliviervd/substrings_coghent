@@ -1,0 +1,38 @@
+<https://stad.gent/id/agent/530013695/2021-12-31T18:24:33.611Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013695>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:24:33.611Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3934_36, _:df_3934_38;
+    <http://www.w3.org/2004/02/skos/core#note> "[http://collectie.lakenhal.nl/kunstenaars?maker%5Bnaam%5D=Amphora%2C+Tegel-+en+Faiencefabriek]\r\n\r\nRond 1900 kende Leiden een bloeiend kunstklimaat met toonaangevende kunstenaars als Floris Verster en Menso Kamerlingh Onnes. In Voorschoten wist de firma Van Kempen zicht te ontwikkelen tot de bekende producent van gebruiks- en sierzilver. Op het gebied van aardewerk bleef de regio niet achter, met vernieuwende pottenbakkers als W.C. Brouwer, M. Zaalberg en G. de Blanken. Oegstgeest kon bogen op de Tegel- en Faiencefabriek Amphora die tussen 1908 en 1933 aardewerk afleverde van hoge kwaliteit.\r\nDe fabriek had vakkundige medewerkers in dienst die elk afzonderlijk object met de hand beschilderden en beschikte over bekende ontwerpers als Sam Schellink, Theo Verstraaten, Chris van der Hoef en Roelof Sterken. De fabriek produceerde aanvankelijk aardewerk waarin robuuste vormen werden versierd met sierlijke motieven, waarin de Jugendstil of Art Nouveau nog naklonk, en experimenteerde met aardewerk dat was geïnspireerd op Iraanse of Chinese voorbeelden. De sluiting van de beroemde fabriek Rozenburg in Den Haag in 1914 betekende een nieuwe uitdaging voor Amphora. De productie van gedenkaardewerk, het zogenoemde Juliana-aardewerk, werd vanuit Den Haag in Oegstgeest voortgezet. Veel succes oogstte de fabriek met aardewerk naar ontwerp van Chris van der Hoef met een meer simpele, geometrische decoratie, met verfijnde kleurvlakjes en lijnen tegen een crèmekleurige ondergrond.\r\nHet is vooral met deze laatste categorie dat Amphora zich wist te onderscheiden van andere fabrieken en een eigen hoge standaard in kwaliteit wist te bereiken.\r\n[Bron: Christiaan Vogelaar, \"De collectie Amphora in De Lakenhal integraal getoond\", in: Lakenhal Nieuws, nr. 3, september-december 2008.]";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3934_40;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3934_42;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tegel- en Fayencefabriek Amphora";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2192180>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3934_42 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1933"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006818>.
+<http://vocab.getty.edu/tgn/7006818> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_3934_40 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1908"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006818>.
+_:df_3934_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01476"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3934_36 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013695"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013695/2021-12-31T18:24:33.611Z>.
+<https://stad.gent/id/agent/530001389/2021-12-31T17:08:57.825Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001389>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:08:57.825Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4339_14, _:df_4339_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Tegelbakkerij Lotus";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/337383>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4339_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00800"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4339_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001389"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001389/2021-12-31T17:08:57.825Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/teg.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/teg.ttl>.

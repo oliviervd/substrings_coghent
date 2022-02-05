@@ -1,0 +1,36 @@
+<https://stad.gent/id/agent/670001623/2022-01-01T05:45:58.591Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001623>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:45:58.591Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1282_7, _:df_1282_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "J.D.";
+    <http://xmlns.com/foaf/0.1/familyName> "Lageye";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lageye, J.D.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1282_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1606"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1282_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001623"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001623/2022-01-01T05:45:58.591Z>.
+<https://stad.gent/id/agent/570029948/2022-01-01T02:58:35.482Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029948>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:58:35.482Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2389_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "L'Agreable";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2389_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029948"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029948/2022-01-01T02:58:35.482Z>.
+<https://stad.gent/id/agent/570029203/2022-01-01T02:49:52.184Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570029203>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:49:52.184Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2443_6;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Lagache L.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2443_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570029203"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570029203/2022-01-01T02:49:52.184Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/lag.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/lag.ttl>.

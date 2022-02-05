@@ -1,0 +1,14 @@
+<https://stad.gent/id/agent/530013515/2021-12-31T18:12:43.472Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013515>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:12:43.472Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4003_21, _:df_4003_23;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Richard Perry, Son & Co.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4003_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01359"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4003_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013515"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013515/2021-12-31T18:12:43.472Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/ric.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/ric.ttl>.

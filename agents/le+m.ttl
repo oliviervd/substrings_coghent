@@ -1,0 +1,17 @@
+<https://stad.gent/id/agent/670001656/2022-01-01T05:48:44.920Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001656>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:48:44.920Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1264_26, _:df_1264_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jaecques Philippe";
+    <http://xmlns.com/foaf/0.1/familyName> "le Mettre";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "le Mettre, Jaecques Philippe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1264_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1639"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1264_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001656"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001656/2022-01-01T05:48:44.920Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/le+m.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/le+m.ttl>.

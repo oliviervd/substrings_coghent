@@ -1,0 +1,103 @@
+<https://stad.gent/id/agent/670001072/2022-01-01T05:00:12.239Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001072>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:00:12.239Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1609_2, _:df_1609_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Debois";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Debois";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1609_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1055"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1609_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001072"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001072/2022-01-01T05:00:12.239Z>.
+<https://stad.gent/id/agent/670001073/2022-01-01T05:00:17.240Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001073>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:00:17.240Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1609_6, _:df_1609_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joanna Maria Albertine";
+    <http://xmlns.com/foaf/0.1/familyName> "Debrio";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Debrio, Joanna Maria Albertine";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1609_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1056"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1609_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001073"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001073/2022-01-01T05:00:17.240Z>.
+<https://stad.gent/id/agent/670001074/2022-01-01T05:00:22.242Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001074>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:00:22.242Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1609_11, _:df_1609_13;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Debruyne";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Debruyne, Pieter Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1609_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1057"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1609_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001074"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001074/2022-01-01T05:00:22.242Z>.
+<https://stad.gent/id/agent/670001070/2022-01-01T05:00:01.642Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001070>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:00:01.642Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1612_17, _:df_1612_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Martinus";
+    <http://xmlns.com/foaf/0.1/familyName> "Debbaut";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Debbaut, Martinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1612_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1053"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1612_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001070"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001070/2022-01-01T05:00:01.642Z>.
+<https://stad.gent/id/agent/670001071/2022-01-01T05:00:07.237Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001071>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:00:07.237Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1612_25, _:df_1612_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan Baptiste";
+    <http://xmlns.com/foaf/0.1/familyName> "Debbaut";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Debbaut, Jan Baptiste";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1612_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1054"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1612_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001071"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001071/2022-01-01T05:00:07.237Z>.
+<https://stad.gent/id/agent/570021117/2022-01-01T02:01:17.598Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570021117>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:01:17.598Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2752_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Debeerst, Philippe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2752_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570021117"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570021117/2022-01-01T02:01:17.598Z>.
+<https://stad.gent/id/agent/530001764/2021-12-31T17:31:47.009Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001764>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:31:47.009Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4177_25, _:df_4177_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "J.";
+    <http://xmlns.com/foaf/0.1/familyName> "Debeuf";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Debeuf, J.";
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4177_30;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4177_30 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_4177_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01071"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4177_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001764"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001764/2021-12-31T17:31:47.009Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/deb.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/deb.ttl>.

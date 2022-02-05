@@ -1,0 +1,134 @@
+<https://stad.gent/id/agent/530023256/2021-12-31T21:14:01.717Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023256>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:14:01.717Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3148_9, _:df_3148_11;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3148_13;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3148_15;
+    <http://xmlns.com/foaf/0.1/givenName> "Louise";
+    <http://xmlns.com/foaf/0.1/familyName> "Laridon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Laridon, Louise";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500152000>, <https://www.wikidata.org/entity/Q21498465>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3148_19;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3148_19 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3148_15 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1943-04-23"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007856>.
+<http://vocab.getty.edu/tgn/7007856> a <http://purl.org/dc/terms/Location>.
+_:df_3148_13 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1868-02-15"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007945>.
+<http://vocab.getty.edu/tgn/7007945> a <http://purl.org/dc/terms/Location>.
+_:df_3148_11 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02776"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3148_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023256"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023256/2021-12-31T21:14:01.717Z>.
+<https://stad.gent/id/agent/530016731/2021-12-31T18:47:17.686Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016731>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:47:17.686Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3823_26, _:df_3823_28;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3823_29;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "L'Art Décoratif Céline Dangotte";
+    <http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/138767928>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3823_29 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1912"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3823_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01660"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3823_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016731"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016731/2021-12-31T18:47:17.686Z>.
+<https://stad.gent/id/agent/530016716/2021-12-31T18:46:32.372Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530016716>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:46:32.372Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3826_16, _:df_3826_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3826_20;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3826_22;
+    <http://xmlns.com/foaf/0.1/givenName> "Jack Lenor";
+    <http://xmlns.com/foaf/0.1/familyName> "Larsen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Larsen, Jack Lenor";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500018823>, <https://www.wikidata.org/entity/Q6113656>, <https://rkd.nl/explore/artists/303058>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3826_26;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3826_26 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Amerikaans"@nl.
+_:df_3826_22 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "2020-12-22"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7013673>.
+<http://vocab.getty.edu/tgn/7013673> a <http://purl.org/dc/terms/Location>.
+_:df_3826_20 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1927-08-05"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7014494>.
+<http://vocab.getty.edu/tgn/7014494> a <http://purl.org/dc/terms/Location>.
+_:df_3826_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01653"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3826_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530016716"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530016716/2021-12-31T18:46:32.372Z>.
+<https://stad.gent/id/agent/530001884/2021-12-31T17:39:39.890Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001884>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:39:39.890Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4120_14, _:df_4120_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Laral Straatman & Co.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4120_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01165"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4120_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001884"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001884/2021-12-31T17:39:39.890Z>.
+<https://stad.gent/id/agent/530001562/2021-12-31T17:20:02.339Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001562>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:20:02.339Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4261_25, _:df_4261_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4261_28;
+    <http://xmlns.com/foaf/0.1/givenName> "Quim";
+    <http://xmlns.com/foaf/0.1/familyName> "Larrea";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Larrea, Quim";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500232842>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4261_32;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4261_32 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Spaans"@nl.
+_:df_4261_28 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1957"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4261_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00931"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4261_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001562"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001562/2021-12-31T17:20:02.339Z>.
+<https://stad.gent/id/agent/530000525/2021-12-31T16:14:40.998Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000525>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:14:40.998Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4729_46, _:df_4729_48;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4729_50;
+    <http://xmlns.com/foaf/0.1/givenName> "Lisa";
+    <http://xmlns.com/foaf/0.1/familyName> "Larson";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Larson, Lisa";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <https://rkd.nl/explore/artists/265934>, <https://www.wikidata.org/entity/Q532300>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4729_54;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4729_54 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Zweeds"@nl.
+_:df_4729_50 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1931"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <https://www.wikidata.org/entity/q21566530>.
+<https://www.wikidata.org/entity/q21566530> a <http://purl.org/dc/terms/Location>.
+_:df_4729_48 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00153"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4729_46 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000525"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000525/2021-12-31T16:14:40.998Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/lar.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/lar.ttl>.

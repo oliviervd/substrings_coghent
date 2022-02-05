@@ -1,0 +1,84 @@
+<https://stad.gent/id/agent/570028585/2022-01-01T02:40:28.158Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/570028585>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T02:40:28.158Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2503_2;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2245203>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Peeters M. Gieterijen";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2503_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "570028585"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/570028585/2022-01-01T02:40:28.158Z>.
+<https://stad.gent/id/agent/530024283/2021-12-31T22:11:59.172Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024283>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T22:11:59.172Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2902_24, _:df_2902_26;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Nathalie";
+    <http://xmlns.com/foaf/0.1/familyName> "Peeters";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Peeters, Nathalie";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2902_26 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-03226"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_2902_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024283"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024283/2021-12-31T22:11:59.172Z>.
+<https://stad.gent/id/agent/530023311/2021-12-31T21:18:23.825Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023311>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:18:23.825Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3118_28, _:df_3118_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "M.";
+    <http://xmlns.com/foaf/0.1/familyName> "Peeters";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Peeters, M.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3118_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02828"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3118_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023311"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023311/2021-12-31T21:18:23.825Z>.
+<https://stad.gent/id/agent/530023269/2021-12-31T21:14:57.279Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023269>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:14:57.279Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3142_19, _:df_3142_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "J.";
+    <http://xmlns.com/foaf/0.1/familyName> "Peeters";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Peeters, J.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3142_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02787"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3142_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023269"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023269/2021-12-31T21:14:57.279Z>.
+<https://stad.gent/id/agent/530000683/2021-12-31T16:26:31.078Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000683>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:26:31.078Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4642_2, _:df_4642_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "G.";
+    <http://xmlns.com/foaf/0.1/familyName> "Peeters";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Peeters, G.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4642_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00294"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4642_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000683"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000683/2021-12-31T16:26:31.078Z>.
+<https://stad.gent/id/agent/530000640/2021-12-31T16:23:04.837Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000640>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:23:04.837Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4669_22, _:df_4669_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "E.";
+    <http://xmlns.com/foaf/0.1/familyName> "Peereboom";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Peereboom, E.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4669_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00253"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4669_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000640"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000640/2021-12-31T16:23:04.837Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/pee.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/pee.ttl>.

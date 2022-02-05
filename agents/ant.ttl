@@ -1,0 +1,27 @@
+<https://stad.gent/id/agent/530001428/2021-12-31T17:11:13.751Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001428>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:11:13.751Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4324_25, _:df_4324_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "W.";
+    <http://xmlns.com/foaf/0.1/familyName> "Anthoon";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Anthoon, W.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4324_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00827"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4324_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001428"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001428/2021-12-31T17:11:13.751Z>.
+<https://stad.gent/id/agent/470019784/2021-12-31T15:38:52.310Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470019784>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:38:52.310Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4822_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Anteunis, Jan";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q21644733>, <http://vocab.getty.edu/page/ulan/500192098>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4822_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470019784"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470019784/2021-12-31T15:38:52.310Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/ant.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/ant.ttl>.

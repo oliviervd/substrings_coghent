@@ -1,0 +1,145 @@
+<https://stad.gent/id/agent/530024285/2021-12-31T22:12:09.175Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530024285>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T22:12:09.175Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_2899_2;
+    <http://www.w3.org/2004/02/skos/core#note> "Plateelschilder bij Plateelbakkerij Ram";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "Albert";
+    <http://xmlns.com/foaf/0.1/familyName> "Peters";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Peters, Albert";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_2899_5;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_2899_5 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_2899_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530024285"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530024285/2021-12-31T22:12:09.175Z>.
+<https://stad.gent/id/agent/530023034/2021-12-31T21:00:10.160Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530023034>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T21:00:10.160Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3223_2, _:df_3223_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3223_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3223_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Lucien";
+    <http://xmlns.com/foaf/0.1/familyName> "Petignot";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Petignot, Lucien";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3223_9;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3223_9 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Belgisch"@nl.
+_:df_3223_6 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1936"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3223_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1874"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3223_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-02650"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3223_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530023034"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530023034/2021-12-31T21:00:10.160Z>.
+<https://stad.gent/id/agent/530019980/2021-12-31T19:36:17.114Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019980>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:36:17.114Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3688_2, _:df_3688_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Petit Jour";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3688_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01877"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3688_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019980"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019980/2021-12-31T19:36:17.114Z>.
+<https://stad.gent/id/agent/530019168/2021-12-31T19:23:37.071Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530019168>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T19:23:37.071Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3721_38, _:df_3721_40;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3721_42;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_3721_43;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Petrus Regout & Co.";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q2738000>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3721_43 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1958"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_3721_42 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1834"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006862>.
+<http://vocab.getty.edu/tgn/7006862> a <http://purl.org/dc/terms/Location>.
+_:df_3721_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01829"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3721_38 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530019168"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530019168/2021-12-31T19:23:37.071Z>.
+<https://stad.gent/id/agent/530014898/2021-12-31T18:31:11.153Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530014898>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:31:11.153Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_3901_22, _:df_3901_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_3901_26;
+    <http://xmlns.com/foaf/0.1/givenName> "Ruudt";
+    <http://xmlns.com/foaf/0.1/familyName> "Peters";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Peters, Ruudt";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2002/07/owl#sameAs> <http://vocab.getty.edu/ulan/500394204>, <https://www.wikidata.org/entity/Q15638123>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_3901_30;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_3901_30 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Nederlands"@nl.
+_:df_3901_26 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1950-08-17"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7006807>.
+<http://vocab.getty.edu/tgn/7006807> a <http://purl.org/dc/terms/Location>.
+_:df_3901_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01529"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_3901_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530014898"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530014898/2021-12-31T18:31:11.153Z>.
+<https://stad.gent/id/agent/530000978/2021-12-31T16:44:58.017Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000978>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:44:58.017Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4510_2, _:df_4510_4;
+    <http://www.w3.org/2004/02/skos/core#note> "Hans Christian Joachim (1870 -1943) Painter and ceramic artist. The widow of P. Ipsen art pottery in the 1890s. Aluminia 1901 where he became Artistic director 1911. Artistic director at RC Factory 1922-33. Chr. Joachim efter 1911. [http://www.jamerantik.dk/kunstnersignaturer_aluminia.htm]";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4510_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_4510_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Christian Joachim";
+    <http://xmlns.com/foaf/0.1/familyName> "Petersen";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Petersen, Christian Joachim";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4510_6 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1943"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4510_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1870"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_4510_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00514"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4510_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000978"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000978/2021-12-31T16:44:58.017Z>.
+<https://stad.gent/id/agent/530000399/2021-12-31T16:05:47.259Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000399>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:05:47.259Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4771_6, _:df_4771_8;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4771_10;
+    <http://xmlns.com/foaf/0.1/givenName> "Bruno";
+    <http://xmlns.com/foaf/0.1/familyName> "Petronzi";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Petronzi, Bruno";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    <https://data.vlaanderen.be/ns/persoon#heeftNationaliteit> _:df_4771_13;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4771_13 a <https://data.vlaanderen.be/ns/persoon#Nationaliteit>;
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "Italiaans"@nl.
+_:df_4771_10 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1966-01-28"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005688>.
+<http://vocab.getty.edu/tgn/7005688> a <http://purl.org/dc/terms/Location>, <http://purl.org/dc/terms/Location>.
+_:df_4771_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00080"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4771_6 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000399"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000399/2021-12-31T16:05:47.259Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/pet.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/pet.ttl>.

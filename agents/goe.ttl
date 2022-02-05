@@ -1,0 +1,320 @@
+<https://stad.gent/id/agent/670001387/2022-01-01T05:26:26.684Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001387>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:26:26.684Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1423_23, _:df_1423_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus";
+    <http://xmlns.com/foaf/0.1/familyName> "Goethals";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goethals, Judocus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1423_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1370"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1423_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001387"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001387/2022-01-01T05:26:26.684Z>.
+<https://stad.gent/id/agent/670001388/2022-01-01T05:26:31.686Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001388>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:26:31.686Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1423_31, _:df_1423_33;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Judocus (jr.)";
+    <http://xmlns.com/foaf/0.1/familyName> "Goethals";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goethals, Judocus (jr.)";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1423_33 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1371"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1423_31 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001388"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001388/2022-01-01T05:26:31.686Z>.
+<https://stad.gent/id/agent/670001379/2022-01-01T05:25:46.407Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001379>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:25:46.407Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1426_2, _:df_1426_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Adriaen";
+    <http://xmlns.com/foaf/0.1/familyName> "Goethals";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goethals, Adriaen";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1426_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1362"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1426_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001379"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001379/2022-01-01T05:25:46.407Z>.
+<https://stad.gent/id/agent/670001380/2022-01-01T05:25:51.409Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001380>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:25:51.409Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1426_7, _:df_1426_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Marie Joanne";
+    <http://xmlns.com/foaf/0.1/familyName> "Goethals";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goethals, Marie Joanne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1426_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1363"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1426_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001380"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001380/2022-01-01T05:25:51.409Z>.
+<https://stad.gent/id/agent/670001381/2022-01-01T05:25:56.412Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001381>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:25:56.412Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1426_12, _:df_1426_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Goethals";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goethals, Jan weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1426_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1364"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1426_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001381"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001381/2022-01-01T05:25:56.412Z>.
+<https://stad.gent/id/agent/670001382/2022-01-01T05:26:01.414Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001382>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:26:01.414Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1426_17, _:df_1426_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Goethals";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goethals, Joannes weduwe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1426_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1365"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1426_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001382"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001382/2022-01-01T05:26:01.414Z>.
+<https://stad.gent/id/agent/670001383/2022-01-01T05:26:06.677Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001383>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:26:06.677Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1426_22, _:df_1426_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "P.";
+    <http://xmlns.com/foaf/0.1/familyName> "Goethals";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goethals, P.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1426_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1366"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1426_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001383"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001383/2022-01-01T05:26:06.677Z>.
+<https://stad.gent/id/agent/670001374/2022-01-01T05:25:21.397Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001374>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:25:21.397Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1429_2, _:df_1429_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_1429_5;
+    <https://data.vlaanderen.be/ns/persoon#heeftOverlijden> _:df_1429_6;
+    <http://xmlns.com/foaf/0.1/givenName> "Jacques";
+    <http://xmlns.com/foaf/0.1/familyName> "Goetghebuer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goetghebuer, Jacques";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1429_6 a <https://data.vlaanderen.be/ns/persoon#Overlijden>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1825"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_1429_5 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1760"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_1429_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1357"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1429_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001374"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001374/2022-01-01T05:25:21.397Z>.
+<https://stad.gent/id/agent/670001375/2022-01-01T05:25:26.399Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001375>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:25:26.399Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1429_14, _:df_1429_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Goetgheluck";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goetgheluck";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1429_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1358"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1429_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001375"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001375/2022-01-01T05:25:26.399Z>.
+<https://stad.gent/id/agent/670001376/2022-01-01T05:25:31.401Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001376>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:25:31.401Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1429_18, _:df_1429_20;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "meester B. Goethaels", "meester Goethaels, meester";
+    <http://xmlns.com/foaf/0.1/givenName> "B.";
+    <http://xmlns.com/foaf/0.1/familyName> "Goethaels";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goethaels, B.";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1429_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1359"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1429_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001376"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001376/2022-01-01T05:25:31.401Z>.
+<https://stad.gent/id/agent/670001377/2022-01-01T05:25:36.402Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001377>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:25:36.402Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1429_27, _:df_1429_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Therese";
+    <http://xmlns.com/foaf/0.1/familyName> "Goethals";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goethals, Therese";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1429_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1360"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1429_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001377"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001377/2022-01-01T05:25:36.402Z>.
+<https://stad.gent/id/agent/670001378/2022-01-01T05:25:41.405Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001378>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:25:41.405Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1429_32, _:df_1429_34;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "Goethals";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goethals, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1429_34 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1361"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1429_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001378"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001378/2022-01-01T05:25:41.405Z>.
+<https://stad.gent/id/agent/670001369/2022-01-01T05:24:56.111Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001369>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:24:56.111Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1432_2, _:df_1432_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "baron van Aughem Albertus, baron Goeman";
+    <http://xmlns.com/foaf/0.1/givenName> "Albertus, baron";
+    <http://xmlns.com/foaf/0.1/familyName> "Goeman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goeman, Albertus, baron";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1432_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1352"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1432_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001369"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001369/2022-01-01T05:24:56.111Z>.
+<https://stad.gent/id/agent/670001370/2022-01-01T05:25:01.113Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001370>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:25:01.113Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1432_8, _:df_1432_10;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "weduwe";
+    <http://xmlns.com/foaf/0.1/familyName> "Goesin";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goesin, weduwe";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1432_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1353"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1432_8 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001370"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001370/2022-01-01T05:25:01.113Z>.
+<https://stad.gent/id/agent/670001371/2022-01-01T05:25:06.114Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001371>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:25:06.114Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1432_13, _:df_1432_15;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "Goetgebuer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goetgebuer";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1432_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1354"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1432_13 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001371"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001371/2022-01-01T05:25:06.114Z>.
+<https://stad.gent/id/agent/670001372/2022-01-01T05:25:11.115Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001372>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:25:11.115Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1432_20, _:df_1432_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joannes";
+    <http://xmlns.com/foaf/0.1/familyName> "Goetgebuer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goetgebuer, Joannes";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1432_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1355"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1432_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001372"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001372/2022-01-01T05:25:11.115Z>.
+<https://stad.gent/id/agent/670001373/2022-01-01T05:25:16.396Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001373>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:25:16.396Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1432_25, _:df_1432_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Susanne";
+    <http://xmlns.com/foaf/0.1/familyName> "Goetghebuer";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goetghebuer, Susanne";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1432_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1356"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1432_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001373"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001373/2022-01-01T05:25:16.396Z>.
+<https://stad.gent/id/agent/670001366/2022-01-01T05:24:41.107Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001366>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:24:41.107Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1435_12, _:df_1435_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "A.";
+    <http://xmlns.com/foaf/0.1/familyName> "Goem";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goem, A.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1435_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1349"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1435_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001366"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001366/2022-01-01T05:24:41.107Z>.
+<https://stad.gent/id/agent/670001367/2022-01-01T05:24:46.108Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001367>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:24:46.108Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1435_17, _:df_1435_19;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Ludovicus Franciscus";
+    <http://xmlns.com/foaf/0.1/familyName> "Goemaere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goemaere, Ludovicus Franciscus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1435_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1350"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1435_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001367"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001367/2022-01-01T05:24:46.108Z>.
+<https://stad.gent/id/agent/670001368/2022-01-01T05:24:51.110Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670001368>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T05:24:51.110Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1435_22, _:df_1435_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Anthone";
+    <http://xmlns.com/foaf/0.1/familyName> "Goeman";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Goeman, Anthone";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1435_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_1351"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1435_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670001368"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670001368/2022-01-01T05:24:51.110Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/goe.ttl> <https://w3id.org/tree#relation> _:df_1_1168.
+_:df_1_1168 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/goet.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "goet".
+<https://oliviervd.github.io/substrings_coghent/agents/goe.ttl> <https://w3id.org/tree#relation> _:df_1_1169.
+_:df_1_1169 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/goes.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "goes".
+<https://oliviervd.github.io/substrings_coghent/agents/goe.ttl> <https://w3id.org/tree#relation> _:df_1_1170.
+_:df_1_1170 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/goem.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "goem".
+<https://oliviervd.github.io/substrings_coghent/agents/goe.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/goe.ttl>.

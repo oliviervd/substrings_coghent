@@ -1,0 +1,31 @@
+<https://stad.gent/id/agent/530013380/2021-12-31T18:04:39.988Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530013380>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T18:04:39.988Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4051_16, _:df_4051_18;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4051_20;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Verilin";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4051_20 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1956"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/1026493>.
+<http://vocab.getty.edu/tgn/1026493> a <http://purl.org/dc/terms/Location>.
+_:df_4051_18 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01279"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4051_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530013380"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530013380/2021-12-31T18:04:39.988Z>.
+<https://stad.gent/id/agent/530000938/2021-12-31T16:42:01.772Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000938>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:42:01.772Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4531_2, _:df_4531_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Vérité";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4531_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00479"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4531_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000938"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000938/2021-12-31T16:42:01.772Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/veri.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/veri.ttl>.

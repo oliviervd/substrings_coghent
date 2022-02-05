@@ -1,0 +1,330 @@
+<https://stad.gent/id/agent/670000866/2022-01-01T04:42:59.566Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000866>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:42:59.566Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1732_2, _:df_1732_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "de Potter";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Potter, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1732_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0849"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1732_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000866"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000866/2022-01-01T04:42:59.566Z>.
+<https://stad.gent/id/agent/670000867/2022-01-01T04:43:04.568Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000867>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:43:04.568Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1732_7, _:df_1732_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "Charles Florent Idesbalde de Preud'homme d'Hailly(?)", "burggraaf van Nieuwpoort, kamerheer van de vorstin Idisbaldus, burggraaf de Preudhomme d'Hally";
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_1732_11;
+    <http://xmlns.com/foaf/0.1/givenName> "Idisbaldus, burggraaf";
+    <http://xmlns.com/foaf/0.1/familyName> "de Preudhomme d'Hally";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Preudhomme d'Hally, Idisbaldus, burggraaf";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1732_11 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1716"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+_:df_1732_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0850"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1732_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000867"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000867/2022-01-01T04:43:04.568Z>.
+<https://stad.gent/id/agent/670000868/2022-01-01T04:43:09.571Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000868>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:43:09.571Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1732_14, _:df_1732_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Lucas Ignatius";
+    <http://xmlns.com/foaf/0.1/familyName> "de Preut";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Preut, Lucas Ignatius";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1732_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0851"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1732_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000868"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000868/2022-01-01T04:43:09.571Z>.
+<https://stad.gent/id/agent/670000869/2022-01-01T04:43:14.573Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000869>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:43:14.573Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1732_22, _:df_1732_24;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Marie Catherine";
+    <http://xmlns.com/foaf/0.1/familyName> "de Pussemier";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Pussemier, Marie Catherine";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/FEMALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1732_24 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0852"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1732_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000869"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000869/2022-01-01T04:43:14.573Z>.
+<https://stad.gent/id/agent/670000870/2022-01-01T04:43:19.869Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000870>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:43:19.869Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1732_30, _:df_1732_32;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "de Puyst";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Puyst, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1732_32 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0853"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1732_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000870"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000870/2022-01-01T04:43:19.869Z>.
+<https://stad.gent/id/agent/670000861/2022-01-01T04:42:34.556Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000861>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:42:34.556Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1735_2, _:df_1735_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "de Potter";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Potter, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1735_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0844"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1735_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000861"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000861/2022-01-01T04:42:34.556Z>.
+<https://stad.gent/id/agent/670000862/2022-01-01T04:42:39.558Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000862>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:42:39.558Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1735_10, _:df_1735_12;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/familyName> "de Potter";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Potter";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1735_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0845"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1735_10 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000862"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000862/2022-01-01T04:42:39.558Z>.
+<https://stad.gent/id/agent/670000863/2022-01-01T04:42:44.560Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000863>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:42:44.560Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1735_14, _:df_1735_16;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Pieter";
+    <http://xmlns.com/foaf/0.1/familyName> "de Potter";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Potter, Pieter";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1735_16 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0846"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1735_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000863"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000863/2022-01-01T04:42:44.560Z>.
+<https://stad.gent/id/agent/670000864/2022-01-01T04:42:49.562Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000864>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:42:49.562Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1735_19, _:df_1735_21;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Guillaume";
+    <http://xmlns.com/foaf/0.1/familyName> "de Potter";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Potter, Guillaume";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1735_21 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0847"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1735_19 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000864"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000864/2022-01-01T04:42:49.562Z>.
+<https://stad.gent/id/agent/670000865/2022-01-01T04:42:54.564Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000865>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:42:54.564Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1735_27, _:df_1735_29;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <https://data.vlaanderen.be/ns/persoon#alternatieveNaam> "namens het Sint-Veerlekapittel Guillelmus Bernardus de Potter";
+    <http://xmlns.com/foaf/0.1/givenName> "Guillelmus Bernardus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Potter";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Potter, Guillelmus Bernardus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1735_29 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0848"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1735_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000865"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000865/2022-01-01T04:42:54.564Z>.
+<https://stad.gent/id/agent/670000856/2022-01-01T04:42:08.589Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000856>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:42:08.589Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1738_2, _:df_1738_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Livinus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Potter";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Potter, Livinus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1738_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0839"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1738_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000856"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000856/2022-01-01T04:42:08.589Z>.
+<https://stad.gent/id/agent/670000857/2022-01-01T04:42:13.592Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000857>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:42:13.592Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1738_7, _:df_1738_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Lieven";
+    <http://xmlns.com/foaf/0.1/familyName> "de Potter";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Potter, Lieven";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1738_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0840"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1738_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000857"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000857/2022-01-01T04:42:13.592Z>.
+<https://stad.gent/id/agent/670000858/2022-01-01T04:42:18.593Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000858>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:42:18.593Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1738_15, _:df_1738_17;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joseph";
+    <http://xmlns.com/foaf/0.1/familyName> "de Potter";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Potter, Joseph";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1738_17 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0841"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1738_15 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000858"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000858/2022-01-01T04:42:18.593Z>.
+<https://stad.gent/id/agent/670000859/2022-01-01T04:42:23.596Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000859>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:42:23.596Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1738_23, _:df_1738_25;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jean";
+    <http://xmlns.com/foaf/0.1/familyName> "de Potter";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Potter, Jean";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1738_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0842"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1738_23 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000859"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000859/2022-01-01T04:42:23.596Z>.
+<https://stad.gent/id/agent/670000860/2022-01-01T04:42:29.554Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000860>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:42:29.554Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1738_28, _:df_1738_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Philippe";
+    <http://xmlns.com/foaf/0.1/familyName> "de Potter";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Potter, Philippe";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1738_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0843"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1738_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000860"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000860/2022-01-01T04:42:29.554Z>.
+<https://stad.gent/id/agent/670000851/2022-01-01T04:41:43.573Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000851>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:41:43.573Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1741_2, _:df_1741_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "de Poorter";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Poorter, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1741_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0834"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1741_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000851"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000851/2022-01-01T04:41:43.573Z>.
+<https://stad.gent/id/agent/670000852/2022-01-01T04:41:48.577Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000852>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:41:48.577Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1741_7, _:df_1741_9;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Martinus Josephus";
+    <http://xmlns.com/foaf/0.1/familyName> "de Poortere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Poortere, Martinus Josephus";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1741_9 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0835"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1741_7 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000852"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000852/2022-01-01T04:41:48.577Z>.
+<https://stad.gent/id/agent/670000853/2022-01-01T04:41:53.580Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000853>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:41:53.580Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1741_12, _:df_1741_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Jan";
+    <http://xmlns.com/foaf/0.1/familyName> "de Poortere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Poortere, Jan";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1741_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0836"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1741_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000853"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000853/2022-01-01T04:41:53.580Z>.
+<https://stad.gent/id/agent/670000854/2022-01-01T04:41:58.582Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000854>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:41:58.582Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1741_20, _:df_1741_22;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Joos";
+    <http://xmlns.com/foaf/0.1/familyName> "de Poortere";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Poortere, Joos";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1741_22 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0837"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1741_20 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000854"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000854/2022-01-01T04:41:58.582Z>.
+<https://stad.gent/id/agent/670000855/2022-01-01T04:42:03.585Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/670000855>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2022-01-01T04:42:03.585Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_1741_25, _:df_1741_27;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q41776192>;
+    <http://xmlns.com/foaf/0.1/givenName> "Frans";
+    <http://xmlns.com/foaf/0.1/familyName> "de Portemos";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "de Portemos, Frans";
+    <https://data.vlaanderen.be/ns/persoon#geslacht> "http://publications.europa.eu/resource/authority/human-sex/MALE"^^<http://www.w3.org/2004/02/skos/core#Concept>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_1741_27 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "BH_0838"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_1741_25 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "670000855"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/670000855/2022-01-01T04:42:03.585Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/de+p.ttl> <https://w3id.org/tree#relation> _:df_1_833.
+_:df_1_833 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/de+pl.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "de", "pl".
+<https://oliviervd.github.io/substrings_coghent/agents/de+p.ttl> <https://w3id.org/tree#relation> _:df_1_834.
+_:df_1_834 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/de+po.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "de", "po".
+<https://oliviervd.github.io/substrings_coghent/agents/de+p.ttl> <https://w3id.org/tree#relation> _:df_1_835.
+_:df_1_835 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/de+pa.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "de", "pa".
+<https://oliviervd.github.io/substrings_coghent/agents/de+p.ttl> <https://w3id.org/tree#relation> _:df_1_836.
+_:df_1_836 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/de+pe.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "de", "pe".
+<https://oliviervd.github.io/substrings_coghent/agents/de+p.ttl> <https://w3id.org/tree#relation> _:df_1_837.
+_:df_1_837 a <https://w3id.org/tree#SubstringRelation>;
+    <https://w3id.org/tree#node> <https://oliviervd.github.io/substrings_coghent/agents/de+pr.ttl>;
+    <https://w3id.org/tree#path> <https://data.vlaanderen.be/ns/persoon#volledigeNaam>;
+    <https://w3id.org/tree#value> "de", "pr".
+<https://oliviervd.github.io/substrings_coghent/agents/de+p.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/de+p.ttl>.

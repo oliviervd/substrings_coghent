@@ -1,0 +1,33 @@
+<https://stad.gent/id/agent/530001806/2021-12-31T17:34:48.026Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530001806>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T17:34:48.026Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4156_28, _:df_4156_30;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4156_32;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Fontana Arte";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4156_32 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1881"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7005903>.
+<http://vocab.getty.edu/tgn/7005903> a <http://purl.org/dc/terms/Location>.
+_:df_4156_30 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-01107"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4156_28 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530001806"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530001806/2021-12-31T17:34:48.026Z>.
+<https://stad.gent/id/agent/530000624/2021-12-31T16:21:49.221Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000624>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:21:49.221Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4678_40, _:df_4678_42;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <http://xmlns.com/foaf/0.1/givenName> "A.C.";
+    <http://xmlns.com/foaf/0.1/familyName> "Fontani";
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Fontani, A.C.";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4678_42 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00238"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4678_40 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000624"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000624/2021-12-31T16:21:49.221Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/fon.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/fon.ttl>.

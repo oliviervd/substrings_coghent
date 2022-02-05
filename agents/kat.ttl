@@ -1,0 +1,42 @@
+<https://stad.gent/id/agent/530000986/2021-12-31T16:45:28.029Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000986>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:45:28.029Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4507_12, _:df_4507_14;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Kato Kaisuke Masaharu";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4507_14 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00520"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4507_12 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000986"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000986/2021-12-31T16:45:28.029Z>.
+<https://stad.gent/id/agent/530000515/2021-12-31T16:13:55.668Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/530000515>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T16:13:55.668Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4732_2, _:df_4732_4;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q1809071>;
+    <https://data.vlaanderen.be/ns/persoon#heeftGeboorte> _:df_4732_6;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Katoendrukkerij De Vos - Voortman";
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4732_6 a <https://data.vlaanderen.be/ns/persoon#Geboorte>;
+    <https://data.vlaanderen.be/ns/persoon#datum> "1790"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://data.vlaanderen.be/ns/persoon#plaats> <http://vocab.getty.edu/tgn/7007887>.
+<http://vocab.getty.edu/tgn/7007887> a <http://purl.org/dc/terms/Location>.
+_:df_4732_4 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "DMG-A-00144"^^<https://stad.gent/id/identificatiesysteem/referentienummer>.
+_:df_4732_2 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "530000515"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/530000515/2021-12-31T16:13:55.668Z>.
+<https://stad.gent/id/agent/470016584/2021-12-31T15:37:21.701Z> <http://purl.org/dc/terms/isVersionOf> <https://stad.gent/id/agent/470016584>;
+    <http://www.w3.org/ns/prov#generatedAtTime> "2021-12-31T15:37:21.701Z";
+    <http://www.w3.org/ns/adms#identifier> _:df_4831_5;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://stad.gent/id/conceptscheme/agent>;
+    <http://www.w3.org/ns/prov#wasAttributedTo> <http://www.wikidata.org/entity/Q2358158>;
+    <https://data.vlaanderen.be/ns/persoon#volledigeNaam> "Katholieke Universiteit Leuven";
+    <http://www.w3.org/2002/07/owl#sameAs> <https://www.wikidata.org/entity/Q833670>;
+    a <http://purl.org/dc/terms/Agent>.
+_:df_4831_5 a <http://www.w3.org/ns/adms#Identifier>;
+    <http://www.w3.org/2004/02/skos/core#notation> "470016584"^^<https://stad.gent/id/identificatiesysteem/priref>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <https://w3id.org/tree#member> <https://stad.gent/id/agent/470016584/2021-12-31T15:37:21.701Z>.
+<https://oliviervd.github.io/substrings_coghent/agents/kat.ttl> a <https://w3id.org/tree#Node>.
+<https://apidg.gent.be/opendata/adlib2eventstream/v1/adlib/personen> <http://rdfs.org/ns/void#subset> <https://oliviervd.github.io/substrings_coghent/agents/kat.ttl>.
